@@ -1,5 +1,7 @@
 site_name: GCES - É Fake
 site_description: Documentação do projeto É Fake
+site_url: https://gces-ehfake-fork.github.io/docs-interno/
+use_directory_urls: true
 
 # Repository
 repo_name: GCES-EhFake-Fork/docs-interno
