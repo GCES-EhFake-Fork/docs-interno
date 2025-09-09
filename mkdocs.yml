@@ -55,4 +55,11 @@ markdown_extensions:
 
 # Navigation
 nav:
-  - Home: index.md
+  - Geral:
+    - Comunidade Check-up: 
+      - Sobre: geral/check_up/index.md
+      - Políticas da comunidade: geral/check_up/politicas.md
+    - Comunidade RAG:
+      - Sobre: geral/rag/index.md
+  - Grupo - WebScrapping: grupo-webscrapping/index.md
+  - Grupo - IA: grupo-ia/index.md
