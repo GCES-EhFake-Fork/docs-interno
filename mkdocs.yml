@@ -19,6 +19,8 @@ theme:
     - search.share
     - toc.follow
     - content.code.copy
+    - content.tabs.link
+    - content.grid
   palette:
     - scheme: default
       primary: indigo
@@ -50,16 +52,25 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 
 # Navigation
 nav:
+  - Home: index.md
   - Geral:
     - Comunidade Check-up: 
       - Sobre: geral/check_up/index.md
       - Políticas da comunidade: geral/check_up/politicas.md
     - Comunidade RAG:
       - Sobre: geral/rag/index.md
+    - Templates:
+      - Relatório: geral/templates/template-relatorio.md
+      - Diário de bordo: geral/templates/diario-bordo.md
   - Grupo - WebScrapping: grupo-webscrapping/index.md
   - Grupo - IA: grupo-ia/index.md
