@@ -74,12 +74,12 @@ nav:
       - Sprint 0:
           - Relatório Sprint 0: grupo-webscrapping/sprint0/relatorioSprint0.md
           - Diários de Bordo:
-              - Eduardo Ferreira: grupo-webscrapping/sprint0/diarioEduardo.md
-              - Daniel Rodrigues: grupo-webscrapping/sprint0/diarioDaniel.md
-              - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
               - Alana: grupo-webscrapping/sprint0/diarioAlana.md
-              - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
               - Carlos Daniel: grupo-webscrapping/sprint0/diarioCarlos.md
-              - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
+              - Daniel Rodrigues: grupo-webscrapping/sprint0/diarioDaniel.md
+              - Eduardo Ferreira: grupo-webscrapping/sprint0/diarioEduardo.md
               - Felipe de Sousa: grupo-webscrapping/sprint0/diarioFelipe.md
+              - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
+              - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
+              - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
   - Grupo - IA: grupo-ia/index.md
