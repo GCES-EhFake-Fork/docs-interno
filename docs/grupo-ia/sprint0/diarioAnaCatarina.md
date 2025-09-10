@@ -19,7 +19,7 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 | 04/09 | Reconhecimento do projeto                   | Estudo                            | –               | Concluído |
 | 05/09 | Leitura e estudo da documentação do projeto | Estudo                            | [Documentação](https://github.com/GCES-EhFake-Fork/checkUp/blob/develop/README.md)               | Concluído |
 | 09/09 | Execução do projeto em ambiente local       | Código                            | -    | Concluído |
-| 09/09 | Contribuição com a docs do grupo     | Código                         | [Pull Request]()   | Concluído |
+| 09/09 | Contribuição com a docs do grupo     | Código                         | [Pull Request](https://github.com/GCES-EhFake-Fork/docs-interno/pull/5)   | Concluído |
 
 ### Maiores Avanços
 
@@ -40,4 +40,5 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 * [ ] Contribuir na seleção de issues a serem feitas;
 * [ ] Corrigir 1 Pull Request;
+
 * [ ] Dar início aos testes para entender a IA;
