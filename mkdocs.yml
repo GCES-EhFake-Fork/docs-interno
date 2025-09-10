@@ -19,6 +19,8 @@ theme:
     - search.share
     - toc.follow
     - content.code.copy
+    - content.tabs.link
+    - content.grid
   palette:
     - scheme: default
       primary: indigo
@@ -50,11 +52,17 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: true
 
 # Navigation
 nav:
+  - Home: index.md
   - Geral:
     - Comunidade Check-up: 
         - Sobre: geral/check_up/index.md
