@@ -1,12 +1,12 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – Luciano de Freitas
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** Gerência e Configuração de Software  
+**Equipe:** WebScrapping  
+**Comunidade/Projeto de Software Livre:** É Fake  
 
 ---
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 0 – 01/09 - 10/09
 
 ### Resumo da Sprint
 
@@ -16,66 +16,27 @@ Breve descrição das atividades e reflexões.
 
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| 08/09 | Leitura e estudo docs da comunidade            | Doc                            | [link do docs](https://github.com/GCES-EhFake-Fork/docs-interno)              | Concluído |
+| 09/09 | Configuração da documentação interna da equipe | Doc                            | [Commit](https://github.com/GCES-EhFake-Fork/docs-interno/commit/b7723a9994c10133bc0295a7cef5dc8548aa0f28)   | Concluído |
+| 09/09 | Contribuição na documentação de politicas da comunidade Check-up      | Doc                         | [Commit](https://github.com/GCES-EhFake-Fork/docs-interno/commit/0c56d36457879a11609097a185cca915c053d18b)   | Concluído |
+| 09/09 | Configuração do ambiente local para o projeto Check-up | Código | | Pendente |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+* Aprendi a estrutura do código do Check-up.
+* Entendi a organização e políticas do repositório.
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+* A configuração de ambiente deu vários erros de permissão de pastas e configuração do docker.
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+* Estrutura do projeto Check-up.
+
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
-
----
-
-## Sprint 2 – \[Data início – Data fim]
-
-### Resumo da Sprint
-
-Breve descrição.
-
-### Atividades Realizadas
-
-| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
-| ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
-
-### Maiores Avanços
-
-* \[Exemplo] Primeiro PR aceito pela comunidade.
-
-### Maiores Dificuldades
-
-* Dificuldade com testes automatizados.
-
-### Aprendizados
-
-* Melhoria no uso de Git (branches, rebase).
-* Importância de escrever commits claros.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
-
----
-
-## Sprint 3 – \[Data início – Data fim]
-
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+* [ ] Resolver problemas de configuração do ambiente local.
+* [ ] Contribuir com pelo menos 1 PR para a comunidade Check-up.
+* [ ] Revisar documentação interna da equipe.
