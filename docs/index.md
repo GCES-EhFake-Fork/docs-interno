@@ -18,14 +18,6 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
     [:octicons-arrow-right-24: Saiba mais](geral/check_up/index.md)
 
--   :material-database-search: __Comunidade RAG__
-
-    ---
-
-    Conheça nossa abordagem de Retrieval-Augmented Generation para verificação de fatos.
-
-    [:octicons-arrow-right-24: Saiba mais](geral/rag/index.md)
-
 -   :material-web: __Grupo WebScrapping__
 
     ---
@@ -34,13 +26,6 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
     [:octicons-arrow-right-24: Saiba mais](grupo-webscrapping/index.md)
 
--   :material-brain: __Grupo IA__
-
-    ---
-
-    Conheça nossas soluções de Inteligência Artificial.
-
-    [:octicons-arrow-right-24: Saiba mais](grupo-ia/index.md)
 
 </div>
 
