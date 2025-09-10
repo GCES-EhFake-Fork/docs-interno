@@ -2,11 +2,20 @@
 
 ## Governança
 
-**Modelo de governança:**
+A comunidade **EH FAKE** possui uma estrutura de governança simplificada, com um único mantenedor principal:
 
-**Principais Mantenedores:**
+**🔧 Mantenedor Principal:**
 
-**Processo de tomada de decisões:**
+- **Leonardo Lago Moreno** ([lelamo2002](https://github.com/lelamo2002))
+
+### Estrutura de Governança
+
+Atualmente, **não há papéis formalmente definidos** na governança da comunidade. O projeto adota um modelo colaborativo onde:
+
+- O mantenedor principal possui responsabilidades de supervisão geral
+- Os membros contribuidores agora terão **acesso direto ao repositório base** (sem necessidade de fork para contribuições)
+- Decisões técnicas são tomadas de forma colaborativa através de discussões em issues e pull requests
+- A comunidade está em processo de crescimento e formalização de estruturas organizacionais
 
 ### Organização do Código
 
