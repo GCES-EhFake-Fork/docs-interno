@@ -16,15 +16,7 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
     Acesse informações sobre a comunidade responsável pela verificação de conteúdo.
 
-    [:octicons-arrow-right-24: Saiba mais](geral/check_up/index.md)
-
--   :material-database-search: __Comunidade RAG__
-
-    ---
-
-    Conheça nossa abordagem de Retrieval-Augmented Generation para verificação de fatos.
-
-    [:octicons-arrow-right-24: Saiba mais](geral/rag/index.md)
+    [:octicons-arrow-right-24: Saiba mais](check-up/index.md)
 
 -   :material-web: __Grupo WebScrapping__
 
@@ -32,15 +24,8 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
     Entenda como coletamos e analisamos informações da web.
 
-    [:octicons-arrow-right-24: Saiba mais](grupo-webscrapping/index.md)
+    [:octicons-arrow-right-24: Saiba mais](sprints/sprint0.md)
 
--   :material-brain: __Grupo IA__
-
-    ---
-
-    Conheça nossas soluções de Inteligência Artificial.
-
-    [:octicons-arrow-right-24: Saiba mais](grupo-ia/index.md)
 
 </div>
 

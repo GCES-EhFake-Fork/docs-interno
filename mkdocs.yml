@@ -63,30 +63,20 @@ markdown_extensions:
 # Navigation
 nav:
   - Home: index.md
-  - Geral:
-      - Comunidade Check-up:
-          - Sobre: geral/check_up/index.md
-          - Políticas da comunidade: geral/check_up/politicas.md
-      - Comunidade RAG:
-          - Sobre: geral/rag/index.md
-  - Grupo - WebScrapping:
-      - Sobre: grupo-webscrapping/index.md
-      - Sprint 0:
-          - Relatório Sprint 0: grupo-webscrapping/sprint0/relatorioSprint0.md
-          - Diários de Bordo:
-              - Alana Gabriele: grupo-webscrapping/sprint0/diarioAlana.md
-              - Carlos Daniel: grupo-webscrapping/sprint0/diarioCarlos.md
-              - Daniel Rodrigues: grupo-webscrapping/sprint0/diarioDaniel.md
-              - Eduardo Ferreira: grupo-webscrapping/sprint0/diarioEduardo.md
-              - Felipe de Sousa: grupo-webscrapping/sprint0/diarioFelipe.md
-              - Gabriel Monteiro: grupo-webscrapping/sprint0/diarioGabriel.md
-              - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
-              - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
-              - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
-  - Grupo - IA:
-      - Sobre: grupo-ia/index.md
-      - Sprint 0:
-          - Relatório Sprint 0: grupo-ia/sprint0/relatorioSprint0.md
-          - Diários de Bordo:
-              - Pedro Ferreira: grupo-ia/sprint0/diarioPedroFerreira.md
-              - Ana Catarina Santos: grupo-ia/sprint0/diarioAnaCatarina.md
+  - Comunidade Check-up:
+    - Sobre: check-up/index.md
+    - Políticas da Comunidade: check-up/politicas.md
+  - Relatórios de Sprint:
+      - Sprint 0: sprints/sprint0.md
+      - Diários de Bordo:
+          - Alana Gabriele: diarios/diarioAlana.md
+          - Ana Catarina: diarios/diarioAnaCatarina.md
+          - Carlos Daniel: diarios/diarioCarlos.md
+          - Daniel Rodrigues: diarios/diarioDaniel.md
+          - Eduardo Ferreira: diarios/diarioEduardo.md
+          - Felipe de Sousa: diarios/diarioFelipe.md
+          - Gabriel Monteiro: diarios/diarioGabriel.md
+          - Lua Medeiros: diarios/diarioLua.md
+          - Luciano: diarios/diarioLuciano.md
+          - Pedro Ferreira: diarios/diarioPedroFerreira.md
+          - Pedro Henrique: diarios/diarioPedro.md

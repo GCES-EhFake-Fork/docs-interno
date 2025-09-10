@@ -40,5 +40,4 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 * [ ] Contribuir na seleção de issues a serem feitas;
 * [ ] Corrigir 1 Pull Request;
-
 * [ ] Dar início aos testes para entender a IA;
