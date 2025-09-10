@@ -1,18 +1,24 @@
 
-# 📝 Relatório de Contribuição – Sprint X
+# 📝 Relatório de Contribuição – Sprint 0
 
 **Disciplina:** Gestão de Configuração e Evolução de Software
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
-**Período da Sprint:** \[Data início – Data fim]
+**Equipe:** EH-FAKE
+**Comunidade/Projeto de Software Livre:** EH-FAKE
+**Período da Sprint:** 02/09/2025 à 10/09/2025
 
 ---
 
 ## 1. Objetivos da Sprint
 
-* [ ] Objetivo 1 planejado
-* [ ] Objetivo 2 planejado
-* [ ] Objetivo 3 planejado
+* [ ] Fork do repositório base
+* [ ] Criação do repositório de documentação da equipe
+* Defnição de Políticas e Gerenciamento do Software
+  * Guia de Contribuição
+    * [ ] Política de Branch
+    * [ ] Política de Commits
+    * [ ] Política de Pull Request
+* [ ] Criação do Código de Conduta
+* [ ] Configuração do Ambiente e Documentação dos Aprendizados
 
 ---
 
@@ -20,9 +26,10 @@
 
 | Entrega             | Status (Concluído/Parcial/Pendente) | Link/Referência        | Observações                       |
 | ------------------- | ----------------------------------- | ---------------------- | --------------------------------- |
-| \[Funcionalidade X] | Concluído                           | \[link para PR/issue]  | Impacto na comunidade             |
-| \[Documento Y]      | Parcial                             | \[link para wiki/repo] | Necessita revisão                 |
-| \[Teste Z]          | Pendente                            | –                      | Bloqueado por dependência externa |
+| Fork do Repositório base               | Concluído | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)  |              |
+| Criação do Repositório de Documentação | Concluído | [Repositório](https://github.com/GCES-EhFake-Fork/docs-interno) |                  |
+| Criação do Guia de Contribuição        | Concluído | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4)                      |  |
+| Criação do Código de Conduta           | Concluído | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4)                      |  |
 
 ---
 
@@ -30,9 +37,15 @@
 
 | Integrante | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
 | ---------- | ----------------------------------------- | ------------------------- | ----------- |
-| Nome 1     | Implementou \[feature], abriu \[X issues] | \[link PR] \[link issue]  |             |
-| Nome 2     | Revisou PRs, documentou \[tópico]         | \[link doc]               |             |
-| Nome 3     | Desenvolveu script de automação           | \[link repo]              |             |
+| Alana      |                                           |                           |             |
+| Carlos     |                                           |                           |             |
+| Daniel     |                                           |                           |             |
+| Eduardo    |                                           |                           |             |
+| Felipe     |                                           |                           |             |
+| Lua        |                                           |                           |             |
+| Luciano    |                                           |                           |             |
+| Pedro      |                                           |                           |             |
+
 
 ---
 
@@ -40,8 +53,7 @@
 
 ✨ **Destaques da Sprint:**
 
-* \[Exemplo] Integração bem-sucedida de novo módulo no projeto principal.
-* \[Exemplo] Equipe estabeleceu fluxo de contribuição alinhado às práticas da comunidade.
+* O projeto foi configurado localmente pelos membros.
 
 ---
 
@@ -49,21 +61,21 @@
 
 **Principais desafios enfrentados:**
 
-* \[Exemplo] Barreiras de comunicação com mantenedores da comunidade.
-* \[Exemplo] Dificuldade técnica em compreender dependência \[X].
-* \[Exemplo] Problemas de coordenação de tempo entre membros.
+* Demora em entender a estrutura de repositórios do projeto;
+* Falta de comunicação entre equipe;
+* Falta de documentação dos repositórios envolvendo a parte de IA.
 
 ---
 
 ## 6. Lições Aprendidas
 
-* \[Exemplo] Importância de abrir issues detalhadas para facilitar revisão.
-* \[Exemplo] Planejamento coletivo ajudou a reduzir retrabalho.
+* Padronizar o fluxo de contribuição é importante para que todos tenham o mesmo entendimento do que foi feito;
 
 ---
 
 ## 7. Planejamento para a Próxima Sprint
 
-* [ ] Implementar \[funcionalidade]
-* [ ] Ampliar cobertura de testes
-* [ ] Melhorar documentação do processo de contribuição
+* [ ] Selecionar jornais para iniciar o web strapping;
+* [ ] Realizar o primeiro Pull Request;
+* [ ] Melhorar documentação da equipe no que tange interface e índices.
+* [ ] Prosseguir com a documentação de diários de bordo e aprendizagem;

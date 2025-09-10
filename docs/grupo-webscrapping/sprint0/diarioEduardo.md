@@ -33,20 +33,20 @@ Esta sprint focou na compreensão inicial dos projetos Check-up (extração de c
 *   Identificação dos pré-requisitos e do processo de setup do ambiente via Docker e `make setup` para o projeto de código, e MkDocs para a documentação.
 
 
-## Maiores Dificuldades
+### Maiores Dificuldades
 
 *   A documentação não detalha explicitamente a organização da equipe em termos de papéis específicos ou a existência de uma gitpage dedicada, exigindo inferência a partir das práticas de contribuição e da estrutura dos repositórios.
 *   A ausência de menção a canais de comunicação externos (chat, fóruns) exigiu a suposição de que a comunicação é centralizada no GitHub e através da documentação.
 *   Dificuldade inicial em entender onde trabalhar as contribuições, confundi com o RAG no GitLab, mas depois esclarecido que o foco é no GitHub.
 
-## Aprendizados
+### Aprendizados
 
 *   A importância de uma documentação clara e abrangente para projetos de código aberto, especialmente para a configuração do ambiente e o fluxo de contribuição, e como ela complementa o próprio código.
 *   O valor de ferramentas como Docker, `Makefile` e MkDocs para simplificar o setup e automatizar tarefas complexas em projetos de software e documentação.
 *   A relevância de padrões de código (Git Flow, Conventional Commits) e processos de revisão (PRs obrigatórios), juntamente com um Código de Conduta, para garantir a qualidade, a colaboração e um ambiente saudável em equipes de desenvolvimento.
 
 
-## Plano Pessoal para a Próxima Sprint
+### Plano Pessoal para a Próxima Sprint
 
 * [ ] Aprofundar na estrutura dos spiders e plays, talvez implementando um spider/play simples para um novo portal de notícias no repositório `check-up`.
 * [ ] Se necessário, contribuir com melhorias na documentação, especialmente em áreas que possam beneficiar novos colaboradores.
