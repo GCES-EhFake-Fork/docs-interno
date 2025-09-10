@@ -1,81 +1,47 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – Alana Gabriele
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** Gerência e Configuração de Software
+
+**Equipe:** WebScrapping
+
+**Comunidade/Projeto de Software Livre:** Check-up
 
 ---
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 0 – 02/09 - 10/09
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+Esta sprint foi dedicada à ambientação no projeto, com foco em conhecer e rodar o projeto.
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| Data       | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                      | Status    |
+| ---------- | ----------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------- | --------- |
+| 08/09/2025 | Leitura e estudo da documentação do projeto                 | Estudo                            | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md) | Concluído |
+| 09/09/2025 | Clonagem do fork e preparação do repositório local          | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)           | Concluído |
+| 09/09/2025 | Execução do projeto em ambiente local                       | Código                            | –                                                                    | Concluído |
+| 09/09/2025 | Execução dos scripts prontos de scraping para testes locais | Código/Teste                      | –                                                                    | Concluído |
+| 10/09/2025 | Revisão de Pull Request na documentação da equipe           | Revisão/Doc                       | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13)    | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+- Consegui rodar a aplicação localmente.
+- Entendi melhor a organização do repositório e da documentação.
+- Validei o scraping executando rotinas e comandos básicos localmente.
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+- Ambientação inicial
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+- Fluxo de contribuição do projeto (Issues, PRs e Code Review).
+- Passos para executar o projeto localmente.
+- Noções iniciais de scraping do projeto.
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
-
----
-
-## Sprint 2 – \[Data início – Data fim]
-
-### Resumo da Sprint
-
-Breve descrição.
-
-### Atividades Realizadas
-
-| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
-| ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
-
-### Maiores Avanços
-
-* \[Exemplo] Primeiro PR aceito pela comunidade.
-
-### Maiores Dificuldades
-
-* Dificuldade com testes automatizados.
-
-### Aprendizados
-
-* Melhoria no uso de Git (branches, rebase).
-* Importância de escrever commits claros.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
-
----
-
-## Sprint 3 – \[Data início – Data fim]
-
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+- [ ] Escolher um jornal para início do WebScrapping;
+- [ ] Entender melhor o guia de Contribuição
+- [ ] Participar com a revisão de 1 PR da equipe;
