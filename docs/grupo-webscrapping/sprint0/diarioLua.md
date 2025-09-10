@@ -1,10 +1,54 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – Luana Medeiros
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** Gerência de Configuração e Evolução de Software
+
+**Equipe:** WebScrapping
+
+**Comunidade/Projeto de Software Livre:** Check-up
+
 
 ---
+## Sprint 0 – 02/09/2025 - 10/09/2025
+
+### Resumo da Sprint
+
+Nesta sprint, o foco esteve no reconhecimento inicial do projeto, por meio da leitura da documentação e análise dos repositórios no GitHub. Foram realizadas atividades de configuração do ambiente, estudo das políticas de governança, comunicação e engenharia de software, além da contribuição para a documentação da equipe. O objetivo principal foi estabelecer uma base de conhecimento sólida sobre os projetos e seu funcionamento, de forma a preparar terreno para contribuições mais efetivas nas próximas etapas da disciplina.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 06/09 | Leitura da Documentação do projeto Base     | Estudo/Ambientação                | [Docs](https://eh-fake.github.io/docs/land/index.html)                                                                                                       | Concluído |
+| 06/09 | Leitura do `README.md` do Projeto Base      | Estudo/Ambientação                | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                                                                         | Concluído |
+| 08/09 | Clonagem do Fork do Repositório             | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído | 
+| 08/09 - 09/09 | Configuração do Ambiente Local              |  Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)     | Concluído |
+| 09/09 | Execução de comandos de scrapping para teste| Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
+| 10/09 | Criação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioLua.md)                                                                 | Concluído |
+
+
+### Maiores Avanços
+
+* Aprendi a rodar a aplicação e configurar o ambiente.
+* Entendi a arquitetura dos projetos Check-up e EhFake.
+* Conheci as regras de contribuição.
+* Compreendi as formas de contribuição na disciplina.
+
+### Maiores Dificuldades
+
+* Entender a arquitetura e os objetivos do projeto.
+* Dificuldade em se situar e compreender a forma de contribuição.
+* Pouco tempo para absorver a complexidade e as regras do projeto.
+
+### Aprendizados
+
+* Uso básico de GitHub Issues.
+* Fluxo de contribuição do projeto.
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Contribuir com pelo menos 1 PR.
+* [ ] Participar da revisão de código de um colega.
+
 
 ## Sprint 1 – \[Data início – Data fim]
 
