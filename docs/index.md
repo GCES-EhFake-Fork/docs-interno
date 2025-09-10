@@ -38,7 +38,7 @@ Para contribuir com a documentação, consulte o [repositório no GitHub](https:
 
 ## Equipe
 
-A equipe é composta por 11 membros ao todo trabalhando no Web Scrapping, afim de documentar o projeto, além de resolver bugs e incrementar o projeto com novas funcionalidades.
+A equipe é composta por 12 membros ao todo trabalhando no Web Scrapping, afim de documentar o projeto, além de resolver bugs e incrementar o projeto com novas funcionalidades.
 
 <div  style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 2em; gap: 2em">
 
