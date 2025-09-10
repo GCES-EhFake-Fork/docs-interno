@@ -64,8 +64,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Comunidade Check-up:
-    - Sobre: geral/check_up/index.md
-    - Políticas da Comunidade: geral/check_up/politicas.md
+    - Sobre: geral/index.md
+    - Políticas da Comunidade: geral/politicas.md
   - Grupo - WebScrapping:
       - Sobre: grupo-webscrapping/index.md
       - Sprint 0:

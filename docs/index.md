@@ -16,7 +16,7 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
     Acesse informações sobre a comunidade responsável pela verificação de conteúdo.
 
-    [:octicons-arrow-right-24: Saiba mais](geral/check_up/index.md)
+    [:octicons-arrow-right-24: Saiba mais](geral/index.md)
 
 -   :material-web: __Grupo WebScrapping__
 
