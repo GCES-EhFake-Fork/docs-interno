@@ -1,7 +1,7 @@
 # Diário de Bordo – Ana Catarina Santos
 
 **Disciplina:** Gerência de Configuração e Evolução de Software  
-**Equipe:** Agentes de IA  
+**Equipe:**  WebScrapping
 **Comunidade/Projeto de Software Livre:** Check-up  
 
 ---
@@ -27,14 +27,13 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 ### Maiores Dificuldades
 
-* Entendimento inicial da arquitetura e objetivo do projeto, projeto grande com várias regras de negócio aplicadas;
-* Entender onde a IA/LLM está localizada e como se conecta com os spiders que fazem a coleta;
+* Entendimento inicial da arquitetura e objetivo do projeto;
+* Entender o funcionamento dos spiders e a implementação deles;
 
 ### Aprendizados
 
 * Regras de contribuição do projeto;
 * Estrutura do projeto;
-* Funcionamento da IA;
 
 ### Plano Pessoal para a Próxima Sprint
 

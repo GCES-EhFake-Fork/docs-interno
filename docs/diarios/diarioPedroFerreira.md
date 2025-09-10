@@ -1,7 +1,7 @@
-# Diário de Bordo – Pedro Henrique dos Santos Ferreira
+# Diário de Bordo – Pedro Henrique dos Santos Ferreira 
 
 *Disciplina:* Gerência de Configuração e Evolução de Software  
-*Equipe:* Agentes de IA  
+*Equipe:* Webscrapping  
 *Comunidade/Projeto de Software Livre:* Check-up  
 
 ---
@@ -16,28 +16,27 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 05/09 | Reconhecimento do projeto                   | Estudo                            | –               | Concluído |
+| 04/09 | Reconhecimento do projeto                   | Estudo                            | –               | Concluído |
 | 05/09 | Leitura e estudo da documentação do projeto | Estudo                            | [Documentação](https://github.com/GCES-EhFake-Fork/checkUp/blob/develop/README.md)               | Concluído |
 | 09/09 | Execução do projeto em ambiente local       | Código                            | -    | Concluído |
-| 09/09 | Contribuição com a docs do grupo     | Código                         | [Pull Request]()   | Concluído |
+| 09/09 | Contribuição com a docs do grupo     | Código                         | [Pull Request](https://github.com/GCES-EhFake-Fork/docs-interno/pull/7)   | Concluído |
 
 ### Maiores Avanços
 
-* Excução da aplicação localmente 
-* Aprendizado da estrutura e funcionamento do projeto
+* Aprendizado da estrutura e funcionamento do projeto;
 
 ### Maiores Dificuldades
 
-* Entendimento inicial da arquitetura e objetivo do projeto, projeto grande com várias regras de negócio aplicadas;
-* Identificação de onde a IA/LLM está localizada e como se integra com o restante do projeto;
+* Entendimento inicial da arquitetura e objetivo do projeto.
+* A ideia inicial era dividir o grupo em duas frentes: uma voltada para o webscraping e outra para o agente de IA. No entanto, após análise do projeto e conversas com o meta coach, percebemos que não haveria necessidade de uma equipe dedicada ao agente de IA. Dessa forma, seguimos a sugestão do meta coach e focamos exclusivamente na parte de webscraping.
 
 ### Aprendizados
 
 * Regras de contribuição do projeto;
 * Estrutura do projeto;
+* Funcionamento do webscrapping;
 
 ### Plano Pessoal para a Próxima Sprint
 
 * [ ] Contribuir na seleção de issues a serem feitas;
 * [ ] Corrigir 1 Pull Request;
-* [ ] Dar início aos testes para entender mais sobre a parte de IA;
