@@ -40,6 +40,7 @@
 | Alana      |                                           |                           |             |
 | Carlos     |                                           |                           |             |
 | Daniel     |                                           |                           |             |
+| Eduardo    |                                           |                           |             |
 | Felipe     |                                           |                           |             |
 | Lua        |                                           |                           |             |
 | Luciano    |                                           |                           |             |

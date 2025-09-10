@@ -82,4 +82,10 @@ nav:
               - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
               - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
               - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
-  - Grupo - IA: grupo-ia/index.md
+  - Grupo - IA:
+      - Sobre: grupo-ia/index.md
+      - Sprint 0:
+        - Relatório Sprint 0: grupo-ia/sprint0/relatorioSprint0.md
+        - Diários de Bordo:
+          - Pedro Ferreira: grupo-ia/sprint0/diarioPedroFerreira.md
+          - Ana Catarina Santos: grupo-ia/sprint0/diarioAnaCatarina.md
