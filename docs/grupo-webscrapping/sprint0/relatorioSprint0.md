@@ -39,7 +39,7 @@
 | ---------- | ----------------------------------------- | ------------------------- | ----------- |
 | Alana      |                                           |                           |             |
 | Carlos     |                                           |                           |             |
-| Daniel     |                                           |                           |             |
+| Daniel     | Fork do Projeto, Criação do Repositório de Documentação, Guia de Contribuição, Código de Conduta, Relatório da Sprint 0, Revisão de PR, Diário de Bordo             | [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3), [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                                     |                                         |
 | Eduardo    |                                           |                           |             |
 | Felipe     |                                           |                           |             |
 | Lua        |                                           |                           |             |
