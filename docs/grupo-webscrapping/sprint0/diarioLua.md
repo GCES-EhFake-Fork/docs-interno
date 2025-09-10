@@ -19,11 +19,11 @@ Nesta sprint, o foco esteve no reconhecimento inicial do projeto, por meio da le
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
 | 06/09 | Leitura da Documentação do projeto Base     | Estudo/Ambientação                | [Docs](https://eh-fake.github.io/docs/land/index.html)                                                                                                       | Concluído |
-| 07/09 | Leitura do `README.md` do Projeto Base      | Estudo/Ambientação                | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                                                                         | Concluído |
-| 09/09 | Configuração do Ambiente Local              | Configuração                      |                 | Concluído |
-| 09/09 | Clonagem do Fork do Repositório             | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
+| 06/09 | Leitura do `README.md` do Projeto Base      | Estudo/Ambientação                | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                                                                         | Concluído |
+| 08/09 | Clonagem do Fork do Repositório             | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído | 
+| 08/09 - 09/09 | Configuração do Ambiente Local              |  Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)     | Concluído |
 | 09/09 | Execução de comandos de scrapping para teste| Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
-| 10/09 | Documentação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioLua.md)                                                                 | Concluído |
+| 10/09 | Criação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioLua.md)                                                                 | Concluído |
 
 
 ### Maiores Avanços
