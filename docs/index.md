@@ -10,22 +10,21 @@ O projeto É Fake tem como objetivo desenvolver soluções para identificação 
 
 <div class="grid cards" markdown>
 
--   :material-check-circle-outline: __Comunidade Check-up__
+- :material-check-circle-outline: **Comunidade Check-up**
 
-    ---
+  ***
 
-    Acesse informações sobre a comunidade responsável pela verificação de conteúdo.
+  Acesse informações sobre a comunidade responsável pela verificação de conteúdo.
 
-    [:octicons-arrow-right-24: Saiba mais](check-up/index.md)
+  [:octicons-arrow-right-24: Saiba mais](check-up/index.md)
 
--   :material-web: __Grupo WebScrapping__
+- :material-web: **Grupo WebScrapping**
 
-    ---
+  ***
 
-    Entenda como coletamos e analisamos informações da web.
+  Entenda como coletamos e analisamos informações da web.
 
-    [:octicons-arrow-right-24: Saiba mais](sprints/sprint0.md)
-
+  [:octicons-arrow-right-24: Saiba mais](sprints/sprint0.md)
 
 </div>
 
@@ -44,84 +43,84 @@ A equipe é composta por 11 membros ao todo trabalhando no Web Scrapping, afim d
 <div  style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 2em; gap: 2em">
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/an4catarina?v=4"/>
     </div>
     <label>Ana Catarina</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/pedro-hsf?v=4"/>
     </div>
     <label>Pedro Ferreira</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/alanagabriele?v=4"/>
     </div>
     <label>Alana</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/CDGodoy?v=4"/>
     </div>
     <label>Carlos</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/DanielRogs?v=4"/>
     </div>
     <label>Daniel</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/eduardoferre?v=4"/>
     </div>
     <label>Eduardo</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/fsousac?v=4"/>
     </div>
     <label>Felipe</label>
   </div>
 
 <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-        <div style="width: 200px; height: 200px">
+        <div style="width: 150px; height: 150px">
         <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/GabrielSMonteiro?v=4"/>
         </div>
         <label>Gabriel Monteiro</label>
   </div>
 
 <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/LuaMedeiros?v=4"/>
     </div>
     <label>Luana</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/luciano-freitas-melo?v=4"/>
     </div>
     <label>Luciano</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/314dro?v=4"/>
     </div>
     <label>Pedro</label>
   </div>
 
   <div  style="display: flex; flex-direction: column; align-items: center; margin-bottom: 2em">
-    <div style="width: 200px; height: 200px">
+    <div style="width: 150px; height: 150px">
       <img style="border-radius: 50%; border: 3px solid #3f6ec6" src="https://avatars.githubusercontent.com/Yagoas?v=4"/>
     </div>
     <label>Yago</label>
