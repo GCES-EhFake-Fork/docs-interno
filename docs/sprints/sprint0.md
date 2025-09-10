@@ -1,4 +1,3 @@
-
 # 📝 Relatório de Contribuição – Sprint 0
 
 **Disciplina:** Gestão de Configuração e Evolução de Software
@@ -24,30 +23,29 @@
 
 ## 2. Entregas Coletivas
 
-| Entrega             | Status (Concluído/Parcial/Pendente) | Link/Referência        | Observações                       |
-| ------------------- | ----------------------------------- | ---------------------- | --------------------------------- |
-| Fork do Repositório base               | Concluído | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)  |              |
-| Criação do Repositório de Documentação | Concluído | [Repositório](https://github.com/GCES-EhFake-Fork/docs-interno) |                  |
-| Criação do Guia de Contribuição        | Concluído | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4)                      |  |
-| Criação do Código de Conduta           | Concluído | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4)                      |  |
+| Entrega                                | Status (Concluído/Parcial/Pendente) | Link/Referência                                                 | Observações |
+| -------------------------------------- | ----------------------------------- | --------------------------------------------------------------- | ----------- |
+| Fork do Repositório base               | Concluído                           | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)      |             |
+| Criação do Repositório de Documentação | Concluído                           | [Repositório](https://github.com/GCES-EhFake-Fork/docs-interno) |             |
+| Criação do Guia de Contribuição        | Concluído                           | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4) |             |
+| Criação do Código de Conduta           | Concluído                           | [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4) |             |
 
 ---
 
 ## 3. Contribuições Individuais
 
-| Integrante     | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
-| -------------- | ----------------------------------------- | ------------------------- | ----------- |
-| Alana          |                                           |                           |             |
-| Ana            | Fork do projeto, Revisão de PR e diário de bordo                                          |[PR#5](https://github.com/GCES-EhFake-Fork/docs-interno/pull/5), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                      |             |
-| Carlos         | Criação da página inicial do projeto, Revisão de PR                              |       [PR#2](https://github.com/GCES-EhFake-Fork/docs-interno/pull/2), [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3)                   |             |
-| Daniel         | Fork do Projeto, Criação do Repositório de Documentação, Guia de Contribuição, Código de Conduta, Relatório da Sprint 0, Revisão de PR, Diário de Bordo             | [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3), [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                                     |                                         |
-| Eduardo        | Criação da estrutura de arquivos da Sprint 0, Diário de Bordo Individual e revisão de PR                      |     [Commit](https://github.com/GCES-EhFake-Fork/docs-interno/commit/fb46aa7414b99f0c8a4d898c421a7d6fa4c62cd0), [PR#6](https://github.com/GCES-EhFake-Fork/docs-interno/pull/6), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                 |             |
-| Felipe         |                                           |                           |             |
-| Lua            |                                           |                           |             |
-| Luciano        |                                           |                           |             |
-| Pedro Ferreira | Fork do projeto, Revisão de PR e diário de bordo                                          | [PR#7](https://github.com/GCES-EhFake-Fork/docs-interno/pull/7), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                          |             |
-| Yago | Fork do projeto, Revisão de PR e diário de bordo                                          | [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20)                          |             |
-
+| Integrante     | Contribuições                                                                                                                                           | Links (PRs, Issues, Docs)                                                                                                                                                                                                                    | Observações |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Alana          | Fork do projeto, Revisão de PR e diário de bordo                                                                                                        | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13), [PR#17](https://github.com/GCES-EhFake-Fork/docs-interno/pull/17), [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20)                                      |             |
+| Ana            | Fork do projeto, Revisão de PR e diário de bordo                                                                                                        | [PR#5](https://github.com/GCES-EhFake-Fork/docs-interno/pull/5), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                                                                                                           |             |
+| Carlos         | Criação da página inicial do projeto, Revisão de PR                                                                                                     | [PR#2](https://github.com/GCES-EhFake-Fork/docs-interno/pull/2), [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3)                                                                                                             |             |
+| Daniel         | Fork do Projeto, Criação do Repositório de Documentação, Guia de Contribuição, Código de Conduta, Relatório da Sprint 0, Revisão de PR, Diário de Bordo | [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3), [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                                            |             |
+| Eduardo        | Criação da estrutura de arquivos da Sprint 0, Diário de Bordo Individual e revisão de PR                                                                | [Commit](https://github.com/GCES-EhFake-Fork/docs-interno/commit/fb46aa7414b99f0c8a4d898c421a7d6fa4c62cd0), [PR#6](https://github.com/GCES-EhFake-Fork/docs-interno/pull/6), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8) |             |
+| Felipe         |                                                                                                                                                         |                                                                                                                                                                                                                                              |             |
+| Lua            |                                                                                                                                                         |                                                                                                                                                                                                                                              |             |
+| Luciano        |                                                                                                                                                         |                                                                                                                                                                                                                                              |             |
+| Pedro Ferreira | Fork do projeto, Revisão de PR e diário de bordo                                                                                                        | [PR#7](https://github.com/GCES-EhFake-Fork/docs-interno/pull/7), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                                                                                                           |             |
+| Yago           | Fork do projeto, Revisão de PR e diário de bordo                                                                                                        | [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20)                                                                                                                                                                            |             |
 
 ---
 

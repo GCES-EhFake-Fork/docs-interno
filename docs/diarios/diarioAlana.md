@@ -16,13 +16,13 @@ Esta sprint foi dedicada à ambientação no projeto, com foco em conhecer e rod
 
 ### Atividades Realizadas
 
-| Data       | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                      | Status    |
-| ---------- | ----------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------- | --------- |
-| 08/09/2025 | Leitura e estudo da documentação do projeto                 | Estudo                            | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md) | Concluído |
-| 09/09/2025 | Clonagem do fork e preparação do repositório local          | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)           | Concluído |
-| 09/09/2025 | Execução do projeto em ambiente local                       | Código                            | –                                                                    | Concluído |
-| 09/09/2025 | Execução dos scripts prontos de scraping para testes locais | Código/Teste                      | –                                                                    | Concluído |
-| 10/09/2025 | Revisão de Pull Request na documentação da equipe           | Revisão/Doc                       | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13)    | Concluído |
+| Data       | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                                                                                                         | Status    |
+| ---------- | ----------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 08/09/2025 | Leitura e estudo da documentação do projeto                 | Estudo                            | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                                                                                                    | Concluído |
+| 09/09/2025 | Clonagem do fork e preparação do repositório local          | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                                                              | Concluído |
+| 09/09/2025 | Execução do projeto em ambiente local                       | Código                            | –                                                                                                                                                                                                       | Concluído |
+| 09/09/2025 | Execução dos scripts prontos de scraping para testes locais | Código/Teste                      | –                                                                                                                                                                                                       | Concluído |
+| 10/09/2025 | Revisão de Pull Request na documentação da equipe           | Revisão/Doc                       | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13), [PR#17](https://github.com/GCES-EhFake-Fork/docs-interno/pull/17), [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20) | Concluído |
 
 ### Maiores Avanços
 
