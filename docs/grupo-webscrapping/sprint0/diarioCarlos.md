@@ -1,33 +1,35 @@
-# Diário de Bordo – \[Nome do(a) Aluno(a)]
+# Diário de Bordo – Carlos Daniel de Godoy Barros Nascimento
 
-**Disciplina:** \[Nome da disciplina]
-**Equipe:** \[Nome/Identificação da equipe]
-**Comunidade/Projeto de Software Livre:** \[Nome do projeto/comunidade]
+**Disciplina:** Gerência de Configuração e Evolução de Software
+**Equipe:** WebScrapping
+**Comunidade/Projeto de Software Livre:** Check-up
 
 ---
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 0 – 02/09/2025 - 10/09/2025
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+Reconhecimento inicial do projeto, leitura da documentação, configuração de ambiente e contribuição no docs da equipe
 
 ### Atividades Realizadas
 
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| 05/09 | Reconhecimento do projeto                   | Estudo                            | –               | Concluído |
+| 08/09 | Leitura e estudo da documentação do projeto | Estudo                            | [WIKI](https://github.com/GCES-EhFake-Fork/checkUp/blob/develop/README.md)               | Concluído |
+| 10/09 | Execução do projeto em ambiente local       | Código                            | -    | Concluído |
+| 09/09 | Contribuição com a docs do grupo     | Código                         | [Pull Request](https://github.com/GCES-EhFake-Fork/docs-interno/pull/2)   | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+* Aprendi a executar a aplicação localmente.
+* Entendi as regras de contribuição do repositório.
+* Aprendi a arquitetura do projeto.
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+* Entendimento inicial da arquitetura e objetivo do projeto, projeto grande com várias regras de negócio aplicadas.
 
 ### Aprendizados
 
@@ -41,7 +43,7 @@ Breve descrição das atividades e reflexões.
 
 ---
 
-## Sprint 2 – \[Data início – Data fim]
+## Sprint 1 – \[Data início – Data fim]
 
 ### Resumo da Sprint
 
@@ -75,7 +77,7 @@ Breve descrição.
 
 ---
 
-## Sprint 3 – \[Data início – Data fim]
+## Sprint 2 – \[Data início – Data fim]
 
 *(Repete-se a mesma estrutura, até o final da disciplina.)*
     
