@@ -57,9 +57,21 @@ markdown_extensions:
 nav:
   - Geral:
     - Comunidade Check-up: 
-      - Sobre: geral/check_up/index.md
-      - Políticas da comunidade: geral/check_up/politicas.md
+        - Sobre: geral/check_up/index.md
+        - Políticas da comunidade: geral/check_up/politicas.md
     - Comunidade RAG:
-      - Sobre: geral/rag/index.md
-  - Grupo - WebScrapping: grupo-webscrapping/index.md
+        - Sobre: geral/rag/index.md
+  - Grupo - WebScrapping:
+      - Sobre: grupo-webscrapping/index.md
+      - Sprint 0:
+          - Relatório Sprint 0: grupo-webscrapping/sprint0/relatorioSprint0.md
+          - Diários de Bordo:
+              - Eduardo Ferreira: grupo-webscrapping/sprint0/diarioEduardo.md
+              - Daniel Rodrigues: grupo-webscrapping/sprint0/diarioDaniel.md
+              - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
+              - Alana: grupo-webscrapping/sprint0/diarioAlana.md
+              - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
+              - Carlos Daniel: grupo-webscrapping/sprint0/diarioCarlos.md
+              - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
+              - Felipe de Sousa: grupo-webscrapping/sprint0/diarioFelipe.md
   - Grupo - IA: grupo-ia/index.md
