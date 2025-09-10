@@ -82,4 +82,9 @@ nav:
               - Carlos Daniel: grupo-webscrapping/sprint0/diarioCarlos.md
               - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
               - Felipe de Sousa: grupo-webscrapping/sprint0/diarioFelipe.md
-  - Grupo - IA: grupo-ia/index.md
+  - Grupo - IA:
+      - Sobre: grupo-ia/index.md
+      - Sprint 0:
+        - Relatório Sprint 0: grupo-ia/sprint0/relatorioSprint0.md
+        - Diários de Bordo:
+          - Pedro Ferreira: grupo-ia/sprint0/diarioPedroFerreira.md
