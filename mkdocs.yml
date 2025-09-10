@@ -64,21 +64,19 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Comunidade Check-up:
-    - Sobre: geral/index.md
-    - Políticas da Comunidade: geral/politicas.md
-  - Grupo - WebScrapping:
-      - Sobre: grupo-webscrapping/index.md
-      - Sprint 0:
-          - Relatório Sprint 0: grupo-webscrapping/sprint0/relatorioSprint0.md
-          - Diários de Bordo:
-              - Alana Gabriele: grupo-webscrapping/sprint0/diarioAlana.md
-              - Ana Catarina: grupo-webscrapping/sprint0/diarioAnaCatarina.md
-              - Carlos Daniel: grupo-webscrapping/sprint0/diarioCarlos.md
-              - Daniel Rodrigues: grupo-webscrapping/sprint0/diarioDaniel.md
-              - Eduardo Ferreira: grupo-webscrapping/sprint0/diarioEduardo.md
-              - Felipe de Sousa: grupo-webscrapping/sprint0/diarioFelipe.md
-              - Gabriel Monteiro: grupo-webscrapping/sprint0/diarioGabriel.md
-              - Lua Medeiros: grupo-webscrapping/sprint0/diarioLua.md
-              - Luciano: grupo-webscrapping/sprint0/diarioLuciano.md
-              - Pedro Henrique: grupo-webscrapping/sprint0/diarioPedro.md
-              - Pedro Ferreira: grupo-webscrapping/sprint0/diarioPedroFerreira.md
+    - Sobre: check-up/index.md
+    - Políticas da Comunidade: check-up/politicas.md
+  - Relatórios de Sprint:
+      - Sprint 0: sprints/sprint0.md
+      - Diários de Bordo:
+          - Alana Gabriele: diarios/diarioAlana.md
+          - Ana Catarina: diarios/diarioAnaCatarina.md
+          - Carlos Daniel: diarios/diarioCarlos.md
+          - Daniel Rodrigues: diarios/diarioDaniel.md
+          - Eduardo Ferreira: diarios/diarioEduardo.md
+          - Felipe de Sousa: diarios/diarioFelipe.md
+          - Gabriel Monteiro: diarios/diarioGabriel.md
+          - Lua Medeiros: diarios/diarioLua.md
+          - Luciano: diarios/diarioLuciano.md
+          - Pedro Ferreira: diarios/diarioPedroFerreira.md
+          - Pedro Henrique: diarios/diarioPedro.md
