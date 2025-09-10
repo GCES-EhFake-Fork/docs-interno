@@ -38,15 +38,14 @@
 | Integrante     | Contribuições                             | Links (PRs, Issues, Docs) | Observações |
 | -------------- | ----------------------------------------- | ------------------------- | ----------- |
 | Alana          |                                           |                           |             |
-| Ana            |                                           |                           |             |
+| Ana            | Fork do projeto, Revisão de PR e diário de bordo                                          |[PR#5](https://github.com/GCES-EhFake-Fork/docs-interno/pull/5), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                      |             |
 | Carlos         |                                           |                           |             |
 | Daniel         | Fork do Projeto, Criação do Repositório de Documentação, Guia de Contribuição, Código de Conduta, Relatório da Sprint 0, Revisão de PR, Diário de Bordo             | [PR#3](https://github.com/GCES-EhFake-Fork/docs-interno/pull/3), [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                                     |                                         |
 | Eduardo        | Criação da estrutura de arquivos da Sprint 0, Diário de Bordo Individual e revisão de PR                      |     [Commit](https://github.com/GCES-EhFake-Fork/docs-interno/commit/fb46aa7414b99f0c8a4d898c421a7d6fa4c62cd0), [PR#6](https://github.com/GCES-EhFake-Fork/docs-interno/pull/6), [PR#8](https://github.com/GCES-EhFake-Fork/docs-interno/pull/8)                 |             |
 | Felipe         |                                           |                           |             |
 | Lua            |                                           |                           |             |
 | Luciano        |                                           |                           |             |
-| Pedro          |                                           |                           |             |
-| Pedro Ferreira |                                           |                           |             |
+| Pedro Ferreira | Fork do projeto, Revisão de PR e diário de bordo                                          | [PR#7](https://github.com/GCES-EhFake-Fork/docs-interno/pull/7), [PR#18](https://github.com/GCES-EhFake-Fork/docs-interno/pull/18)                          |             |
 
 ---
 
@@ -76,7 +75,7 @@
 
 ## 7. Planejamento para a Próxima Sprint
 
-- [ ] Selecionar jornais para iniciar o web strapping;
-- [ ] Realizar o primeiro Pull Request;
+- [ ] Selecionar jornais para iniciar o web scrapping;
+- [ ] Realizar a primeira contribuição;
 - [ ] Melhorar documentação da equipe no que tange interface e índices.
 - [ ] Prosseguir com a documentação de diários de bordo e aprendizagem;
