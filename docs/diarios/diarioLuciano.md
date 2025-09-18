@@ -10,7 +10,7 @@
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+Nesta sprint inicial, foquei em entender a estrutura e documentação do projeto Check-up, contribuindo com a organização da documentação interna da equipe. Realizei a configuração inicial do ambiente de desenvolvimento e estudei as políticas e diretrizes da comunidade. Apesar de alguns desafios na configuração do ambiente local, consegui me familiarizar com a estrutura do código e fluxo de trabalho do projeto.
 
 ### Atividades Realizadas
 
@@ -40,3 +40,38 @@ Breve descrição das atividades e reflexões.
 * [ ] Resolver problemas de configuração do ambiente local.
 * [ ] Contribuir com pelo menos 1 PR para a comunidade Check-up.
 * [ ] Revisar documentação interna da equipe.
+
+
+## Sprint 1 – 11/09 - 24/09
+
+### Resumo da Sprint
+
+Foquei nessa sprint em melhorar os meios para a criação de uma comunidade ao projeto, por meio da criação do guia de contribuição e código de conduta. Também identifiquei melhorias que poderiam ser feitas na organização do repositório.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 17/09 | Criação do guia de contribuição e código de conduta            | Doc                            | [PR](https://github.com/EH-FAKE/check-up/pull/21)            | Concluído |
+
+### Maiores Avanços
+
+* Criação do guia de contribuição e código de conduta.
+* Identificação de melhorias de organização que podem ser feitas no repositório.
+
+### Maiores Dificuldades
+
+* Falta de alguns elementos que auxiliam na contribuição de uma pessoa para a comunidade, como:
+- forma de contato com os responsáveis
+- suite de testes escassa e sem configuração para testes automatizados de forma simples
+- organização da documentação do projeto que não foi feita voltada para o modelo de comunidade (e sim de uma equipe interna).
+
+### Aprendizados
+
+* Aprendi sobre diversos modelos de contribuição e práticas de comunidades de software livre.
+
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Ir atrás de resolver problemas de configuração do ambiente local.
+* [ ] Melhorar documentação do gitpages do projeto.
