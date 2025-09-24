@@ -22,7 +22,7 @@ Esta sprint foi dedicada à ambientação no projeto, com foco em conhecer e rod
 | 09/09/2025 | Clonagem do fork e preparação do repositório local          | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                                                              | Concluído |
 | 09/09/2025 | Execução do projeto em ambiente local                       | Código                            | –                                                                                                                                                                                                       | Concluído |
 | 09/09/2025 | Execução dos scripts prontos de scraping para testes locais | Código/Teste                      | –                                                                                                                                                                                                       | Concluído |
-| 10/09/2025 | Revisão de Pull Request na documentação da equipe           | Revisão/Doc                       | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13), [PR#17](https://github.com/GCES-EhFake-Fork/docs-interno/pull/17), [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20) | Concluído |
+| 10/09/2025 | Revisão de Pull Request na documentação da equipe           | Doc                               | [PR#13](https://github.com/GCES-EhFake-Fork/docs-interno/pull/13), [PR#17](https://github.com/GCES-EhFake-Fork/docs-interno/pull/17), [PR#20](https://github.com/GCES-EhFake-Fork/docs-interno/pull/20) | Concluído |
 
 ### Maiores Avanços
 
@@ -54,12 +54,13 @@ Foco em ajustar os scrapers dos portais Globo e Terra para coletar notícias de 
 
 ### Atividades Realizadas
 
-| Data       | Atividade                                                          | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                      | Status    |
-| ---------- | ------------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------- | --------- |
-| 17/09/2025 | Análise dos scrapers e mapeamento dos portais Globo e Terra        | Estudo                            | –                                                    | Concluído |
-| 23/09/2025 | Ajustes no scraper do portal Globo para capturar notícias          | Código                            | [PR#33](https://github.com/EH-FAKE/check-up/pull/36) | Concluído |
-| 23/09/2025 | Ajustes no scraper do portal Terra para capturar notícias          | Código                            | [PR#36](https://github.com/EH-FAKE/check-up/pull/33) | Concluído |
-| 24/09/2025 | Validação local, testes manuais e revisão dos resultados coletados | Teste/Revisão                     | –                                                    | Concluído |
+| Data       | Atividade                                                          | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status    |
+| ---------- | ------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- | --------- |
+| 17/09/2025 | Análise dos scrapers e mapeamento dos portais Globo e Terra        | Estudo                            | –                                                                 | Concluído |
+| 23/09/2025 | Ajustes no scraper do portal Globo para capturar notícias          | Código                            | [PR#33](https://github.com/EH-FAKE/check-up/pull/36)              | Concluído |
+| 23/09/2025 | Ajustes no scraper do portal Terra para capturar notícias          | Código                            | [PR#36](https://github.com/EH-FAKE/check-up/pull/33)              | Concluído |
+| 24/09/2025 | Validação local, testes manuais e revisão dos resultados coletados | Teste/Revisão                     | –                                                                 | Concluído |
+| 24/09/2025 | Criação do Relatório da Sprint 1                                   | Doc                               | [PR#39](https://github.com/GCES-EhFake-Fork/docs-interno/pull/39) | Concluído |
 
 ### Maiores Avanços
 
