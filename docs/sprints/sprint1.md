@@ -10,8 +10,8 @@
 ## 1. Objetivos da Sprint
 
 - [ ] Efetuar as primeiras contribuições no repositório base
-- [ ] Atualizar scrapers já existentes no projeto para capturar notícias
-- [ ] Desenvolver novos scrapers para ampliar a cobertura
+- [ ] Atualizar scrappers já existentes no projeto para capturar notícias
+- [ ] Desenvolver novos scrappers para ampliar a cobertura
 - [ ] Melhorar a organização do repositório (templates de issue e automações de CI)
 - [ ] Garantir a atualização contínua da documentação interna do time
 
@@ -21,8 +21,8 @@
 
 | Entrega                                        | Status (Concluído/Parcial/Pendente) | Link/Referência                                                                                                                                                  | Observações      |
 | ---------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Atualização dos scrapers (Globo, Terra, RBS)   | Parcial                             | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#38](https://github.com/EH-FAKE/check-up/pull/38) | RBS em andamento |
-| Criação de novos scrapers                      | Pendente                            | [PR#40](https://github.com/EH-FAKE/check-up/pull/40), [PR#39](https://github.com/EH-FAKE/check-up/pull/39)                                                       |                  |
+| Atualização dos scrappers (Globo, Terra, RBS)  | Parcial                             | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#38](https://github.com/EH-FAKE/check-up/pull/38) | RBS em andamento |
+| Criação de novos scrappers                     | Pendente                            | [PR#40](https://github.com/EH-FAKE/check-up/pull/40), [PR#39](https://github.com/EH-FAKE/check-up/pull/39)                                                       |                  |
 | Novos templates de Issue e ajustes de contato  | Concluído                           | [PR#29](https://github.com/EH-FAKE/check-up/pull/29), [PR#24](https://github.com/EH-FAKE/check-up/pull/24)                                                       |                  |
 | Automação (CI) para Issues                     | Concluído                           | [PR#28](https://github.com/EH-FAKE/check-up/pull/28)                                                                                                             |                  |
 | Atualizações na documentação interna da equipe | Concluído                           | [docs](https://gces-ehfake-fork.github.io/docs-interno/)                                                                                                         |                  |
@@ -31,21 +31,21 @@
 
 ## 3. Contribuições Individuais
 
-| Integrante       | Contribuições                                                | Links (PRs, Issues, Docs)                                                                                  | Observações |
-| ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| Alana            | Ajustes nos scrapers Globo e Terra; validação local e testes | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36) |             |
-| Ana              |                                                              |                                                                                                            |             |
-| Carlos           |                                                              |                                                                                                            |             |
-| Daniel           |                                                              |                                                                                                            |             |
-| Eduardo          |                                                              |                                                                                                            |             |
-| Felipe de Sousa  |                                                              |                                                                                                            |             |
-| Gabriel Monteiro |                                                              |                                                                                                            |             |
-| Lua Medeiros     |                                                              |                                                                                                            |             |
-| Luciano          |                                                              |                                                                                                            |             |
-| Pedro Ferreira   |                                                              |                                                                                                            |             |
-| Pedro Silva      |                                                              |                                                                                                            |             |
-| Yago             |                                                              |                                                                                                            |             |
-| Vinicius         |                                                              |                                                                                                            |             |
+| Integrante       | Contribuições                                                                    | Links (PRs, Issues, Docs)                                                                                  | Observações        |
+| ---------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------ |
+| Alana            | Ajustes nos scrappers Globo e Terra; validação local e testes                    | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36) |                    |
+| Ana              |                                                                                  |                                                                                                            |                    |
+| Carlos           |                                                                                  |                                                                                                            |                    |
+| Daniel           |                                                                                  |                                                                                                            |                    |
+| Eduardo          |                                                                                  |                                                                                                            |                    |
+| Felipe de Sousa  | Criação do scrapper para o portal Brasil de Fato e Agência Pública               | [PR#39](https://github.com/EH-FAKE/check-up/pull/39) [PR#40](https://github.com/EH-FAKE/check-up/pull/40)  | Ainda em andamento |
+| Gabriel Monteiro |                                                                                  |                                                                                                            |                    |
+| Lua Medeiros     | Montagem e planejamento do scrapper dos portais Brasil de fato e Agência Pública | [PR#39](https://github.com/EH-FAKE/check-up/pull/39) [PR#40](https://github.com/EH-FAKE/check-up/pull/40)  |
+| Luciano          |                                                                                  |                                                                                                            |                    |
+| Pedro Ferreira   |                                                                                  |                                                                                                            |                    |
+| Pedro Silva      |                                                                                  |                                                                                                            |                    |
+| Yago             |                                                                                  |                                                                                                            |                    |
+| Vinicius         |                                                                                  |                                                                                                            |                    |
 
 ---
 
@@ -55,8 +55,8 @@
 
 - Primeiras contribuições efetivas no repositório base.
 - Criação da Guia de Contribuição e Código de Conduta.
-- Adaptação de scrapers existentes (Globo, Terra, RBS, etc) para extrair conteúdo de notícias em vez de anúncios.
-- Criação de novos scrapers: Agência Pública, Brasil de Fato, Jornal de Brasília.
+- Adaptação de scrappers existentes (Globo, Terra, RBS, etc) para extrair conteúdo de notícias em vez de anúncios.
+- Criação de novos scrappers: Agência Pública, Brasil de Fato, Jornal de Brasília.
 - Organização e automação do repositório: novos templates de issue, correções e automações via GitHub Actions
 
 ---
@@ -65,7 +65,7 @@
 
 Principais desafios enfrentados:
 
-- Ajuste de seletores e variações de layout dos portais impactando scrapers.
+- Ajuste de seletores e variações de layout dos portais impactando scrappers.
 - Configuração/execução do ambiente local (incluindo Docker) para alguns membros.
 - Garantir consistência dos campos coletados (título, descrição, conteúdo e tags).
 
@@ -84,5 +84,5 @@ Principais desafios enfrentados:
 
 - [ ] Acompanhar feedbacks e realizar ajustes até o merge dos PRs abertos.
 - [ ] Selecionar e iniciar um novo portal para contribuição em scraping.
-- [ ] Avançar em testes/validações de scrapers existentes e dados coletados.
+- [ ] Avançar em testes/validações de scrappers existentes e dados coletados.
 - [ ] Manter os diários de bordo atualizados com links definitivos de PRs/issues.
