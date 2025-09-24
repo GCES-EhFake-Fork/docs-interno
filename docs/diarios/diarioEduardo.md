@@ -50,3 +50,35 @@ Esta sprint focou na compreensão inicial dos projetos Check-up (extração de c
 
 * [ ] Aprofundar na estrutura dos spiders e plays, talvez implementando um spider/play simples para um novo portal de notícias no repositório `check-up`.
 * [ ] Se necessário, contribuir com melhorias na documentação, especialmente em áreas que possam beneficiar novos colaboradores.
+
+
+## Sprint 1 – 15/09/2025 - 24/09/2025
+
+### Resumo da Sprint
+Esta sprint foi dedicada ao **início da implementação de um novo web scraping para o Jornal de Brasília**. O objetivo principal foi estabelecer a estrutura inicial para a extração de notícias deste portal, seguindo os padrões do projeto Check-up. As atividades incluíram a criação de uma nova branch (`feat/jornalDeBrasília`) para isolar o desenvolvimento e a configuração dos componentes essenciais para a coleta de dados. O foco foi em garantir que a base para o novo spider estivesse funcional e pronta para a próxima fase de desenvolvimento.
+
+### Atividades Realizadas
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+|------------|-----------------------------------------------|-----------------------------------|-----------------------------------------------------|-----------|
+| 17/09/2025 | Início da análise do site Jornal de Brasília | Estudo/Doc | [Jornal de Brasília](https://www.jornaldebrasilia.com.br/) | Concluído |
+| 20/09/2025 | Dificuldade/Tentativa de rodar os make scrape | Código | - | Concluído |
+| 24/09/2025 | Desenvolvimento da estrutura básica do spider | Código | [Commit](https://github.com/GCES-EhFake-Fork/checkUp/commit/44e17b06877b41d161e2117051cad2a4a1c30339) | Concluído |
+| 24/09/2025 | Desenvolvimento da estrutura do Scrapping(Plays) | Código | - | Em Andamento |
+
+### Maiores Avanços
+*   **Criação da branch dedicada**: A branch `feat/jornalDeBrasília` foi criada, garantindo um ambiente de desenvolvimento isolado para a nova funcionalidade.
+*   **Análise inicial do portal**: Foi realizada uma análise preliminar da estrutura do site do Jornal de Brasília para identificar padrões de notícias e elementos a serem extraídos.
+*   **Estrutura básica do spider**: A base para o novo spider foi desenvolvida
+
+### Maiores Dificuldades
+*   **Variações na estrutura do site**: O site do Jornal de Brasília apresenta algumas variações na estrutura HTML entre diferentes tipos de notícias, o que exigiu um planejamento mais detalhado para a extração robusta de dados.
+*   **Erros ao rodar o scrape existente**: Dificuldade inicial em fazer o projeto rodar devido a erros no scrape já implementado, o que atrasou o início do desenvolvimento do novo spider.
+
+### Aprendizados
+*   A importância de uma análise aprofundada da estrutura do site antes de iniciar a codificação do spider para prever e mitigar dificuldades.
+*   Entendimento por completo de como funciona a pipeline de dados do Check-up, desde a coleta até o processamento das notícias.
+
+### Plano Pessoal para a Próxima Sprint
+*   **[ ] Concluir a implementação do spider e play para o Jornal de Brasília**: Finalizar o desenvolvimento do spider, garantindo a coleta de URLs do Jornal, bem como o desenvolvimento do play para processar essas URLs.
+*   **[ ] Adicionar tratamento de erros e robustez**: Tratar possíveis variações, por exemplo, está retornando URLs gerais que não são notícias.
+
