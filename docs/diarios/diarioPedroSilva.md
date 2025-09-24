@@ -21,7 +21,7 @@ Na sprint 0 foram definidas duas frentes para contribuição, fork do projeto pr
 | 08/09 | Configuração do Ambiente Local              | Configuração                      |                 | Concluído |
 | 10/09 | Clonagem do Fork do Repositório             | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
 | 10/09 | Execução de comandos de scrapping para teste| Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
-| 10/09 | Documentação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioFelipe.md)                                                                 | Concluído |
+| 10/09 | Documentação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioPedroSilva.md)                                                                 | Concluído |
 
 ### Maiores Avanços
 
@@ -39,6 +39,80 @@ Na sprint 0 foram definidas duas frentes para contribuição, fork do projeto pr
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Analisar o fluxo de GCES do projeto e se possível
-- [ ] Abrir minha primeira issue
-- [ ] Resolver problema do scraper na minnha máquina
+- [x] Analisar o fluxo de GCES do projeto e se possível
+- [x] Abrir minha primeira issue
+- [x] Resolver problema do scraper na minnha máquina
+
+  
+
+---
+
+  
+
+## Sprint 1 – \[Data início – Data fim]
+
+  
+
+### Resumo da Sprint
+
+  
+
+Nesta sprint eu analisei o fluxo de o fluxo de GCES do projeto, resolvi o problema do scraper na minha máquina e abri minha primeira issue dentro do projeto.
+
+  
+
+### Atividades Realizadas
+
+  
+
+| Data   | Atividade                              | Tipo      | Link/Referência                               | Status  |
+|--------|----------------------------------------|-----------|-----------------------------------------------|---------|
+| 19/09  | Análise do fluxo de GCES              | Estudo/Ambientação | [Link](#)                                     | Concluído |
+| 20/09  | Resolver problema do scraper          | Código    | [Link](#)                                     | Concluído |
+| 22/09  | Documentação da solução do scraper    | Doc       | [Issue](https://github.com/link-para-issue)   | Parcial |
+| 23/09  | Abertura de issue                     | Doc       | [Issue](https://github.com/link-para-issue)   | Concluído |
+| 23/09  | Documentação do Diário de Bordo       | Doc       | [Documento](https://link-para-documento.com)  | Concluído |
+
+
+  
+  
+
+### Maiores Avanços
+
+  
+
+* Primeira Issue aberta
+
+* Maior entendimento do fluxo de GCES do projeto
+
+  
+
+### Maiores Dificuldades
+
+  
+
+* Dificuldade para trobleshooting do scraper
+
+  
+
+### Aprendizados
+
+  
+
+* Funcionamento completo do scraper
+
+  
+
+### Plano Pessoal para a Próxima Sprint
+
+  
+
+* [ ] Entender o fluxo de implementação do fluxo de scrap de um novo jornal.
+
+* [ ] Abrir uma issue para melhora do fluxo de GCES do projeto.
+
+* [ ] Abrir meu primeiro PR.
+
+  
+
+---
