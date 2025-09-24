@@ -40,3 +40,35 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 * [ ] Contribuir na seleção de issues a serem feitas;
 * [ ] Corrigir 1 Pull Request;
+
+
+## Sprint 1 – 15/09 - 24/09
+
+### Resumo da Sprint
+
+O foco da sprint esteve em compreender a organização do projeto open source, revisar a documentação existente e acompanhar issues abertas, além de observar pull requests já submetidos por outros colaboradores. As atividades realizadas não envolveram contribuição direta em código, mas ajudaram a consolidar entendimento sobre a evolução do software e sobre o fluxo de colaboração.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                | Status    |
+| ---------- | --------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------- | --------- |
+| 16/09/2025 | Leitura da documentação do projeto e análise das instruções de contribuição | Doc                               | [README](https://github.com/EH-FAKE/check-up)  | Concluído |
+| 18/09/2025 | Acompanhamento de issues abertas no repositório e entendimento das demandas | Discussão                         | [Issues](https://github.com/EH-FAKE/check-up)  | Concluído |
+| 24/09/2025 | Revisão de PRs abertos por outros contribuidores para compreender padrões   | Estudo                  | [Pull Requests](https://github.com/EH-FAKE/check-up/pulls) | Concluído |
+
+### Maiores Avanços
+
+- Melhor compreensão do fluxo de contribuição do projeto open source.  
+- Identificação de padrões nos PRs que auxiliam na consistência das contribuições.  
+- Entendimento inicial sobre como as issues são abertas.  
+
+### Maiores Dificuldades
+
+- Falta de tempo para realizar uma contribuição prática.  
+- Necessidade de se adaptar à dinâmica de evolução rápida do repositório.  
+
+### Aprendizados
+
+- Reforço da importância da documentação para novos colaboradores.  
+- Entendimento de como as discussões em issues e revisões em PRs são parte fundamental da evolução do software.  
+- Percepção de que a gestão de configuração não se limita a código, mas também a práticas organizacionais e de colaboração.  
