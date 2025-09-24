@@ -19,33 +19,33 @@
 
 ## 2. Entregas Coletivas
 
-| Entrega                                        | Status (Concluído/Parcial/Pendente) | Link/Referência                                                                                                                                                  | Observações         |
-| ---------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| Atualização dos scrapers (Globo, Terra, RBS)   | Parcial                             | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#38](https://github.com/EH-FAKE/check-up/pull/38) | RBS em andamento    |
-| Criação de novos scrapers                      | Pendente                            | [PR#40](https://github.com/EH-FAKE/check-up/pull/40), [PR#39](https://github.com/EH-FAKE/check-up/pull/39)                                                       |                     |
-| Novos templates de Issue e ajustes de contato  | Concluído                           | [PR#29](https://github.com/EH-FAKE/check-up/pull/29), [PR#24](https://github.com/EH-FAKE/check-up/pull/24)                                                       |                     |
-| Automação (CI) para Issues                     | Concluído                           | [PR#28](https://github.com/EH-FAKE/check-up/pull/28)                                                                                                             |                     |
-| Atualizações na documentação interna da equipe | Concluído                           | [docs](https://gces-ehfake-fork.github.io/docs-interno/)                                                                                                         |                     |
+| Entrega                                        | Status (Concluído/Parcial/Pendente) | Link/Referência                                                                                                                                                  | Observações      |
+| ---------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Atualização dos scrapers (Globo, Terra, RBS)   | Parcial                             | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#38](https://github.com/EH-FAKE/check-up/pull/38) | RBS em andamento |
+| Criação de novos scrapers                      | Pendente                            | [PR#40](https://github.com/EH-FAKE/check-up/pull/40), [PR#39](https://github.com/EH-FAKE/check-up/pull/39)                                                       |                  |
+| Novos templates de Issue e ajustes de contato  | Concluído                           | [PR#29](https://github.com/EH-FAKE/check-up/pull/29), [PR#24](https://github.com/EH-FAKE/check-up/pull/24)                                                       |                  |
+| Automação (CI) para Issues                     | Concluído                           | [PR#28](https://github.com/EH-FAKE/check-up/pull/28)                                                                                                             |                  |
+| Atualizações na documentação interna da equipe | Concluído                           | [docs](https://gces-ehfake-fork.github.io/docs-interno/)                                                                                                         |                  |
 
 ---
 
 ## 3. Contribuições Individuais
 
-| Integrante       | Contribuições | Links (PRs, Issues, Docs) | Observações |
-| ---------------- | ------------- | ------------------------- | ----------- |
-| Alana            |               |                           |             |
-| Ana              |               |                           |             |
-| Carlos           |               |                           |             |
-| Daniel           |               |                           |             |
-| Eduardo          |               |                           |             |
-| Felipe de Sousa  |               |                           |             |
-| Gabriel Monteiro |               |                           |             |
-| Lua Medeiros     |               |                           |             |
-| Luciano          |               |                           |             |
-| Pedro Ferreira   |               |                           |             |
-| Pedro Silva      |               |                           |             |
-| Yago             |               |                           |             |
-| Vinicius         |               |                           |             |
+| Integrante       | Contribuições                                                | Links (PRs, Issues, Docs)                                                                                  | Observações |
+| ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ----------- |
+| Alana            | Ajustes nos scrapers Globo e Terra; validação local e testes | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36) |             |
+| Ana              |                                                              |                                                                                                            |             |
+| Carlos           |                                                              |                                                                                                            |             |
+| Daniel           |                                                              |                                                                                                            |             |
+| Eduardo          |                                                              |                                                                                                            |             |
+| Felipe de Sousa  |                                                              |                                                                                                            |             |
+| Gabriel Monteiro |                                                              |                                                                                                            |             |
+| Lua Medeiros     |                                                              |                                                                                                            |             |
+| Luciano          |                                                              |                                                                                                            |             |
+| Pedro Ferreira   |                                                              |                                                                                                            |             |
+| Pedro Silva      |                                                              |                                                                                                            |             |
+| Yago             |                                                              |                                                                                                            |             |
+| Vinicius         |                                                              |                                                                                                            |             |
 
 ---
 
