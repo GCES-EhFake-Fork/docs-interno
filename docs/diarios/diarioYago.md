@@ -39,4 +39,41 @@ A sprint inicial teve como objetivo compreender o projeto, a documentação, as 
 * [ ] Melhorar o conhecimento no funcionamento dos spiders/plays.
 * [ ] Contribuir com pelo menos 1 issue.
 * [ ] Participar da revisão de código de um colega.
-    
+
+
+---
+
+## Sprint 1 – 15/09/2025 - 24/09/2025
+
+### Resumo da Sprint
+
+A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo em vista a mudança para o webscrapping ao invés do grupo de IA, assim como configurar o ambiente para rodar localmente o projeto.
+
+### Atividades Realizadas
+
+| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
+| ----- | --------------------------- | ------- | --------------- | --------- |
+| 20/09 | Estudo sobre os spiders   | Estudo  |   -    | Concluído |
+| 20/09 | Estudo sobre os plays   | Estudo  |   -   | Concluído |
+| 21/09 | Preparação e ajustes do ambiente   | Código  |   -   | Concluído |
+
+
+### Maiores Avanços
+
+* Preparei o ambiente e rodei o projeto.
+* Verifiquei os spiders e plays já funcionais do projeto.
+
+### Maiores Dificuldades
+
+* Dificuldade com o início tardio na equipe de webscrapping.
+
+### Aprendizados
+
+* Aprendizado sobre o funcionamento do projeto.
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Iniciar o desenvolvimento de um webscrapping para um novo portal.
+* [ ] Contribuir com pelo menos 1 issue.
+
+---
