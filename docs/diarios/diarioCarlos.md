@@ -43,37 +43,37 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 
 ---
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 1 – 15/09/2025 - 24/09/2025
 
 ### Resumo da Sprint
 
-Breve descrição.
+A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e contribuir em novas configurações que assegurassem boas práticas de gerenciamento.
 
 ### Atividades Realizadas
 
 | Data  | Atividade                   | Tipo    | Link/Referência | Status    |
 | ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
+| 21/09 | Estudo sobre abertura de Issues, PRs e guia de contribuição   | Estudo  | [PR com documentação](https://github.com/EH-FAKE/check-up/pull/21)      | Concluído |
+| 22/09 | Atualização de Crawler e Scraper RBS     | Código | [PR aberto](https://github.com/EH-FAKE/check-up/pull/38)      | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Primeiro PR aceito pela comunidade.
+* Execução total do projeto localmente
+* Contribuí com a correção de um Crawler
 
 ### Maiores Dificuldades
 
-* Dificuldade com testes automatizados.
+* Dificuldade com execução do projeto localmente
 
 ### Aprendizados
 
-* Melhoria no uso de Git (branches, rebase).
+* Aprendizado sobre contribuição em projetos open source.
 * Importância de escrever commits claros.
 
 ### Plano Pessoal para a Próxima Sprint
 
 * [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
+* [ ] Criar um webscrapping para um jornal não listado
 
 ---
 
