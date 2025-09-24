@@ -45,7 +45,7 @@ Nesta sprint o enfoque foi compreender melhor sobre o projeto e sobre a ideia de
 - [x] Contribuir com o projeto e a equipe para o desenvolvimento do projeto
 - [x] Compreender melhor sobre a arquitetura e onde podemos contribuir no projeto
 
-## Sprint 1 – 16/09 - 24/09
+## Sprint 1 – 11/09 - 24/09
 
 ### Resumo da Sprint
 
