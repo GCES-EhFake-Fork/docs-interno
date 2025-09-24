@@ -40,3 +40,38 @@ Reconhecimento inicial do projeto, leitura da documentação, configuração de 
 * [ ] Contribuir na seleção de issues a serem feitas;
 * [ ] Corrigir 1 Pull Request;
 * [ ] Dar início aos testes para entender a IA;
+
+## Sprint 1 – 15/09 a 24/09
+
+### Visão Geral
+
+Nesta primeira sprint, a prioridade foi observar como a comunidade colabora no projeto, explorando o repositório open source e acompanhando sua dinâmica. O tempo foi usado para revisar a documentação disponível, analisar materiais já existentes e perceber padrões de contribuição. Embora ainda não tenha havido participação direta em código, a experiência serviu como base para entender a estrutura do projeto e as práticas adotadas.
+
+### Atividades Conduzidas
+
+| Data       | Descrição da Atividade                                                    | Categoria   | Referência                                                                 | Situação   |
+| ---------- | ------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------- | ---------- |
+| 16/09/2025 | Estudo da documentação e das orientações de contribuição do projeto       | Documentação| [README](https://github.com/EH-FAKE/check-up)                              | Finalizado |
+| 18/09/2025 | Análise das necessidades do projeto e das issues em aberto para mapear demandas e prioridades         | Discussão   | [Issues](https://github.com/EH-FAKE/check-up)                              | Finalizado |
+| 24/09/2025 | Análise de pull request | Estudo      | [Pull Requests](https://github.com/EH-FAKE/check-up/pulls)                 | Finalizado |
+
+### Avanços Obtidos
+
+- Compreensão inicial sobre as regras do projeto com relção a contribuições.
+- Identificação de boas práticas em PRs, úteis para futuras colaborações.  
+- Visão mais clara sobre a abertura e priorização de issues.  
+
+### Obstáculos Encontrados
+
+- Limitação de tempo para realizar contribuições.   
+
+### Principais Lições
+
+- As issues dão um bom contexto do que está sendo priorizado no projeto.  
+- Revisar PRs ajuda a entender o padrão de código e como as mudanças são explicadas.  
+- As discussões no repositório mostram de forma prática como as decisões são tomadas.  
+
+### Plano pessoal para a próxima Sprint
+
+* [ ] Corrigir 1 Pull Request;
+* [ ] Contribuir com o projeto;
