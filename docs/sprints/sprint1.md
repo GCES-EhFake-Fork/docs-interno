@@ -43,7 +43,7 @@
 | Lua Medeiros     |                                                              |                                                                                                            |             |
 | Luciano          |                                                              |                                                                                                            |             |
 | Pedro Ferreira   |                                                              |                                                                                                            |             |
-| Pedro Silva      |                                                              |                                                                                                            |             |
+| Pedro Silva      |  Resolução do poblema de instalação de browsers para o Playwright.                                                           | [Issue#22](https://github.com/EH-FAKE/check-up/issues/22)                                                                                                           |             |
 | Yago             |                                                              |                                                                                                            |             |
 | Vinicius         |                                                              |                                                                                                            |             |
 
