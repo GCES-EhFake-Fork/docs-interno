@@ -65,19 +65,13 @@ Nesta sprint eu analisei o fluxo de o fluxo de GCES do projeto, resolvi o proble
 
   
 
-| Data | Atividade | Tipo | Link/Referência | Status |
-
-| ----- | --------------------------- | ------- | --------------- | --------- |
-
-| 19/09 | Análise do fluxo de GCES | Estudo/Ambientação | -       | Concluído |
-
-| 20/09 | Resolver problema do scraper | Código | -     | Concluído |
-
-| 22/09 | Documentação da solução do scraper | Doc | [Issue](https://github.com/EH-FAKE/check-up/issues/22) | Parcial |
-
-| 23/09 | Abertura de issue | Doc | [Issue](https://github.com/EH-FAKE/check-up/issues/22) | Concluído |
-
-| 23/09 | Documentação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioPedroSilva.md)                                                                 | Concluído |
+| Data   | Atividade                              | Tipo      | Link/Referência                               | Status  |
+|--------|----------------------------------------|-----------|-----------------------------------------------|---------|
+| 19/09  | Análise do fluxo de GCES              | Estudo/Ambientação | [Link](#)                                     | Concluído |
+| 20/09  | Resolver problema do scraper          | Código    | [Link](#)                                     | Concluído |
+| 22/09  | Documentação da solução do scraper    | Doc       | [Issue](https://github.com/link-para-issue)   | Parcial |
+| 23/09  | Abertura de issue                     | Doc       | [Issue](https://github.com/link-para-issue)   | Concluído |
+| 23/09  | Documentação do Diário de Bordo       | Doc       | [Documento](https://link-para-documento.com)  | Concluído |
 
 
   
