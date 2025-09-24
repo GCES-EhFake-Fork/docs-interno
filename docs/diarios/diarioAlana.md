@@ -57,8 +57,8 @@ Foco em ajustar os scrapers dos portais Globo e Terra para coletar notícias de 
 | Data       | Atividade                                                          | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                      | Status    |
 | ---------- | ------------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------- | --------- |
 | 17/09/2025 | Análise dos scrapers e mapeamento dos portais Globo e Terra        | Estudo                            | –                                                    | Concluído |
-| 23/09/2025 | Ajustes no scraper do portal Globo para capturar notícias          | Código                            | [PR#33](https://github.com/EH-FAKE/check-up/pull/33) | Concluído |
-| 23/09/2025 | Ajustes no scraper do portal Terra para capturar notícias          | Código                            | [PR#36](https://github.com/EH-FAKE/check-up/pull/36) | Concluído |
+| 23/09/2025 | Ajustes no scraper do portal Globo para capturar notícias          | Código                            | [PR#33](https://github.com/EH-FAKE/check-up/pull/36) | Concluído |
+| 23/09/2025 | Ajustes no scraper do portal Terra para capturar notícias          | Código                            | [PR#36](https://github.com/EH-FAKE/check-up/pull/33) | Concluído |
 | 24/09/2025 | Validação local, testes manuais e revisão dos resultados coletados | Teste/Revisão                     | –                                                    | Concluído |
 
 ### Maiores Avanços
@@ -69,7 +69,7 @@ Foco em ajustar os scrapers dos portais Globo e Terra para coletar notícias de 
 ### Maiores Dificuldades
 
 - Ajuste de seletores/estruturas devido a variações de layout dos portais.
-- Garantir consistência dos campos (título, data, autor e conteúdo).
+- Garantir consistência dos campos (título, descrição, conteúdo e tags).
 
 ### Aprendizados
 
