@@ -42,5 +42,47 @@ Nesta sprint o enfoque foi compreender melhor sobre o projeto e sobre a ideia de
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Contribuir com o projeto e a equipe para o desenvolvimento do projeto
-- [ ] Compreender melhor sobre a arquitetura e onde podemos contribuir no projeto
+- [x] Contribuir com o projeto e a equipe para o desenvolvimento do projeto
+- [x] Compreender melhor sobre a arquitetura e onde podemos contribuir no projeto
+
+## Sprint 1 – 11/09 - 24/09
+
+### Resumo da Sprint
+
+Nesta sprint o foco foi avançar da etapa de estudo inicial para a **primeira contribuição efetiva** ao repositório. Após entender a base do projeto e como funciona a arquitetura do EhFake, passei a atuar diretamente no repositório `checkUp`, criando uma issue no projeto original para propor melhoria de documentação sobre uso de `pre-commit`, alinhado ao fluxo de contribuição da disciplina. Esse passo foi importante porque marcou o início das contribuições práticas e da interação com a comunidade do projeto.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                 | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                 | Status       |
+| ---------- | ------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------ |
+| 17/09/2025 | Estudo sobre CI existente (`Check-up CI`) no repositório                  | Estudo/Doc                        | [ci.yml](https://github.com/EH-FAKE/check-up/blob/develop/.github/workflows/ci.yml)                             | Concluído    |
+| 18/09/2025 | Preparação de arquivo `.pre-commit-config.yaml`                           | Código                            | -                                                                                                               | Concluído    |
+| 19/09/2025 | Redação de instruções no `README.md` para orientar novos contribuidores   | Doc                               | -                                                                                                               | Concluído    |
+| 20/09/2025 | Discussão sobre fluxo de PR em forks e como referenciar issues originais  | Discussão                         | -                                                                                                               | Concluído    |
+| 23/09/2025 | Abertura da **Issue #30** propondo documentação sobre uso de `pre-commit` | Doc                               | [Issue #30](https://github.com/EH-FAKE/check-up/issues/30)                                                      | Concluído    |
+| 23/09/2025 | Preparação do branch e commit vinculando à issue aberta                   | Código                            | [Commit vinculado à Issue #30](https://github.com/GCES-EhFake-Fork/checkUp/commit/...) _(substituir pelo link)_ | Pendente PR  |
+| 24/09/2025 | Planejamento para abrir o PR no repositório original                      | Discussão/Planejamento            | -                                                                                                               | Em andamento |
+
+### Maiores Avanços
+
+- Consegui abrir minha primeira issue no projeto original (`#30`).
+- Avancei do estudo para a prática, criando arquivo de configuração e instruções no `README.md`.
+- Aprendi como referenciar issues no commit/PR de um fork para o repositório original.
+
+### Maiores Dificuldades
+
+- Entender como não duplicar esforços já feitos no CI existente.
+- Dificuldade em commitar para o repositório original.
+- Adaptação ao fluxo de contribuição open-source (fork → branch → PR → issue).
+
+### Aprendizados
+
+- Importância do `pre-commit` para reforçar a governança de código antes do push.
+- Como workflows de CI existentes podem ser complementados por ferramentas locais.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Finalizar e abrir o PR referente à issue #30 no repositório original.
+- [ ] Acompanhar o feedback da comunidade/mantenedores sobre a contribuição.
+- [ ] Buscar uma nova oportunidade de contribuição, de preferência no código (scrapers ou testes).
+- [ ] Aprofundar entendimento das migrations e arquitetura do banco de dados do projeto.
