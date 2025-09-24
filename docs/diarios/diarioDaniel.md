@@ -43,9 +43,9 @@ Breve descrição das atividades e reflexões.
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Entender e avançar com contribuições envolvendo GCES da comunidade;
-- [ ] Concluir 1 contribuição com a criação de um PR;
-- [ ] Participar com a revisão de 1 PR da equipe;
+- Entender e avançar com contribuições envolvendo GCES da comunidade;
+- Concluir 1 contribuição com a criação de um PR;
+- Participar com a revisão de 1 PR da equipe;
 
 ---
 
@@ -60,11 +60,11 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 | Data  | Atividade                                                                | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                 | Status    |
 | ----- | ------------------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------------------------- | --------- |
 | 22/09 | Fork do Repositório de Documentação Oficial do Eh Fake                   | Configuração                      | [Fork](https://github.com/GCES-EhFake-Fork/docsOficialEhFake)                   | Concluído |
-| 23/09 | Estudo e Verificação das Issues Template Existente e CI/CD's ativos      | Configuração                      | [Workflows](https://github.com/EH-FAKE/check-up/tree/develop/.github/workflows) | Concluído |
+| 23/09 | Estudo e Verificação das Issues Template Existente e CI/CD's ativos      | Estudo/Ambientação                | [Workflows](https://github.com/EH-FAKE/check-up/tree/develop/.github/workflows) | Concluído |
 | 23/09 | Contribuição com 2 novos template de Issues para o CheckUp               | Código                            | [PR#29](https://github.com/EH-FAKE/check-up/pull/29)                            | Concluído |
 | 23/09 | Contribuição com a correção de contatos no template de Issues            | Código                            | [PR#24](https://github.com/EH-FAKE/check-up/pull/24)                            | Concluído |
 | 23/09 | Contribuição com o desenvolvimento de novos CI's para Issues Automáticas | Código                            | [PR#28](https://github.com/EH-FAKE/check-up/pull/28)                            | Concluído |
-| 24/09 | Contribuições na Documentação da Equipe                                  | Doc                               | []()                                                                            | Concluído |
+| 24/09 | Contribuições na Documentação da Equipe                                  | Doc                               | [PR#32](https://github.com/GCES-EhFake-Fork/docs-interno/pull/32)                                                                            | Concluído |
 
 ### Maiores Avanços
 
@@ -86,6 +86,6 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Selecionar um jornal para início do processo de WebScrapping;
-- [ ] Concluir 1 contribuição com a criação de um PR;
-- [ ] Participar com a revisão de 1 PR da equipe;
+- Selecionar um jornal para início do processo de WebScrapping;
+- Concluir 1 contribuição com a criação de um PR;
+- Participar com a revisão de 1 PR da equipe;
