@@ -6,8 +6,8 @@
 
 **Comunidade/Projeto de Software Livre:** Check-up
 
-
 ---
+
 ## Sprint 0 – 02/09/2025 - 10/09/2025
 
 ### Resumo da Sprint
@@ -16,110 +16,70 @@ Nesta sprint, o foco esteve no reconhecimento inicial do projeto, por meio da le
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 06/09 | Leitura da Documentação do projeto Base     | Estudo/Ambientação                | [Docs](https://eh-fake.github.io/docs/land/index.html)                                                                                                       | Concluído |
-| 06/09 | Leitura do `README.md` do Projeto Base      | Estudo/Ambientação                | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                                                                         | Concluído |
-| 08/09 | Clonagem do Fork do Repositório             | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído | 
-| 08/09 - 09/09 | Configuração do Ambiente Local              |  Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)     | Concluído |
-| 09/09 | Execução de comandos de scrapping para teste| Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                                                                    | Concluído |
-| 10/09 | Criação do Diário de Bordo             | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioLua.md)                                                                 | Concluído |
-
+| Data          | Atividade                                    | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                      | Status    |
+| ------------- | -------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------- |
+| 06/09         | Leitura da Documentação do projeto Base      | Estudo/Ambientação                | [Docs](https://eh-fake.github.io/docs/land/index.html)                                                               | Concluído |
+| 06/09         | Leitura do `README.md` do Projeto Base       | Estudo/Ambientação                | [README](https://github.com/EH-FAKE/check-up/blob/develop/README.md)                                                 | Concluído |
+| 08/09         | Clonagem do Fork do Repositório              | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                           | Concluído |
+| 08/09 - 09/09 | Configuração do Ambiente Local               | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                           | Concluído |
+| 09/09         | Execução de comandos de scrapping para teste | Configuração                      | [Repositório](https://github.com/GCES-EhFake-Fork/checkUp)                                                           | Concluído |
+| 10/09         | Criação do Diário de Bordo                   | Doc                               | [Documento](https://github.com/GCES-EhFake-Fork/docs-interno/blob/main/docs/grupo-webscrapping/sprint0/diarioLua.md) | Concluído |
 
 ### Maiores Avanços
 
-* Aprendi a rodar a aplicação e configurar o ambiente.
-* Entendi a arquitetura dos projetos Check-up e EhFake.
-* Conheci as regras de contribuição.
-* Compreendi as formas de contribuição na disciplina.
+- Aprendi a rodar a aplicação e configurar o ambiente.
+- Entendi a arquitetura dos projetos Check-up e EhFake.
+- Conheci as regras de contribuição.
+- Compreendi as formas de contribuição na disciplina.
 
 ### Maiores Dificuldades
 
-* Entender a arquitetura e os objetivos do projeto.
-* Dificuldade em se situar e compreender a forma de contribuição.
-* Pouco tempo para absorver a complexidade e as regras do projeto.
+- Entender a arquitetura e os objetivos do projeto.
+- Dificuldade em se situar e compreender a forma de contribuição.
+- Pouco tempo para absorver a complexidade e as regras do projeto.
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+- Uso básico de GitHub Issues.
+- Fluxo de contribuição do projeto.
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
+- [ ] Contribuir com pelo menos 1 PR.
+- [ ] Participar da revisão de código de um colega.
 
-
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 1 – 15/09 a 24/09
 
 ### Resumo da Sprint
 
-Breve descrição das atividades e reflexões.
+O principal objetivo desta sprint foi desenvolver os scrapers dos portais **Brasil de Fato** e **Agência Pública**, garantindo a coleta consistente de notícias e integrando as implementações ao fluxo do projeto, por meio da abertura de PRs no repositório principal.
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 20/08 | Configuração inicial do ambiente            | Código                            | –               | Concluído |
-| 22/08 | Leitura e estudo da documentação do projeto | Estudo                            | \[link wiki]    | Concluído |
-| 24/08 | Abertura de issue para bug em módulo X      | Discussão                         | \[link issue]   | Concluído |
+| Data       | Atividade                                                                             | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                               | Status    |
+| ---------- | ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------- |
+| 18/09/2025 | Estudo e mapeamento dos portais para implementação dos scrapers                       | Estudo                            | –                                                                                                             | Concluído |
+| 24/09/2025 | Início da codificação local dos scrapers dos portais Brasil de Fato e Agência Pública | Código                            | –                                                                                                             | Concluído |
+| 24/09/2025 | Abertura dos PRs em rascunho com a implementação inicial dos scrapers                 | Código                            | [PR#39](https://github.com/EH-FAKE/check-up/pull/39)<br> [PR#40](https://github.com/EH-FAKE/check-up/pull/40) | Concluído |
+| 24/09/2025 | Elaboração e submissão do relatório da Sprint 1                                       | Doc                               | [PR#41](https://github.com/GCES-EhFake-Fork/docs-interno/pull/41)                                             | Concluído |
 
 ### Maiores Avanços
 
-* \[Exemplo] Aprendi a rodar a aplicação localmente.
-* \[Exemplo] Entendi melhor a organização do repositório.
+- Melhor compreensão do padrão de normalização de notícias no projeto.
+- Scrapers para os portais Brasil de Fato e Agência Pública concluídos em versão inicial (draft).
+- PRs abertos para revisão da equipe e mantenedores.
 
 ### Maiores Dificuldades
 
-* \[Exemplo] Ambiente demorou para configurar por falta de dependências.
+- Garantir consistência nos campos de saída (título, descrição, conteúdo e tags).
+- Organização da carga horária entre desenvolvimento e testes.
 
 ### Aprendizados
 
-* Uso básico de GitHub Issues.
-* Fluxo de contribuição do projeto.
+- Padrões do projeto para padronização dos dados e estruturação dos scrapers.
+- Técnicas para criar seletores mais resilientes a mudanças no HTML dos portais.
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Contribuir com pelo menos 1 PR.
-* [ ] Participar da revisão de código de um colega.
-
----
-
-## Sprint 2 – \[Data início – Data fim]
-
-### Resumo da Sprint
-
-Breve descrição.
-
-### Atividades Realizadas
-
-| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
-| ----- | --------------------------- | ------- | --------------- | --------- |
-| 03/09 | Implementação da função Y   | Código  | \[link PR]      | Concluído |
-| 05/09 | Revisão de PR de colega     | Revisão | \[link PR]      | Concluído |
-| 08/09 | Atualização de documentação | Doc     | \[link wiki]    | Parcial   |
-
-### Maiores Avanços
-
-* \[Exemplo] Primeiro PR aceito pela comunidade.
-
-### Maiores Dificuldades
-
-* Dificuldade com testes automatizados.
-
-### Aprendizados
-
-* Melhoria no uso de Git (branches, rebase).
-* Importância de escrever commits claros.
-
-### Plano Pessoal para a Próxima Sprint
-
-* [ ] Melhorar conhecimento em testes.
-* [ ] Aprofundar em Docker para rodar ambiente completo.
-
----
-
-## Sprint 3 – \[Data início – Data fim]
-
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+- [ ] Acompanhar e aplicar os feedbacks dos PRs (#39 e #40) até o merge.
+- [ ] Avaliar e iniciar a contribuição em um novo portal.
