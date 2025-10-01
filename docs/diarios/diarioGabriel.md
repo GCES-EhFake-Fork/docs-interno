@@ -82,7 +82,51 @@ Nesta sprint o foco foi avançar da etapa de estudo inicial para a **primeira co
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Finalizar e abrir o PR referente à issue #30 no repositório original.
+- [x] Finalizar e abrir o PR referente à issue #30 no repositório original.
 - [ ] Acompanhar o feedback da comunidade/mantenedores sobre a contribuição.
-- [ ] Buscar uma nova oportunidade de contribuição, de preferência no código (scrapers ou testes).
-- [ ] Aprofundar entendimento das migrations e arquitetura do banco de dados do projeto.
+- [x] Buscar uma nova oportunidade de contribuição, de preferência no código (scrapers ou testes).
+- [x] Aprofundar entendimento das migrations e arquitetura do banco de dados do projeto.
+
+## Sprint 2 – 25/09 - 02/10
+
+### Resumo da Sprint
+
+Nesta sprint o foco foi na **análise técnica aprofundada** dos repositórios do projeto e **correção de scrapers quebrados**. Após a contribuição inicial com documentação, avancei para um trabalho mais técnico de análise da arquitetura do sistema check-up e identificação de problemas nos scrapers de portais de notícias. O trabalho culminou na **correção completa do scraper do portal Estadão**, incluindo análise de problemas, desenvolvimento da solução e documentação técnica detalhada.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                          | Status    |
+| ---------- | --------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------- | --------- |
+| 25/09/2025 | Análise técnica dos 3 repositórios principais (check-up, docs, airflow-rag) | Estudo/Doc                        | [Análise Repositórios](repositórios analisados)                                          | Concluído |
+| 26/09/2025 | Identificação de 5 portais problemáticos e priorização de correções         | Análise                           | Brasil de Fato, RBS, Terra, Globo, Estadão                                               | Concluído |
+| 30/09/2025 | Análise detalhada da estrutura HTML do portal Estadão                       | Estudo/Código                     | Inspeção de https://www.estadao.com.br                                                   | Concluído |
+| 01/10/2025 | Re-inspeção de páginas individuais de notícias do Estadão                   | Estudo/Código                     | Análise de estrutura de artigos, paywall e seletores                                     | Concluído |
+| 01/10/2025 | Desenvolvimento da correção completa do spider Estadão                      | Código                            | [Spider Atualizado](https://github.com/EH-FAKE/check-up/blob/develop/spiders/estadao.py) | Concluído |
+| 01/10/2025 | Criação de issue técnica completa seguindo padrão                           | Doc                               | [Issue Estadão](https://github.com/EH-FAKE/check-up/issues/42)                           | Concluído |
+
+### Maiores Avanços
+
+- **Análise arquitetural completa**: Compreendi a estrutura completa do sistema
+- **Diagnóstico preciso**: Identifiquei que 8 portais estão funcionais e 5 problemáticos
+- **Solução técnica robusta**: Desenvolvi correção completa do Estadão com múltiplos seletores, tratamento de paywall e filtragem inteligente
+
+### Maiores Dificuldades
+
+- **Complexidade do paywall**: O Estadão tem muito conteúdo restrito para assinantes, exigindo estratégias de extração parcial
+- **Seletores CSS voláteis**: A estrutura HTML moderna do portal muda frequentemente, necessitando múltiplos seletores de fallback
+
+### Aprendizados
+
+- **Arquitetura de sistemas de scraping**: Compreendi como funciona a pipeline completa desde coleta de URLs até visualização no frontend
+- **Técnicas avançadas de web scraping**: Aprendi sobre tratamento de paywalls, múltiplos seletores, rate limiting e detecção de bot
+- **Playwright vs Scrapy**: Entendi quando usar cada ferramenta
+- **Análise de priorização técnica**: Aprendi a criar matrizes de decisão para correções em projetos reais
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] **Melhorar a correção do Estadão** no ambiente de desenvolvimento
+- [ ] **Testar e validar** a solução com as métricas definidas (70%+ taxa de extração)
+- [ ] **Fechar o PR** com a correção do Estadão no repositório original
+- [ ] **Iniciar correção do próximo portal**
+- [ ] **Contribuir com melhorias** no sistema de monitoramento de scrapers quebrados
+- [ ] **Documentar processo** de manutenção preventiva para evitar quebras futuras
