@@ -49,7 +49,7 @@ Na sprint 0 foram definidas duas frentes para contribuição, fork do projeto pr
 
   
 
-## Sprint 1 – \[Data início – Data fim]
+## Sprint 1 – 15/09 – 24/09
 
   
 
@@ -111,8 +111,68 @@ Nesta sprint eu analisei o fluxo de o fluxo de GCES do projeto, resolvi o proble
 
 * [ ] Abrir uma issue para melhora do fluxo de GCES do projeto.
 
-* [ ] Abrir meu primeiro PR.
+* [x] Abrir meu primeiro PR.
 
   
 
 ---
+
+
+
+## Sprint 2 – 25/09 – 01/10
+
+  
+
+### Resumo da Sprint
+
+  
+
+Nesta sprint abri meu primeiro PR para o projeto principal jhgugujb
+  
+
+### Atividades Realizadas
+
+  
+
+| Data   | Atividade                              | Tipo      | Link/Referência                               | Status  |
+|--------|----------------------------------------|-----------|-----------------------------------------------|---------|
+| 27/09  | PR sobre resolução de problemas na build od scraper| Doc | [PR](https://github.com/EH-FAKE/check-up/pull/44)                                 | Concluído |
+| 01/10  | Abrir issue sobre documentação de segurança no projeto          | Doc   | [Issue#45](https://github.com/EH-FAKE/check-up/issues/45)                                     | Concluído |
+
+
+  
+  
+
+### Maiores Avanços
+
+  
+
+* Primeiro PR aberto
+
+* Entendimento do fluxo de GCES do projeto
+
+  
+
+### Maiores Dificuldades
+
+  
+
+* Tempo disponível
+
+  
+
+### Aprendizados
+
+  
+
+* Fazer PR de um fork para o projeto principal
+
+  
+
+### Plano Pessoal para a Próxima Sprint
+
+
+  
+* [ ] Entender o fluxo de implementação do fluxo de scrap de um novo jornal.
+
+* [ ] Iniciar a implementação do scrap de um novo jornal.
