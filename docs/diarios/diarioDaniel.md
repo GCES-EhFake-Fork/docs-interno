@@ -64,7 +64,7 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 | 23/09 | Contribuição com 2 novos template de Issues para o CheckUp               | Código                            | [PR#29](https://github.com/EH-FAKE/check-up/pull/29)                            | Concluído |
 | 23/09 | Contribuição com a correção de contatos no template de Issues            | Código                            | [PR#24](https://github.com/EH-FAKE/check-up/pull/24)                            | Concluído |
 | 23/09 | Contribuição com o desenvolvimento de novos CI's para Issues Automáticas | Código                            | [PR#28](https://github.com/EH-FAKE/check-up/pull/28)                            | Concluído |
-| 24/09 | Contribuições na Documentação da Equipe                                  | Doc                               | [PR#32](https://github.com/GCES-EhFake-Fork/docs-interno/pull/32)                                                                            | Concluído |
+| 24/09 | Contribuições na Documentação da Equipe                                  | Doc                               | [PR#32](https://github.com/GCES-EhFake-Fork/docs-interno/pull/32)               | Concluído |
 
 ### Maiores Avanços
 
@@ -89,3 +89,46 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 - Selecionar um jornal para início do processo de WebScrapping;
 - Concluir 1 contribuição com a criação de um PR;
 - Participar com a revisão de 1 PR da equipe;
+
+---
+
+## Sprint 2 – 29/09/2025 - 08/10/2025
+
+### Resumo da Sprint
+
+A sprint 2 foi o início às contribuições de novos spiders e plays para a comunidade EH FAKE. O site jornalístico escolhido para a contribuição foi o [Cada Minuto](https://www.cadaminuto.com.br/), um dos sites que não foram avaliados por análises de fake news no projeto.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                    | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                       | Status    |
+| ----- | -------------------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- |
+| 30/09 | Criação do Plays para o Jornal Cada Minuto   | Código                            | [Commit](https://github.com/GCES-EhFake-Fork/checkUp/commit/fe58f79849de5f9f1b8688735fc49ffcfd8240c5) | Concluído |
+| 07/10 | Criação do Spiders para o Jornal Cada Minuto | Código                            | [Commit](https://github.com/GCES-EhFake-Fork/checkUp/commit/55ac5f5ad44168c01f15d3790360ec90127e8bca) | Concluído |
+
+### Maiores Avanços
+
+- **Implementação completa do scraper Cada Minuto**: Desenvolvido tanto o spider (coleta de URLs) quanto o play (extração de conteúdo) com sucesso, coletando 55 URLs na primeira execução;
+- **Resolução de problemas técnicos complexos**: Superou múltiplos desafios técnicos incluindo problemas de permissões, configuração do Playwright e dependências do Docker;
+- **Domínio da arquitetura do projeto**: Compreendi como spiders e plays interagem, desde a coleta até o armazenamento no PostgreSQL;
+- **Aplicação prática dos tutoriais**: Seguiu com sucesso os guias `TUTORIAL_CRIACAO_DO_ZERO.md` e `TUTORIAL_SPIDERS_PLAYS.md`, validando sua eficiência.
+
+### Maiores Dificuldades
+
+- **Problemas de permissões em containers Docker**: Enfrentei múltiplos erros de permissão nas pastas `sessions/`, `screenshots/` e `.cache/`, exigindo correções manuais com `chmod 777`;
+- **Configuração do Playwright**: Tive problemas com instalação de browsers (Firefox vs Chromium), dependências gráficas e timeouts em ambiente headless;
+- **Debugging de containers**: Precisei navegar entre diferentes comandos Docker (`exec` vs `run --rm`) para resolver problemas de execução;
+- **Análise de HTML complexo**: O site Cada Minuto possui estrutura mista (notícias + vídeos + subdomínios) que exigiu seletores CSS específicos e filtros robustos.
+
+### Aprendizados
+
+- **Arquitetura de Web Scraping**: Aprofundei conhecimento na separação entre coleta de URLs (spiders) e extração de conteúdo (plays), entendendo como cada componente se integra;
+- **Playwright em produção**: Aprendi sobre configuração de browsers headless, gerenciamento de sessões persistentes, tratamento de timeouts e resolução de problemas gráficos;
+- **Docker e permissões**: Compreendi como permissões de containers afetam operações de arquivo e como resolver conflitos entre usuários do host e container;
+- **Gestão de configuração**: Entendi a importância de configurações adequadas no Makefile, Dockerfile e arquivos `__init__.py` para integração de novos componentes.
+
+### Plano Pessoal para a Próxima Sprint
+
+- **Finalizar PR do scraper Cada Minuto**: Criar pull request com toda a implementação desenvolvida, incluindo testes e documentação adequada;
+- **Implementar testes automatizados**: Desenvolver testes unitários para validar o spider e play do Cada Minuto conforme padrões do projeto;
+- **Otimizar performance**: Analisar e melhorar eficiência do scraper, incluindo tratamento de erros e retry mechanisms;
+- **Revisar PR de colega**: Participar da revisão de pelo menos 1 PR de outro membro da equipe;
