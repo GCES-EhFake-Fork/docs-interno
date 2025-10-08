@@ -43,9 +43,9 @@ Organização do Grupo em subgrupos (Web-Scrapping e IA) e ambientação com o p
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Entender melhor o guia de Contribuição
-- [ ] Propor com a equipe o início da raspagem de algum portal
-- [ ] Reunir e alinhas os objetivos com a equipe
+- [X] Entender melhor o guia de Contribuição
+- [X] Propor com a equipe o início da raspagem de algum portal
+- [X] Reunir e alinhas os objetivos com a equipe
 
 ## Sprint 1 – 15/09 - 24/09
 
@@ -81,4 +81,37 @@ Foco em criar os scrapers dos portais Brasil de Fato e Agência Pública para co
 ### Plano Pessoal para a Próxima Sprint
 
 - [ ] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #40).
+- [ ] Avaliar e iniciar contribuição em um próximo portal.
+
+## Sprint 2 – 25/09 - 08/09
+
+### Resumo da Sprint
+
+Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organização , alguns testes de comunicação entre o front e back da aplicação e implementar algumas ideias de melhora no front 
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 22/09 | Implementação do Scrapper do portal Brasil de Fato        | Implementação                           | -         | Concluído |
+| 24/09 | Testes e adequação de CI       | Documentação e Teste                           | [PR#16](https://github.com/GCES-EhFake-Fork/checkUp/pull/16)          | Concluído |
+| 08/10 | Criação do Relatório da Sprint 12                                                    | Documentação                               | -                 | Concluído |
+
+### Maiores Avanços
+
+- Scrapers do Portal Brasil de Fato completo.
+- PRs abertos para revisão e feedback da equipe e mantenedores.
+
+### Maiores Dificuldades
+
+- Criar e adequar scrapper ao portal
+- Adequar a carga horaria para desenvolvimento e testes.
+
+### Aprendizados
+
+- Como fazer o scrapper passo-a-passo
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #16).
 - [ ] Avaliar e iniciar contribuição em um próximo portal.
