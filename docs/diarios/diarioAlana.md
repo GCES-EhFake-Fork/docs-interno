@@ -81,3 +81,40 @@ Foco em ajustar os scrapers dos portais Globo e Terra para coletar notícias de 
 
 - [ ] Acompanhar e endereçar feedbacks até o merge dos PRs (#33 e #36).
 - [ ] Avaliar e iniciar contribuição em um próximo portal.
+
+## Sprint 2 – 29/09/2025 - 08/10/2025
+
+### Resumo da Sprint
+
+Foco na inclusão de um novo portal no fluxo do projeto (Agora no Vale), com análise/mapeamento inicial do site, implementação do scraping e validação local por meio de testes manuais. Também foram produzidos e revisados materiais de documentação relacionados à sprint.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                          | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status    |
+| :--------- | :----------------------------------------------------------------- | :-------------------------------- | :---------------------------------------------------------------- | :-------- |
+| 01/10/2025 | Análise e mapeamento do portal Agora no Vale                       | Estudo                            |                                                                   | Concluído |
+| 05/10/2025 | Implementação do novo portal (Agora no Vale)                       | Código                            | [PR#55](https://github.com/EH-FAKE/check-up/pull/55)              | Concluído |
+| 08/10/2025 | Validação local, testes manuais e revisão dos resultados coletados | Teste/Revisão                     |                                                                   | Concluído |
+| 08/10/2025 | Revisão de Pull Request na documentação da equipe                  | Doc                               | [PR#56](https://github.com/GCES-EhFake-Fork/docs-interno/pull/56) | Concluído |
+| 08/10/2025 | Criação do Relatório da Sprint 2                                   | Doc                               |                                                                   | Concluído |
+
+### Maiores Avanços
+
+- Novo portal (Agora no Vale) integrado ao fluxo, com scraping implementado e validado localmente.
+- Resultados normalizados e revisados para garantir consistência (título, descrição, conteúdo e URL).
+- Contribuições de documentação e organização do material da sprint.
+
+### Maiores Dificuldades
+
+- Ajustes finos de seletores devido a variações na estrutura do portal.
+- Verificação de qualidade dos resultados coletados durante a validação manual.
+
+### Aprendizados
+
+- Passo a passo para inclusão de um novo portal (análise, implementação e validação).
+- Estratégias para tornar os seletores mais robustos frente a mudanças de HTML.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar feedbacks e merge do PR #55.
+- [ ] Identificar e iniciar o próximo portal a ser adicionado.
