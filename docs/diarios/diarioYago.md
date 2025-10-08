@@ -10,7 +10,7 @@
 
 ### Resumo da Sprint
 
-A sprint inicial teve como objetivo compreender o projeto, a documentação, as políticas de contribuição, assim como a preparação do ambiente local.
+A sprint foi focada em desenvolver o spider e play para o portal Congresso em Foco, conforme a Issue [#51](https://github.com/EH-FAKE/check-up/issues/51).
 
 ### Atividades Realizadas
 
