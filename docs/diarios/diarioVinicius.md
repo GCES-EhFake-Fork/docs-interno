@@ -39,5 +39,36 @@ Foquei nessa sprint para entender melhor a comunidade do projeto e estudar como 
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Adicionar filtros melhores para as noticias no FrontEnd
-* [ ] Melhorar documentação do gitpages do projeto.
+* [x] Adicionar filtros melhores para as noticias no FrontEnd
+* [x] Melhorar documentação do gitpages do projeto.
+
+## Sprint 2 – 25/09 - 08/09
+
+### Resumo da Sprint
+
+Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organização , alguns testes de comunicação entre o front e back da aplicação e implementar algumas ideias de melhora no front 
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 25/09 | Testes em como adicionar elementos no Front de maneira correta        | Código/Teste                           | -         | Concluído |
+| 30/09 | Começo da impletanção das área de Tags populares        | Código/Teste                           | -          | Concluído |
+| 02/10 | Finalização da impletanção das área de Tags populares           | Código                           | [PR#46](https://github.com/EH-FAKE/check-up/pull/46)            | Concluído |
+
+### Maiores Avanços
+
+* Entendimento de como esta estruturado o codigo fonte da pagina.
+* Consegui adicionar um elemento que pode ajudar muitos no fluxo de pesquisa
+
+### Maiores Dificuldades
+
+* Padronizar os componontes da pagina.
+* Manipular corretamente as imformções das noticias
+
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Melhorar a visualização das noticias.
+* [ ] Adequar um pouco mais para o Mobile
+
