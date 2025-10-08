@@ -75,3 +75,36 @@ Foquei nessa sprint em melhorar os meios para a criação de uma comunidade ao p
 
 * [ ] Ir atrás de resolver problemas de configuração do ambiente local.
 * [ ] Melhorar documentação do gitpages do projeto.
+
+## Sprint 2 – 29/09 - 08/10
+
+### Resumo da Sprint
+
+Busquei resolver problemas de configuração de ambiente que foram encontrados por alguns membros e iniciei o processo de revisão de PR's para auxiliar no merge e conseguir manter um histórico de versão consistente do código.
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 07/10 | Correção do bug de Acess Denied do scraper            | Código                           | [PR #56](https://github.com/EH-FAKE/check-up/pull/56)            | Concluído |
+| 07/10 | Auxilio na revisão e elaboração da solução do bug de browsers do playwright            | Discussão/Revisão                            | [PR #49](https://github.com/EH-FAKE/check-up/pull/49)            | Concluído |
+
+
+
+### Maiores Avanços
+
+* Correção dos bugs e problemas que impediam a execução do projeto
+
+### Maiores Dificuldades
+
+* Problemas de comunicação na equipe que gerou issues duplicadas
+
+### Aprendizados
+
+* Aprendi sobre as configurações dos conteiners do projeto.
+
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Revisar PR's das sprints 1 e 2
+* [ ] Arrumar organização do código
