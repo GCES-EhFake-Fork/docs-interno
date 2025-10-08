@@ -96,7 +96,7 @@ Foco na inclusão de um novo portal no fluxo do projeto (Agora no Vale), com an�
 | 05/10/2025 | Implementação do novo portal (Agora no Vale)                       | Código                            | [PR#55](https://github.com/EH-FAKE/check-up/pull/55)              | Concluído |
 | 08/10/2025 | Validação local, testes manuais e revisão dos resultados coletados | Teste/Revisão                     |                                                                   | Concluído |
 | 08/10/2025 | Revisão de Pull Request na documentação da equipe                  | Doc                               | [PR#56](https://github.com/GCES-EhFake-Fork/docs-interno/pull/56) | Concluído |
-| 08/10/2025 | Criação do Relatório da Sprint 2                                   | Doc                               |                                                                   | Concluído |
+| 08/10/2025 | Criação do Relatório da Sprint 2                                   | Doc                               | [PR#62](https://github.com/GCES-EhFake-Fork/docs-interno/pull/62) | Concluído |
 
 ### Maiores Avanços
 
