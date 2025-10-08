@@ -10,7 +10,7 @@
 
 ### Resumo da Sprint
 
-A sprint foi focada em desenvolver o spider e play para o portal Congresso em Foco, conforme a Issue [#51](https://github.com/EH-FAKE/check-up/issues/51).
+A sprint inicial teve como objetivo compreender o projeto, a documentação, as políticas de contribuição, assim como a preparação do ambiente local.
 
 ### Atividades Realizadas
 
@@ -82,7 +82,7 @@ A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo 
 
 ### Resumo da Sprint
 
-A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo em vista a mudança para o webscrapping ao invés do grupo de IA, assim como configurar o ambiente para rodar localmente o projeto.
+A sprint foi focada em desenvolver o spider e play para o portal Congresso em Foco, conforme a Issue [#51](https://github.com/EH-FAKE/check-up/issues/51).
 
 ### Atividades Realizadas
 
