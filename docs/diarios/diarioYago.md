@@ -77,3 +77,39 @@ A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo 
 * [ ] Contribuir com pelo menos 1 issue.
 
 ---
+
+## Sprint 2 – 29/09/2025 - 08/10/2025
+
+### Resumo da Sprint
+
+A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo em vista a mudança para o webscrapping ao invés do grupo de IA, assim como configurar o ambiente para rodar localmente o projeto.
+
+### Atividades Realizadas
+
+| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
+| ----- | --------------------------- | ------- | --------------- | --------- |
+| 04/10 | Desenvolvimento do spider para o portal Congresso em Foco | Código  |   -    | Concluído |
+| 05/10 | Desenvolvimento do play para o portal Congresso em Foco   | Código  |   -   | Concluído |
+| 08/10 | Criação da Issue no repositório do projeto  | Código  |   [Issue#51](https://github.com/EH-FAKE/check-up/issues/51)   | Concluído |
+
+
+### Maiores Avanços
+
+* Criação do spider e play para o portal Congresso em Foco.
+
+### Maiores Dificuldades
+
+* Dificuldade com a verificação dos dados coletados.
+
+### Aprendizados
+
+* Consegui criar o spider e play para o portal Congresso em Foco com base no modelo proposto pelo projeto.
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Testar o spider e play para o portal Congresso em Foco.
+* [ ] Fazer o Pull Request com as alterações para a Issue [#51](https://github.com/EH-FAKE/check-up/issues/51).
+* [ ] Participar da revisão de código de um colega.
+* [ ] Iniciar o desenvolvimento de um webscrapping para um novo portal.
+
+---
