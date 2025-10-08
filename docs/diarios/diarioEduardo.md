@@ -82,3 +82,30 @@ Esta sprint foi dedicada ao **início da implementação de um novo web scraping
 *   **[ ] Concluir a implementação do spider e play para o Jornal de Brasília**: Finalizar o desenvolvimento do spider, garantindo a coleta de URLs do Jornal, bem como o desenvolvimento do play para processar essas URLs.
 *   **[ ] Adicionar tratamento de erros e robustez**: Tratar possíveis variações, por exemplo, está retornando URLs gerais que não são notícias.
 
+
+## Sprint 2 – 25/09/2025 - 08/10/2025
+
+### Resumo da Sprint
+Esta sprint foi dedicada à **conclusão do web scraping para o Jornal de Brasília** e ao aprofundamento dos conhecimentos sobre a pipeline geral, permitiu a concretização do conhecimento em realação as etapas principais, sendo elas: crawling, scraping e armazenamento.. O objetivo principal foi finalizar a implementação da extração de notícias deste portal, garantindo sua funcionalidade e robustez. As atividades incluíram a depuração, otimização e validação do spider e play.
+
+### Atividades Realizadas
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+|------------|-----------------------------------------------|-----------------------------------|-----------------------------------------------------|-----------|
+| 25/09/2025 | Continuação do desenvolvimento da play | Código | - | Concluído |
+| 30/09/2025 | Debug e otimização da play do Jornal de Brasília | Código | - | Concluído |
+| 01/10/2025 | Estudo e aprofundamento da Play, seleção e escolha correta dos seletores | Estudo/Doc | - | Concluído |
+| 07/10/2025 | Conclusão do scrapping do Jornal de Brasília e Abri uma issue relacionada | Código | [PR#53](https://github.com/EH-FAKE/check-up/pull/53)  [Issue#50](https://github.com/EH-FAKE/check-up/issues/50) | Concluído |
+
+### Maiores Avanços
+*   **Conclusão da play do Jornal de Brasília**: O play para o Jornal de Brasília foi finalizado, testado e validado, garantindo a extração completa dos dados das notícias (título, URL, corpo e descrição) usando as URLs coletadas. 
+*   **Aprofundamento técnico**: Maior entendimento sobre o funcionamento e a integração das ferramentas Aplay e Spider no fluxo de trabalho.
+
+### Maiores Dificuldades
+*   Dificuldade na seleção dos seletores.
+
+### Aprendizados
+*   Aprofundamento no funcionamento e integração das etapas do scrapping, compreendendo melhor seus conceitos e aplicações.
+*   Reforço da importância da análise prévia da estrutura do site para o desenvolvimento eficiente de spiders.
+
+### Plano Pessoal para a Próxima Sprint
+*   **[ ] Iniciar o desenvolvimento de um novo portal**: Começar a análise e implementação do web scraping para um novo portal, aplicando os conhecimentos adquiridos.
