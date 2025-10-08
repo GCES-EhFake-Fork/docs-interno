@@ -77,7 +77,36 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 
 ---
 
-## Sprint 2 – \[Data início – Data fim]
+## Sprint 2 – 25/09/2025 - 08/09/2025
 
-*(Repete-se a mesma estrutura, até o final da disciplina.)*
-    
+### Resumo da Sprint
+
+A sprint foi focada em desenvolver a melhoria de de um crawl/scraper, além de ajustar um erro de configuração do playwright.
+
+### Atividades Realizadas
+
+| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
+| ----- | --------------------------- | ------- | --------------- | --------- |
+| 01/10 | Melhoria do Crawler e do Scraper RBS   | Código  | [PR aberto](https://github.com/EH-FAKE/check-up/pull/38)      | Concluído |
+| 08/10 | Correção dos arquivos de configuração de ambiente    | Código | [PR aberto](https://github.com/EH-FAKE/check-up/pull/49)      | Concluído |
+| 08/10 | Revisão de PRs de documentos internos    | Documentação | - | Concluído |
+
+### Maiores Avanços
+
+* Correção da configuração de ambiente
+* Conclusão do Crawler e Scraper do portal RBS
+
+### Maiores Dificuldades
+
+* Configuração do Scraper
+* Configuração do dockerfile
+
+### Aprendizados
+
+* Aprendizado sobre configuração de ambiente Docker
+* WebScrapping
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Melhorar conhecimento em testes.
+* [ ] Criar um webscrapping para um jornal não listado
