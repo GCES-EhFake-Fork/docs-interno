@@ -53,8 +53,8 @@ Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organizaç�
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
 | 25/09 | Testes em como adicionar elementos no Front de maneira correta        | Código/Teste                           | -         | Concluído |
-| 30/09 | Começo da impletanção das área de Tags populares        | Código/Teste                           | -          | Concluído |
-| 02/10 | Finalização da impletanção das área de Tags populares           | Código                           | [PR#46](https://github.com/EH-FAKE/check-up/pull/46)            | Concluído |
+| 30/09 | Começo da implementação das área de Tags populares        | Código/Teste                           | -          | Concluído |
+| 02/10 | Finalização da implementação das área de Tags populares           | Código                           | [PR#46](https://github.com/EH-FAKE/check-up/pull/46)            | Concluído |
 
 ### Maiores Avanços
 
@@ -82,10 +82,10 @@ Foquei nessa sprint implementar algumas ideias de melhora no front
 
 | Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
 | ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 10/10 | Começo da impletanção das melhorias de IU do front   | Código/Teste                           | -         | Concluído |
-| 15/10 | Finalização  da impletanção das melhorias de IU do front   | Código                        |[PR#58](https://github.com/EH-FAKE/check-up/pull/58)| Concluído |
-| 17/10 | Começo da impletanção das área de noticias favoritas       | Código                         | -          | Concluído |
-| 21/10 | Finalização da impletanção das área noticias favoritas     | Código                           | [PR#60](https://github.com/EH-FAKE/check-up/pull/60)| Concluído |
+| 10/10 | Começo da implementação das melhorias de IU do front   | Código/Teste                           | -         | Concluído |
+| 15/10 | Finalização  da implementação das melhorias de IU do front   | Código                        |[PR#58](https://github.com/EH-FAKE/check-up/pull/58)| Concluído |
+| 17/10 | Começo da implementação das área de noticias favoritas       | Código                         | -          | Concluído |
+| 21/10 | Finalização da implementação das área noticias favoritas     | Código                           | [PR#60](https://github.com/EH-FAKE/check-up/pull/60)| Concluído |
 
 ### Maiores Avanços
 * Consegui adicionar melhorias que deixam o site mais bonito e intuitivo
