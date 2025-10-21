@@ -42,7 +42,7 @@ Foquei nessa sprint para entender melhor a comunidade do projeto e estudar como 
 * [x] Adicionar filtros melhores para as noticias no FrontEnd
 * [x] Melhorar documentação do gitpages do projeto.
 
-## Sprint 2 – 25/09 - 08/09
+## Sprint 2 – 25/09 - 08/10
 
 ### Resumo da Sprint
 
@@ -69,6 +69,29 @@ Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organizaç�
 
 ### Plano Pessoal para a Próxima Sprint
 
-* [ ] Melhorar a visualização das noticias.
+* [x] Melhorar a visualização das noticias.
+* [ ] Adequar um pouco mais para o Mobile
+
+## Sprint 3 – 09/10 - 22/10
+
+### Resumo da Sprint
+
+Foquei nessa sprint implementar algumas ideias de melhora no front 
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 10/10 | Começo da impletanção das melhorias de IU do front   | Código/Teste                           | -         | Concluído |
+| 15/10 | Finalização  da impletanção das melhorias de IU do front   | Código                        |[PR#58](https://github.com/EH-FAKE/check-up/pull/58)| Concluído |
+| 17/10 | Começo da impletanção das área de noticias favoritas       | Código                         | -          | Concluído |
+| 21/10 | Finalização da impletanção das área noticias favoritas     | Código                           | [PR#60](https://github.com/EH-FAKE/check-up/pull/60)| Concluído |
+
+### Maiores Avanços
+* Consegui adicionar melhorias que deixam o site mais bonito e intuitivo
+* Consegui adicionar um elemento que pode ajudar muito na organização das noticias 
+
+### Plano Pessoal para a Próxima Sprint
+
 * [ ] Adequar um pouco mais para o Mobile
 
