@@ -113,5 +113,48 @@ Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organizaç�
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #16).
+- [X] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #16).
 - [ ] Avaliar e iniciar contribuição em um próximo portal.
+
+## Sprint 3 – 09/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+A Sprint 3 teve como foco principal a **documentação do framework de testes automatizados do projeto Check-up**, consolidando o estado atual da cobertura de testes, sua estrutura, ferramentas utilizadas e integração com o pipeline de CI/CD.
+O objetivo foi tornar o ambiente de testes mais compreensível e acessível à equipe, padronizando processos e registrando todas as dependências, estratégias e convenções utilizadas.
+Essa entrega fortalece a base de qualidade do projeto, facilitando futuras contribuições e manutenção do sistema de testes.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                                  | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status    |
+| ---------- | ------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- | --------- |
+| 20/10/2025 | Criação de uma documentação descrevendo o estado atual dos testes                          | Documentação                      | [PR#23](https://github.com/GCES-EhFake-Fork/checkUp/pull/23)      | Concluído |
+| 20/10/2025 | Criação de uma Issue de implementação de melhorias na área de testes                       | Documentação                      | [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22) | Concluído |
+| 22/10/2025 | Revisão do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) e adição das contribuições | Discussão/Documentação            | [PR#23](https://github.com/GCES-EhFake-Fork/checkUp/pull/23)      | Concluído |
+
+### Maiores Avanços
+
+* **Documentação centralizada e completa**: Criação de um documento abrangente descrevendo a estrutura dos testes, dependências, estratégias e integração com CI/CD;
+* **Mapeamento da cobertura de testes**: Identificação dos módulos testados (como `BasePlay` e `UOLPlay`), quantificação de métodos e avaliação de lacunas de cobertura;
+* **Padronização de convenções**: Definição clara de padrões de nomenclatura, organização de diretórios e boas práticas para criação de novos testes;
+* **Integração ao fluxo de desenvolvimento**: Consolidação da execução de testes dentro do pipeline automatizado, garantindo execução contínua;
+* **Colaboração ativa na revisão**: Participação direta na revisão cruzada de PRs e integração de contribuições de outros membros da equipe.
+
+### Maiores Dificuldades
+
+* **Curadoria de informações**: Reunir e consolidar dados dispersos sobre os testes exigiu leitura detalhada de múltiplos arquivos e históricos de PRs;
+* **Atualização de referências**: Garantir que todos os exemplos de código, versões de dependências e links estivessem atualizados e coerentes;
+* **Alinhamento entre repositórios**: Ajustar referências e links para refletir corretamente as diferenças entre forks e o repositório principal;
+* **Equilíbrio entre detalhe e clareza**: Redigir uma documentação técnica extensa sem comprometer a legibilidade e objetividade.
+
+### Aprendizados
+
+* **Boas práticas de documentação técnica**: Aprofundamento na escrita de documentação de testes de software voltada para equipes colaborativas;
+* **Compreensão do ecossistema de testes**: Entendimento mais sólido sobre a integração entre pytest, Docker, banco de dados e CI/CD;
+* **Colaboração assíncrona**: Desenvolvimento de habilidades de comunicação e revisão em PRs colaborativos e cross-repo;
+* **Padronização de testes**: Importância de manter consistência entre nomes, estrutura e convenções para facilitar manutenção futura.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar reviews do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) até o merge na branch principal
+- [ ] Implementar melhorias descritas e finalizar a [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22)
