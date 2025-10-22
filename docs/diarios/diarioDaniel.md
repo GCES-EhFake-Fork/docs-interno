@@ -86,7 +86,7 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 
 ### Plano Pessoal para a Próxima Sprint
 
-- Selecionar um jornal para início do processo de WebScrapping;
+- Selecionar um jornal para início do processo de WebScraping;
 - Concluir 1 contribuição com a criação de um PR;
 - Participar com a revisão de 1 PR da equipe;
 
@@ -132,3 +132,52 @@ A sprint 2 foi o início às contribuições de novos spiders e plays para a com
 - **Implementar testes automatizados**: Desenvolver testes unitários para validar o spider e play do Cada Minuto conforme padrões do projeto;
 - **Otimizar performance**: Analisar e melhorar eficiência do scraper, incluindo tratamento de erros e retry mechanisms;
 - **Revisar PR de colega**: Participar da revisão de pelo menos 1 PR de outro membro da equipe;
+
+---
+
+## Sprint 3 – 09/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+A Sprint 3 foi focada na **reorganização e centralização da documentação** da comunidade EH FAKE. O objetivo principal foi migrar todo o conteúdo do repositório de documentação separado (`EH-FAKE/docs`) para o repositório principal do projeto (`EH-FAKE/check-up`), criando uma estrutura unificada e eliminando a necessidade de manter dois repositórios distintos. Esta consolidação visa simplificar a manutenção, melhorar a descoberta de informações e centralizar todas as contribuições em um único local.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                                                           | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                           | Status    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------- | --------------------------------------------------------- | --------- |
+| 11/10/2025 | Análise e entendimento da estrutura do repositório de documentação antigo (`EH-FAKE/docs`)                          | Doc/Estudo                        | [EH-FAKE/docs](https://github.com/EH-FAKE/docs)           | Concluído |
+| 18/10/2025 | Transferência e organização dos arquivos de documentação para o repositório principal                               | Doc                               | -                                                         | Concluído |
+| 21/10/2025 | Abertura do Pull Request para migração da documentação para a branch `documentation`                                | Doc/Discussão                     | [PR#62](https://github.com/EH-FAKE/check-up/pull/62)      | Concluído |
+| 21/10/2025 | Criação e abertura da Issue para acompanhar a centralização da documentação                                         | Doc/Discussão                     | [Issue#63](https://github.com/EH-FAKE/check-up/issues/63) | Concluído |
+| 21/10/2025 | Revisão, ajustes, testes e aprovação da documentação migrada em dupla, com envio do PR para o repositório principal | Doc/Discussão/Teste               | -                                                         | Concluído |
+
+### Maiores Avanços
+
+- **Unificação bem-sucedida dos repositórios**: Conseguir migrar com sucesso toda a documentação do repositório separado para o repositório principal, criando uma estrutura de projeto mais coesa;
+- **Configuração de CI/CD para documentação**: Implementar workflow automatizado para build e deploy da documentação usando GitHub Actions, garantindo que mudanças sejam refletidas automaticamente;
+- **Criação da branch `documentation`**: Estabelecer uma branch dedicada para gerenciar a documentação, permitindo workflows específicos sem interferir no desenvolvimento principal;
+- **Colaboração efetiva em dupla**: Trabalhar em conjunto com outro membro da equipe para revisar, testar e validar toda a migração antes do merge;
+- **Estruturação de Issue tracking**: Criar issue específica para acompanhar o processo de centralização, estabelecendo transparência e rastreabilidade das mudanças.
+
+### Maiores Dificuldades
+
+- **Análise e curadoria de conteúdo**: Determinar quais conteúdos do repositório antigo eram relevantes e quais deveriam ser removidos ou atualizados exigiu análise cuidadosa;
+- **Configuração do workflow de CI/CD**: Enfrentou desafios na configuração do GitHub Actions para funcionar especificamente com a branch `documentation`, incluindo problemas de trigger e permissões;
+- **Migração de histórico**: Preservar contexto histórico importante durante a transferência de arquivos entre repositórios sem perder rastreabilidade;
+- **Coordenação entre repositórios**: Gerenciar a transição de forma que não impactasse contribuidores ativos em ambos os repositórios durante o período de migração;
+- **Testes de integração**: Validar que todos os links, referências e dependências continuaram funcionando após a migração da estrutura.
+
+### Aprendizados
+
+- **Gestão de repositórios**: Compreendi melhor as vantagens de manter documentação e código no mesmo repositório, incluindo facilidade de sincronização e redução de overhead de manutenção;
+- **GitHub Actions avançado**: Aprofundei conhecimento em workflows condicionais, triggers específicos por branch e configuração de permissões para deployment automatizado;
+- **Curadoria de documentação**: Aprendi a avaliar criticamente conteúdo de documentação, identificando o que agrega valor versus o que pode estar desatualizado ou redundante;
+- **Colaboração em migração**: Desenvolveu habilidades de trabalho em dupla para validação de mudanças estruturais importantes, entendendo a importância de revisão cruzada;
+- **Estratégias de consolidação**: Entendi como planejar e executar migrações de repositórios mantendo integridade e continuidade do projeto.
+
+### Plano Pessoal para a Próxima Sprint
+
+- **Finalizar PR do scraper Cada Minuto**: Retomar o desenvolvimento do scraper pausado durante a Sprint 3, criando pull request com implementação completa e documentação atualizada;
+- **Melhorar documentação técnica**: Com a nova estrutura unificada, contribuir com melhorias na documentação técnica do projeto, especialmente nos tutoriais de criação de scrapers;
+- **Configurar monitoramento de documentação**: Implementar verificações automáticas de qualidade da documentação (links quebrados, formatação, etc.) no workflow de CI/CD;
+- **Revisar PRs da equipe**: Participar ativamente da revisão de pull requests de outros membros, especialmente aqueles relacionados à nova estrutura de documentação;
