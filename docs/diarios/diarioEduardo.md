@@ -109,3 +109,38 @@ Esta sprint foi dedicada à **conclusão do web scraping para o Jornal de Brasí
 
 ### Plano Pessoal para a Próxima Sprint
 *   **[ ] Iniciar o desenvolvimento de um novo portal**: Começar a análise e implementação do web scraping para um novo portal, aplicando os conhecimentos adquiridos.
+
+
+## Sprint 3 – 09/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+Esta sprint foi focada na **organização e centralização da documentação do projeto**, transferindo-a de um repositório separado para o repositório principal e alocando-a em uma branch dedicada (`documentation`). Esta decisão foi tomada em função de uma nova divisão de tarefas em grupo, onde optei por priorizar as atividades de documentação nesta sprint, em vez de iniciar o desenvolvimento de um novo portal como planejado anteriormente. Trabalhei em dupla com Daniel Rodrigues ([GitHubl](https://github.com/DanielRogs)) nesta iniciativa. O objetivo principal foi melhorar a acessibilidade, manutenção e alinhamento com as diretrizes acadêmicas. As atividades incluíram a criação e formatação da descrição de um Pull Request (PR) e de uma Issue para gerenciar essa migração.
+
+### Atividades Realizadas
+
+| Data | Atividade | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status |
+|------------|-----------------------------------------------|-----------------------------------|-----------------------------------------------------|-----------|
+| 11/10/2025 | Análise e entendimento da estrutura do repositório de documentação antigo (`EH-FAKE/docs`) | Doc/Estudo | [EH-FAKE/docs](https://github.com/EH-FAKE/docs) | Concluído |
+| 18/10/2025 | Transferência e organização dos arquivos de documentação para o repositório principal | Doc | - | Concluído |
+| 21/10/2025 | Abertura do Pull Request para migração da documentação para a branch `documentation` | Doc/Discussão | [PR#62](https://github.com/EH-FAKE/check-up/pull/62) | Concluído |
+| 21/10/2025 | Criação e abertura da Issue para acompanhar a centralização da documentação | Doc/Discussão | [Issue#63](https://github.com/EH-FAKE/check-up/issues/63) | Concluído |
+| 21/10/2025 | Revisão, ajustes, testes e aprovação da documentação migrada em dupla, com envio do PR para o repositório principal | Doc/Discussão/Teste | - | Concluído |
+
+
+### Maiores Avanços
+*   **Centralização da Documentação**: A documentação foi migrada com sucesso para o repositório principal, residindo agora na branch `documentation`, o que melhora significativamente a organização e o acesso. 
+*   **Padronização de Processos**: Criação de um PR e uma Issue detalhados, seguindo padrões de desenvolvimento, para gerenciar a migração da documentação, garantindo um processo claro e rastreável.
+*   **Alinhamento Acadêmico**: Ação direta para atender à recomendação da professora de manter projeto e documentação no mesmo repositório.
+
+### Maiores Dificuldades
+*   Ajuste dos caminhos relativos e links internos na documentação após a migração para garantir que todos os recursos estejam acessíveis na nova estrutura.
+*   Adaptação do conteúdo existente aos padrões de PR e Issue, exigindo atenção aos detalhes e formatação.
+
+### Aprendizados
+*   Reforço da importância da gestão de documentação como parte integrante do ciclo de vida do desenvolvimento de software.
+*   Melhor compreensão sobre a criação e gerenciamento de Pull Requests e Issues para tarefas de organização e manutenção, não apenas para desenvolvimento de código.
+*   Aprimoramento na utilização de branches dedicadas para documentação, visando a estabilidade da branch `develop`.
+
+### Plano Pessoal para a Próxima Sprint
+*   [ ] Iniciar o desenvolvimento de um novo portal, aplicando os conhecimentos de web scraping adquiridos.
+*   [ ] Ou, colaborar em uma atividade em dupla, focando em um novo módulo ou funcionalidade do projeto.
