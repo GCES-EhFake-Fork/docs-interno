@@ -125,6 +125,8 @@ Esta sprint foi focada na **organização e centralização da documentação do
 | 21/10/2025 | Abertura do Pull Request para migração da documentação para a branch `documentation` | Doc/Discussão | [PR#62](https://github.com/EH-FAKE/check-up/pull/62) | Concluído |
 | 21/10/2025 | Criação e abertura da Issue para acompanhar a centralização da documentação | Doc/Discussão | [Issue#63](https://github.com/EH-FAKE/check-up/issues/63) | Concluído |
 | 21/10/2025 | Revisão, ajustes, testes e aprovação da documentação migrada em dupla, com envio do PR para o repositório principal | Doc/Discussão/Teste | - | Concluído |
+| 22/10/2025 | Remoção do uso do Chromium no Play do Jornal de Brasília conforme revisão de PR, e adição no crate_db | Código | [#Commit](https://github.com/EH-FAKE/check-up/pull/53/commits/cd814a6ae7dc245f838d00c6c3b1e909cac5c1cd), [#Commit](https://github.com/GCES-EhFake-Fork/checkUp/commit/9766c9b2f0d8180bdb848706bf8eea26c7ff6fa4) | Concluído |
+
 
 
 ### Maiores Avanços
