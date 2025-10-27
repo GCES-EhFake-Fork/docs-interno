@@ -49,7 +49,7 @@
 
 ---
 
-## 5. Dificuldades e Pendências
+## 4. Dificuldades e Pendências
 
 - Diferenças de ambiente dificultando reprodução de alguns cenários de scraping.
 - Falta de fixtures/dados de exemplo para testes locais em certos portais.
@@ -57,7 +57,7 @@
 
 ---
 
-## Dificuldades Coletivas
+## 5. Dificuldades Coletivas
 
 - Manter documentação e código no mesmo repositório simplifica manutenção e aumenta a rastreabilidade.
 - Checklists de review com evidências (logs/prints/saídas) elevam a qualidade e reduzem re-reviews.
