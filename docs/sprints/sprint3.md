@@ -49,14 +49,6 @@
 
 ---
 
-## 4. Aprendizados e Decisões
-
-- Manter documentação e código no mesmo repositório simplifica manutenção e aumenta a rastreabilidade.
-- Checklists de review com evidências (logs/prints/saídas) elevam a qualidade e reduzem re-reviews.
-- Seletores e parsing devem ser pensados para resiliência a mudanças de layout.
-
----
-
 ## 5. Dificuldades e Pendências
 
 - Diferenças de ambiente dificultando reprodução de alguns cenários de scraping.
@@ -65,16 +57,15 @@
 
 ---
 
-## 6. Métricas e Evidências
+## Dificuldades Coletivas
 
-- Documentação: PR#62, Issue#63
-- Scrapers: PR#64 (Poder360), PR#65 (Jornal da Paraíba)
-- Front-end: PR#58 (UI), PR#60 (Favoritos)
-- Reviews/feedbacks: PR#21, PR#38, PR#39, PR#53, PR#64, PR#65
+- Manter documentação e código no mesmo repositório simplifica manutenção e aumenta a rastreabilidade.
+- Checklists de review com evidências (logs/prints/saídas) elevam a qualidade e reduzem re-reviews.
+- Seletores e parsing devem ser pensados para resiliência a mudanças de layout.
 
 ---
 
-## 7. Planejamento para a Próxima Sprint
+## 6. Próximos Passos
 
 - [ ] Re-reviews e acompanhamento dos PRs até merge.
 - [ ] Adicionar checklist de revisão no repositório (modelo de PR/guia de contribuição).
