@@ -131,7 +131,7 @@ Nesta sprint o foco foi na **análise técnica aprofundada** dos repositórios d
 - [x] **Contribuir com melhorias** no sistema de monitoramento de scrapers quebrados
 - [x] **Documentar processo** de manutenção preventiva para evitar quebras futuras
 
-## Sprint 3 – 13/10/2025 - 22/10/2025
+## Sprint 3 – 13/10 - 22/10/
 
 ### Resumo da Sprint
 
@@ -191,3 +191,54 @@ Essas implementações representam um avanço significativo para a Engenharia e 
 - [ ] Trabalhar na automatização dos testes para os spiders, com foco em evitar regressões.
 - [ ] Monitorar feedback dos mantenedores após submissão de PRs referentes às melhorias implementadas.
 - [ ] Continuar documentação do processo e melhoria da governança na equipe e comunidade.
+
+## Sprint 4 – 18/11 - 19/11
+
+### Resumo da Sprint
+
+Nesta sprint o foco principal foi a implementação completa do middleware para rate limiting inteligente e circuit breaker no sistema de scrapers do projeto Check Up, com o objetivo de evitar bloqueios de IP e detectar de forma rápida quando os portais monitorados estão restringindo o acesso. Essa camada intermediária (middleware) foi integrada à pipeline dos scrapers, garantindo maior resiliência, redução de erros causados por bloqueios e melhora na estabilidade das execuções.
+
+A implementação foi feita conforme especificado na issue #85 e submetida via Pull Request #86. Essa etapa representa um avanço substancial nas práticas de engenharia e operação do sistema, evitando falhas silenciosas e otimizando a utilização dos recursos de rede.
+
+
+### Atividades Realizadas
+
+| Data       | Atividade                                           | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                          | Status    |
+| ---------- | --------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------- | --------- |
+| 18/11/2025 | Implementação do middleware de rate limiting e circuit breaker | Código                            | [Pull Request #86](https://github.com/EH-FAKE/check-up/pull/86)                                          | Concluído |
+| 19/11/2025 | Integração do middleware com pipeline dos scrapers | Código                            | [Pull Request #86](https://github.com/EH-FAKE/check-up/pull/86)                                          | Concluído |
+| 19/11/2025 | Testes iniciais da funcionalidade e correções       | Testes                            | Interno                                                                                                | Concluído |
+| 19/11/2025 | Atualização da documentação do middleware            | Documentação                      | Incluída no repositório conforme PR e comentários                                                       | Concluído |
+
+
+### Maiores Avanços
+
+- Middleware eficiente para controle fino de requisições, evitando bloqueios por excesso de chamadas (rate limiting).  
+- Circuit breaker que detecta padrões de falhas em portais, interrompendo requisições temporariamente para evitar banimento.  
+- Integração transparente com o framework Scrapy, utilizando middlewares personalizados para monitorar e controlar requisições HTTP.  
+- Código limpo e documentado, seguindo padrão do repositório e práticas recomendadas para contribuição.  
+- Melhoria da robustez e resiliência do sistema, diminuindo erros operacionais causados por limitações externas.
+
+
+### Maiores Dificuldades
+
+- Ajustes para balancear tolerância do circuito e tempo de recuperação, evitando tanto bloqueios prematuros quanto exposição a falhas prolongadas.  
+- Validação e testes para garantir que a limitação não prejudique a coleta de dados, mantendo boa performance.  
+- Entendimento da arquitetura interna para integrar o middleware ao ciclo do Scrapy sem impactar outros componentes.
+
+
+### Aprendizados
+
+- Importância da aplicação de circuit breaker para evitar cascatas e melhorar a estabilidade em sistemas que dependem de terceiros.  
+- Melhores práticas em implementação de rate limiting para scrapers em ambientes reais, balanceando restrição e produtividade.  
+- Processo de revisão de código colaborativa via pull requests, fortalecendo a governança e qualidade do software.  
+- Valor de documentação detalhada para facilitar manutenção e onboarding de novos colaboradores.
+
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Planejar e iniciar implementação da suite de testes automatizados para middleware e scrapers.  
+- [ ] Expandir cobertura dos testes para os scrapers recém-adaptados para versões mais resilientes.  
+- [ ] Acompanhar feedback dos mantenedores e comunidade para validar e potencialmente otimizar o middleware implementado.  
+- [ ] Continuar aprimorando documentação de arquitetura e operação do projeto para facilitar contribuições futuras.  
+- [ ] Investigar automações para monitoramento em tempo real da saúde dos scrapers integrando o middleware.
