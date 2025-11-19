@@ -181,3 +181,92 @@ A Sprint 3 foi focada na **reorganização e centralização da documentação**
 - **Melhorar documentação técnica**: Com a nova estrutura unificada, contribuir com melhorias na documentação técnica do projeto, especialmente nos tutoriais de criação de scrapers;
 - **Configurar monitoramento de documentação**: Implementar verificações automáticas de qualidade da documentação (links quebrados, formatação, etc.) no workflow de CI/CD;
 - **Revisar PRs da equipe**: Participar ativamente da revisão de pull requests de outros membros, especialmente aqueles relacionados à nova estrutura de documentação;
+
+---
+
+## Sprint 4 – 23/10/2025 - 05/11/2025
+
+### Resumo da Sprint
+
+A Sprint 4 foi focada em **contribuições de correção e implementação de novos scrapers**. O destaque foi a criação do scraper para o portal **O Imirante** (MA), seguindo a metodologia estabelecida nos tutoriais do projeto. Além disso, contribuí com correções importantes de bugs relacionados à configuração do ambiente de desenvolvimento, melhorando a experiência de novos contribuidores.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                       | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ---------- | --------------------------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 25/10/2025 | Implementação do spider para O Imirante                         | Código                            | -               | Concluído |
+| 28/10/2025 | Implementação do play para O Imirante                           | Código                            | -               | Concluído |
+| 02/11/2025 | Correção de bugs na configuração do ambiente de desenvolvimento | Código                            | -               | Concluído |
+| 04/11/2025 | Documentação e integração do scraper O Imirante                 | Doc                               | -               | Concluído |
+| 04/11/2025 | PR realizado para o web-scraping do Imirante | Código | [PR #34](https://github.com/GCES-EhFake-Fork/checkUp/pull/34) | Concluído
+
+### Maiores Avanços
+
+- **Implementação completa do scraper O Imirante**: Desenvolvido com sucesso tanto o spider quanto o play, conseguindo extrair notícias do portal maranhense com alta taxa de sucesso;
+- **Resolução de bugs críticos de ambiente**: Identifiquei e corrigi problemas importantes na configuração do ambiente que estavam impactando novos contribuidores;
+- **Aplicação consolidada da metodologia**: Utilizei com eficiência os tutoriais estabelecidos, validando novamente a robustez do processo de criação de scrapers;
+- **Melhoria da experiência do desenvolvedor**: As correções de bugs tornaram o setup inicial mais estável e confiável.
+
+### Maiores Dificuldades
+
+- **Análise da estrutura específica do Imirante**: O portal possui algumas peculiaridades na estrutura HTML que exigiram seletores CSS mais específicos;
+- **Debugging de problemas de ambiente**: Identificar as causas raiz dos bugs de configuração exigiu análise detalhada dos logs e dependências;
+- **Balanceamento de prioridades**: Gerenciar o desenvolvimento do novo scraper junto com as correções de bugs existentes;
+- **Compatibilidade entre versões**: Garantir que as correções funcionassem em diferentes ambientes e configurações.
+
+### Aprendizados
+
+- **Depuração sistemática**: Aprimorei técnicas de debugging para identificar rapidamente problemas de configuração em ambientes containerizados;
+- **Análise de estruturas web diversas**: Desenvolvi maior habilidade para adaptar scrapers a diferentes layouts e estruturas HTML;
+- **Importância de correções de ambiente**: Compreendi como bugs de configuração podem impactar significativamente a produtividade da equipe;
+- **Consolidação de conhecimento**: Reforçou minha compreensão da arquitetura de scrapers e do fluxo de desenvolvimento do projeto;
+- **Gestão de múltiplas contribuições**: Aprendi a organizar melhor o trabalho quando lidando com diferentes tipos de tarefas simultaneamente.
+
+### Plano Pessoal para a Próxima Sprint
+
+- **Finalizar implementação do Portal UAI**: Completar o desenvolvimento do scraper multi-domínio mais complexo do projeto, abrangendo 5 domínios diferentes da rede UAI;
+- **Criar PR do scraper O Imirante**: Documentar e submeter pull request com a implementação completa desenvolvida na Sprint 4;
+- **Otimizar performance dos scrapers**: Analisar e melhorar a eficiência dos scrapers implementados, especialmente o UAI que lida com múltiplos domínios;
+- **Contribuir com documentação técnica**: Melhorar tutoriais baseado nas experiências práticas de implementação de scrapers complexos;
+- **Revisar contribuições da equipe**: Participar ativamente da revisão de PRs de outros membros da equipe.
+
+---
+
+## Sprint 5 – 06/11/2025 - 19/11/2025
+
+### Resumo da Sprint
+
+A Sprint 5 foi dedicada à **implementação de scrapers para o Portal UAI** e à **otimização de scrapers existentes**. O principal objetivo foi desenvolver um scraper robusto capaz de lidar com a complexidade e volume de dados do Portal UAI, além de aprimorar a performance e a confiabilidade dos scrapers já implementados.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status       |
+| ---------- | --------------------------------------------------------------------------- | --------------------------------- | --------------- | ------------ |
+| 07/11/2025 | Início da implementação do scraper para o Portal UAI                        | Código                            | -               | Concluído |
+| 10/11/2025 | Continuação da implementação do scraper para o Portal UAI                   | Código                            | -               | Concluído |
+| 15/11/2025 | Otimização de performance dos scrapers existentes                           | Código                            | -               | Concluído     |
+| 17/11/2025 | Atualização da documentação técnica referente ao novo scraper do Portal UAI | Doc                               | -               | Concluído     |
+| 18/11/2025 | Contruibuição com correção de bug de dependências na configuração de ambiente | Código | [Commit no PR #21](https://github.com/GCES-EhFake-Fork/checkUp/pull/21/commits/6fda286517da22c971c1a9b2263b50f6db8148b6) | Concluído
+| 19/11/2025 | Lançamento do Pull Request para o Web-Scraping do Portal Uai | Código | [PR #36](https://github.com/GCES-EhFake-Fork/checkUp/pull/36) | Concluído
+
+### Maiores Avanços
+
+- **Desenvolvimento do scraper para o Portal UAI**: Avanços significativos na implementação de um scraper capaz de navegar e extrair dados de múltiplos domínios da rede UAI;
+- **Otimizações de performance**: Identificação e aplicação de melhorias de performance em scrapers existentes, resultando em execuções mais rápidas e eficientes;
+- **Documentação atualizada**: Manutenção da documentação técnica em dia, refletindo as últimas mudanças e melhorias implementadas nos scrapers.
+
+### Maiores Dificuldades
+
+- **Complexidade do Portal UAI**: O portal possui uma estrutura complexa com múltiplos subdomínios e diferentes formatos de página, exigindo uma abordagem mais elaborada para o scraping;
+- **Testes e validação**: Devido à complexidade e volume de dados, os testes e validações do novo scraper estão levando mais tempo do que o esperado;
+- **Gerenciamento de tempo**: Balancear o tempo entre a implementação do novo scraper e a otimização dos já existentes.
+
+### Aprendizados
+
+- **Scraping de sites complexos**: Aprendi a lidar com a complexidade de sites que possuem múltiplos domínios e estruturas de página variadas;
+- **Técnicas de otimização**: Aprofundei conhecimentos em técnicas de otimização de código e consultas ao banco de dados, melhorando a performance geral dos scrapers;
+- **Importância da documentação**: Reforcei a prática de manter a documentação sempre atualizada, facilitando a manutenção e evolução dos scrapers.
+
+### Plano Pessoal para a Próxima Sprint
+
+_Sem planejamento_
