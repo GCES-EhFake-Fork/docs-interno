@@ -127,14 +127,14 @@ Foco em revisão de PRs da comunidade Check-up, com execução de testes locais 
 
 ### Atividades Realizadas
 
-| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                          | Status    |
-| :--------- | :--------------- | :-------------------------------- | :----------------------------------------------------------------------- | :-------- |
-| 20/10/2025 | Review do PR #21 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/21#issuecomment-3432521557      | Concluído |
-| 21/10/2025 | Review do PR #39 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/39#pullrequestreview-3366075590 | Concluído |
-| 22/10/2025 | Review do PR #38 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/38#pullrequestreview-3366572196 | Concluído |
-| 22/10/2025 | Review do PR #53 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/53#issuecomment-3433160264      | Concluído |
-| 22/10/2025 | Review do PR #65 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/65#pullrequestreview-3366263188 | Concluído |
-| 22/10/2025 | Review do PR #64 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/64#pullrequestreview-3366480859 | Concluído |
+| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                   | Status    |
+| :--------- | :--------------- | :-------------------------------- | :-------------------------------------------------------------------------------- | :-------- |
+| 20/10/2025 | Review do PR #21 | Revisão/Teste                     | [PR#21](https://github.com/EH-FAKE/check-up/pull/21#issuecomment-3432521557)      | Concluído |
+| 21/10/2025 | Review do PR #39 | Revisão/Teste                     | [PR#39](https://github.com/EH-FAKE/check-up/pull/39#pullrequestreview-3366075590) | Concluído |
+| 22/10/2025 | Review do PR #38 | Revisão/Teste                     | [PR#38](https://github.com/EH-FAKE/check-up/pull/38#pullrequestreview-3366572196) | Concluído |
+| 22/10/2025 | Review do PR #53 | Revisão/Teste                     | [PR#53](https://github.com/EH-FAKE/check-up/pull/53#issuecomment-3433160264)      | Concluído |
+| 22/10/2025 | Review do PR #65 | Revisão/Teste                     | [PR#65](https://github.com/EH-FAKE/check-up/pull/65#pullrequestreview-3366263188) | Concluído |
+| 22/10/2025 | Review do PR #64 | Revisão/Teste                     | [PR#64](https://github.com/EH-FAKE/check-up/pull/64#pullrequestreview-3366480859) | Concluído |
 
 ### Maiores Avanços
 
@@ -156,3 +156,43 @@ Foco em revisão de PRs da comunidade Check-up, com execução de testes locais 
 - [ ] Acompanhar respostas dos autores e realizar re-reviews quando necessário.
 - [ ] Revisar novos pull requests.
 - [ ] Identificar e iniciar o próximo portal a ser adicionado.
+
+## Sprints 4 – 23/10/2025 - 19/11/2025
+
+### Resumo da Sprint
+
+Apoiar a equipe na revisão de PRs e implementar novos portais (Cidade Verde e Faxaju), além de resolver conflitos de PRs antigos para manter as contribuições atualizadas com o projeto.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                            | Status    |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| 05/11/2025 | Acompanhamento das respostas e apoio à equipe na identificação e esclarecimento de problemas em PRs revisados               | Discussão/Revisão                 | –                                                                                                          | Concluído |
+| 10/11/2025 | Início dos estudos e mapeamento dos portais Cidade Verde e Faxaju para futura implementação                                 | Estudo                            | –                                                                                                          | Concluído |
+| 19/11/2025 | Implementação dos scrapers/spiders dos portais Cidade Verde e Faxaju                                                        | Código/Teste                      | [PR#80](https://github.com/EH-FAKE/check-up/pull/80), [PR#82](https://github.com/EH-FAKE/check-up/pull/82) | Concluído |
+| 19/11/2025 | Resolução de conflitos em PRs antigos ainda não aceitos, atualizando branches e ajustando código conforme mudanças recentes | Código/Revisão                    | –                                                                                                          | Concluído |
+
+### Maiores Avanços
+
+- Conclusão da implementação dos portais Cidade Verde e Faxaju, ampliando a cobertura de coleta de notícias do projeto.
+- Maior participação no acompanhamento de PRs, ajudando a equipe a entender e resolver problemas apontados nas revisões.
+- Resolução de conflitos de PRs antigos, destravando a possibilidade de merge e mantendo as contribuições atualizadas.
+
+### Maiores Dificuldades
+
+- Tempo de análise inicial dos novos portais até encontrar padrões viáveis para coleta.
+- Lidar com conflitos em PRs mais antigos devido ao volume de mudanças acumuladas no branch principal.
+- Garantir que os novos portais se mantivessem alinhados com os padrões e estrutura dos scrapers já existentes.
+
+### Aprendizados
+
+- Melhores práticas para comunicar problemas encontrados em PRs e apoiar autores na correção.
+- Estratégias iniciais para estudar novos portais (mapeamento de estrutura de HTML, URLs e padrões de conteúdo).
+- Melhores práticas para resolução de conflitos (rebase/merge, análise cuidadosa das mudanças e testes após ajustes).
+- Cuidados ao adicionar novos portais para manter consistência com os scrapers já implementados.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar feedbacks e merge dos PRs #80 e #82.
+- [ ] Monitorar os novos portais implantados e ajustar se surgirem problemas.
+- [ ] Continuar ajudando na resolução de conflitos ou ajustes em PRs pendentes.

@@ -153,3 +153,51 @@ A sprint foi focada em finalizar o desenvolvimento do spider e play para o porta
 
 
 ---
+
+## Sprints 4 e 5 – 23/10/2025 - 19/11/2025
+
+### Resumo da Sprint
+
+A sprint foi focada no desenvolvimento de spiders e plays para dois novos portais de notícias: Agência Brasil e Agência Gov.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                               | Status    |
+| :--------- | :---------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------ | :-------- |
+| 01/11/2025 | Análise e estudo do portal Agência Brasil                   | Estudo                            | -                                                             | Concluído |
+| 02/11/2025 | Desenvolvimento do spider para Agência Brasil               | Código                            | -                                                             | Concluído |
+| 02/11/2025 | Desenvolvimento do play para Agência Brasil                 | Código                            | -                                                             | Concluído |
+| 08/11/2025 | Testes e validação dos dados da Agência Brasil              | Código                            | -                                                             | Concluído |
+| 09/11/2025 | Análise e estudo do portal Agência Gov                      | Estudo                            | -                                                             | Concluído |
+| 15/11/2025 | Desenvolvimento do spider para Agência Gov                  | Código                            | -                                                             | Concluído |
+| 15/11/2025 | Desenvolvimento do play para Agência Gov                    | Código                            | -                                                             | Concluído |
+| 16/11/2025 | Testes e validação dos dados da Agência Gov                 | Código                            | -                                                             | Concluído |
+| 18/11/2025 | Criação da Issue para Agência Brasil                        | Código                            | [Issue #67](https://github.com/EH-FAKE/check-up/issues/67)    | Concluído |
+| 18/11/2025 | Criação da Issue para Agência Gov                           | Código                            | [Issue #68](https://github.com/EH-FAKE/check-up/issues/68)    | Concluído |
+| 18/11/2025 | Criação do PR para Agência Brasil no repositório do projeto | Código                            | [PR #69](https://github.com/EH-FAKE/check-up/pull/69)         | Concluído |
+| 18/11/2025 | Criação do PR para Agência Gov no repositório do projeto    | Código                            | [PR #70](https://github.com/EH-FAKE/check-up/pull/70)         | Concluído |
+| 18/11/2025 | Criação do PR para Agência Brasil no fork do projeto        | Código                            | [PR #32](https://github.com/GCES-EhFake-Fork/checkUp/pull/32) | Concluído |
+| 18/11/2025 | Criação do PR para Agência Gov no fork do projeto           | Código                            | [PR #33](https://github.com/GCES-EhFake-Fork/checkUp/pull/33) | Concluído |
+
+### Maiores Avanços
+
+- Desenvolvimento completo de dois novos portais de notícias para o projeto
+- Aplicação prática dos conhecimentos adquiridos nas sprints anteriores
+- Melhoria na eficiência de desenvolvimento de novos scrapers e plays
+
+### Maiores Dificuldades
+
+- Adaptação às diferentes estruturas HTML dos portais Agência Brasil e Agência Gov
+- Validação dos dados coletados e garantia de qualidade dos scrapers
+
+### Aprendizados
+
+- Aprimoramento na criação de spiders e plays para diferentes fontes de dados
+- Melhoria no processo de testes e validação de dados coletados
+- Consolidação do conhecimento sobre a arquitetura do projeto
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Manter os PRs atualizados conforme merges e feedbacks
+
+---
