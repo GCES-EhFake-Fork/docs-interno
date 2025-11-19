@@ -77,7 +77,7 @@ A sprint foi focada em analisar a organização de GCES da comunidade EH FAKE e 
 
 ---
 
-## Sprint 2 – 25/09/2025 - 08/09/2025
+## Sprint 2 – 25/09/2025 - 08/10/2025
 
 ### Resumo da Sprint
 
@@ -110,3 +110,35 @@ A sprint foi focada em desenvolver a melhoria de de um crawl/scraper, além de a
 
 * [ ] Melhorar conhecimento em testes.
 * [ ] Criar um webscrapping para um jornal não listado
+
+## Sprint 3 – 08/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+A sprint foi focada em desenvolver testes para avaliar a integração e funcionamento dos scrapers.
+
+### Atividades Realizadas
+
+| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
+| ----- | --------------------------- | ------- | --------------- | --------- |
+| 15/10 | Desenvolvimento de comando make para execução dos testes   | Código  | -    | Em andamento |
+| 20/10 | Desenvolvimento de testes para analisar a coleta de informações dos scrapers    | Código | - | Em andamento |
+
+### Maiores Avanços
+
+* Testes automatizados para validar coleta de scrapers
+* Comando simples para executar todos os testes
+
+### Maiores Dificuldades
+
+* Criação dos testes de análise das páginas reais
+
+### Aprendizados
+
+* Testes de integração e testes unitários
+* WebScrapping
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Melhorar conhecimento em testes.
+* [ ] Concluir criação dos testes para os scrapers

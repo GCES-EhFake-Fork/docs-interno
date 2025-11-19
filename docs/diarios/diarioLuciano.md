@@ -108,3 +108,41 @@ Busquei resolver problemas de configuração de ambiente que foram encontrados p
 
 * [ ] Revisar PR's das sprints 1 e 2
 * [ ] Arrumar organização do código
+
+## Sprint 3 – 13/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+Revisão de PRs do repositório Check-up para facilitar revisão pelo metacoach, com revisão de melhorias de CI, links de documentação do repositorio e testes de resolução de bugs relativos a rodar o projeto. Foi feito registro de feedbacks e pedido de alterações de alguns PRs, além de aprovação de outros. Também criado um board para melhor acompanhamento dos PR's.
+
+### Atividades Realizadas
+
+| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                          | Status    |
+| :--------- | :--------------- | :-------------------------------- | :----------------------------------------------------------------------- | :-------- |
+| 20/10/2025 | Review do PR #24 - Aprovado | Revisão/Teste                     | [PR#24](https://github.com/EH-FAKE/check-up/pull/24#pullrequestreview-3357458885) | Concluído |
+| 20/10/2025 | Review do PR #25 - Aprovado | Revisão/Teste                     | [PR#25](https://github.com/EH-FAKE/check-up/pull/25#pullrequestreview-3363549679) | Concluído |
+| 20/10/2025 |Criação Board de acompanhamento de PR's|Doc| Concluído | [Board de PR's](https://github.com/orgs/EH-FAKE/projects/3/views/1) | 
+| 21/10/2025 | Review do PR #49 - Aprovado | Revisão/Teste                     | [PR#49](https://github.com/EH-FAKE/check-up/pull/49#pullrequestreview-3316320629) | Concluído |
+| 22/10/2025 | Review do PR #28 - Solicitado alterações | Revisão/Teste                     | [PR#28](https://github.com/EH-FAKE/check-up/pull/28#pullrequestreview-3358316620) | Concluído |
+
+
+### Maiores Avanços
+
+- Funcionamento da revisão de PR's
+- Melhoria na comunicação com os autores dos PRs, facilitando o alinhamento sobre testes e evidências necessárias.
+
+### Maiores Dificuldades
+
+- Reproduzir cenários específicos por diferenças de ambiente/dados.
+- Dependências entre PRs que postergam o merge de algumas mudanças.
+
+### Aprendizados
+
+- Importância de critérios de aceite claros para PRs (escopo, testes, evidências).
+- Benefícios de um checklist de revisão para acelerar re-reviews.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar respostas dos autores e realizar re-reviews quando necessário.
+- [ ] Revisar novos pull requests.
+- [ ] Revisão e melhoria de documentação

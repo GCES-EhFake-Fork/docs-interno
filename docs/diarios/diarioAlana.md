@@ -118,3 +118,41 @@ Foco na inclusão de um novo portal no fluxo do projeto (Agora no Vale), com an�
 
 - [ ] Acompanhar feedbacks e merge do PR #55.
 - [ ] Identificar e iniciar o próximo portal a ser adicionado.
+
+## Sprint 3 – 13/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+Foco em revisão de PRs da comunidade Check-up, com execução de testes locais dos scrapers/plays e registro de feedbacks objetivos nos PRs.
+
+### Atividades Realizadas
+
+| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                          | Status    |
+| :--------- | :--------------- | :-------------------------------- | :----------------------------------------------------------------------- | :-------- |
+| 20/10/2025 | Review do PR #21 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/21#issuecomment-3432521557      | Concluído |
+| 21/10/2025 | Review do PR #39 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/39#pullrequestreview-3366075590 | Concluído |
+| 22/10/2025 | Review do PR #38 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/38#pullrequestreview-3366572196 | Concluído |
+| 22/10/2025 | Review do PR #53 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/53#issuecomment-3433160264      | Concluído |
+| 22/10/2025 | Review do PR #65 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/65#pullrequestreview-3366263188 | Concluído |
+| 22/10/2025 | Review do PR #64 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/64#pullrequestreview-3366480859 | Concluído |
+
+### Maiores Avanços
+
+- Verificação prática dos scrapers e plays em ambiente local
+- Melhoria na comunicação com os autores dos PRs, facilitando o alinhamento sobre testes e evidências necessárias.
+
+### Maiores Dificuldades
+
+- Reproduzir cenários específicos por diferenças de ambiente/dados.
+- Dependências entre PRs que postergam o merge de algumas mudanças.
+
+### Aprendizados
+
+- Importância de critérios de aceite claros para PRs (escopo, testes, evidências).
+- Benefícios de um checklist de revisão para acelerar re-reviews.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar respostas dos autores e realizar re-reviews quando necessário.
+- [ ] Revisar novos pull requests.
+- [ ] Identificar e iniciar o próximo portal a ser adicionado.

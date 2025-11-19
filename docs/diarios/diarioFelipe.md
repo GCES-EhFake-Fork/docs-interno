@@ -43,9 +43,9 @@ Organização do Grupo em subgrupos (Web-Scrapping e IA) e ambientação com o p
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [X] Entender melhor o guia de Contribuição
-- [X] Propor com a equipe o início da raspagem de algum portal
-- [X] Reunir e alinhas os objetivos com a equipe
+- [x] Entender melhor o guia de Contribuição
+- [x] Propor com a equipe o início da raspagem de algum portal
+- [x] Reunir e alinhas os objetivos com a equipe
 
 ## Sprint 1 – 15/09 - 24/09
 
@@ -87,15 +87,15 @@ Foco em criar os scrapers dos portais Brasil de Fato e Agência Pública para co
 
 ### Resumo da Sprint
 
-Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organização , alguns testes de comunicação entre o front e back da aplicação e implementar algumas ideias de melhora no front 
+Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organização , alguns testes de comunicação entre o front e back da aplicação e implementar algumas ideias de melhora no front
 
 ### Atividades Realizadas
 
-| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
-| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
-| 22/09 | Implementação do Scrapper do portal Brasil de Fato        | Implementação                           | -         | Concluído |
-| 24/09 | Testes e adequação de CI       | Documentação e Teste                           | [PR#16](https://github.com/GCES-EhFake-Fork/checkUp/pull/16)          | Concluído |
-| 08/10 | Criação do Relatório da Sprint 12                                                    | Documentação                               | -                 | Concluído |
+| Data  | Atividade                                          | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                              | Status    |
+| ----- | -------------------------------------------------- | --------------------------------- | ------------------------------------------------------------ | --------- |
+| 22/09 | Implementação do Scrapper do portal Brasil de Fato | Implementação                     | -                                                            | Concluído |
+| 24/09 | Testes e adequação de CI                           | Documentação e Teste              | [PR#16](https://github.com/GCES-EhFake-Fork/checkUp/pull/16) | Concluído |
+| 08/10 | Criação do Relatório da Sprint 12                  | Documentação                      | -                                                            | Concluído |
 
 ### Maiores Avanços
 
@@ -113,5 +113,82 @@ Foquei nessa sprint em melhorar ainda mais a estrututra do projeto e organizaç�
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #16).
+- [x] Acompanhar e endereçar feedbacks até o merge dos PRs (#39 e #16).
 - [ ] Avaliar e iniciar contribuição em um próximo portal.
+
+## Sprint 3 – 09/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+A Sprint 3 teve como foco principal a **documentação do framework de testes automatizados do projeto Check-up**, consolidando o estado atual da cobertura de testes, sua estrutura, ferramentas utilizadas e integração com o pipeline de CI/CD.
+O objetivo foi tornar o ambiente de testes mais compreensível e acessível à equipe, padronizando processos e registrando todas as dependências, estratégias e convenções utilizadas.
+Essa entrega fortalece a base de qualidade do projeto, facilitando futuras contribuições e manutenção do sistema de testes.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                                  | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status    |
+| ---------- | ------------------------------------------------------------------------------------------ | --------------------------------- | ----------------------------------------------------------------- | --------- |
+| 20/10/2025 | Criação de uma documentação descrevendo o estado atual dos testes                          | Documentação                      | [PR#23](https://github.com/GCES-EhFake-Fork/checkUp/pull/23)      | Concluído |
+| 20/10/2025 | Criação de uma Issue de implementação de melhorias na área de testes                       | Documentação                      | [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22) | Concluído |
+| 22/10/2025 | Revisão do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) e adição das contribuições | Discussão/Documentação            | [PR#23](https://github.com/GCES-EhFake-Fork/checkUp/pull/23)      | Concluído |
+
+### Maiores Avanços
+
+- **Documentação centralizada e completa**: Criação de um documento abrangente descrevendo a estrutura dos testes, dependências, estratégias e integração com CI/CD;
+- **Mapeamento da cobertura de testes**: Identificação dos módulos testados (como `BasePlay` e `UOLPlay`), quantificação de métodos e avaliação de lacunas de cobertura;
+- **Padronização de convenções**: Definição clara de padrões de nomenclatura, organização de diretórios e boas práticas para criação de novos testes;
+- **Integração ao fluxo de desenvolvimento**: Consolidação da execução de testes dentro do pipeline automatizado, garantindo execução contínua;
+- **Colaboração ativa na revisão**: Participação direta na revisão cruzada de PRs e integração de contribuições de outros membros da equipe.
+
+### Maiores Dificuldades
+
+- **Curadoria de informações**: Reunir e consolidar dados dispersos sobre os testes exigiu leitura detalhada de múltiplos arquivos e históricos de PRs;
+- **Atualização de referências**: Garantir que todos os exemplos de código, versões de dependências e links estivessem atualizados e coerentes;
+- **Alinhamento entre repositórios**: Ajustar referências e links para refletir corretamente as diferenças entre forks e o repositório principal;
+- **Equilíbrio entre detalhe e clareza**: Redigir uma documentação técnica extensa sem comprometer a legibilidade e objetividade.
+
+### Aprendizados
+
+- **Boas práticas de documentação técnica**: Aprofundamento na escrita de documentação de testes de software voltada para equipes colaborativas;
+- **Compreensão do ecossistema de testes**: Entendimento mais sólido sobre a integração entre pytest, Docker, banco de dados e CI/CD;
+- **Colaboração assíncrona**: Desenvolvimento de habilidades de comunicação e revisão em PRs colaborativos e cross-repo;
+- **Padronização de testes**: Importância de manter consistência entre nomes, estrutura e convenções para facilitar manutenção futura.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar reviews do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) até o merge na branch principal
+- [ ] Implementar melhorias descritas e finalizar a [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22)
+
+## Sprint 4 – 23/10/2025 - 18/11/2025
+
+### Resumo da Sprint
+
+Foco em acompanhar a evolução e refinamentos do **PR#39** (scraper Brasil de Fato / Agência Pública), consolidar o plano de melhorias da área de testes (Issue#22) e iniciar a implementação prática de casos de teste automatizados para scrapers (normalização e campos obrigatórios). Também estrutura inicial para futuras métricas de cobertura de testes no pipeline.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                               | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status       |
+| ---------- | ----------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------- | ------------ |
+| 23/10/2025 | Acompanhamento contínuo e revisão incremental do PR de scrapers (PR#39) | Discussão/Documentação            | [PR#39](https://github.com/EH-FAKE/check-up/pull/39)              | Em andamento |
+| 12/11/2025 | Estudo de gaps de cobertura e requisitos de testes                      | Estudo                            | [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22) | Concluído    |
+| 18/11/2025 | Início da implementação de testes automatizados para scrapers           | Código                            | -                                                                 | Concluído    |
+
+### Maiores Avanços
+
+- Acompanhamento ativo do PR#39, contribuindo com revisões e sugestões para estabilização dos scrapers.
+- Mapeamento detalhado dos gaps de cobertura de testes, com definição clara de critérios para novos casos.
+- Início da implementação de testes automatizados focados em normalização e campos obrigatórios dos scrapers.
+
+### Maiores Dificuldades
+
+- Balancear o tempo entre revisão de PRs e desenvolvimento de novos testes.
+- Definir critérios objetivos para casos de teste em scrapers com diferentes estruturas HTML.
+
+### Aprendizados
+
+- Entendimento da inserção de scrapers na arquitetura geral do projeto.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar reviews do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) até o merge na branch principal
+- [ ] Continuar implementação de casos de teste automatizados para scrapers

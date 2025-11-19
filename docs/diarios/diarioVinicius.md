@@ -94,4 +94,27 @@ Foquei nessa sprint implementar algumas ideias de melhora no front
 ### Plano Pessoal para a Próxima Sprint
 
 * [ ] Adequar um pouco mais para o Mobile
+      
+## Sprint 4 e 5 – 23/10 - 20/11
+
+### Resumo da Sprint
+
+Foquei nessa sprint implementar algumas ideias de melhora no front 
+
+### Atividades Realizadas
+
+| Data  | Atividade                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência | Status    |
+| ----- | ------------------------------------------- | --------------------------------- | --------------- | --------- |
+| 25/10 | Começo da implementação das melhorias de IU do front   | Código/Teste                           | -         | Concluído |
+| 30/10 | Finalização  da implementação das melhorias de IU do front   | Código                        |[PR#72](https://github.com/EH-FAKE/check-up/pull/72)| Concluído |
+| 12/11 | Começo da implementação das imagens para os cards de noticias      | Código                         | -          | Concluído |
+| 19/11 | Finalização da implementação das imagens para os cards de noticias      | Código                           | [PR#74](https://github.com/EH-FAKE/check-up/pull/74)| Concluído |
+
+### Maiores Avanços
+* Consegui adicionar melhorias que deixam o site mais bonito e intuitivo
+* Consegui adicionar um elemento que pode ajudar muito na organização das noticias 
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Adequar um pouco mais para o Mobile
 

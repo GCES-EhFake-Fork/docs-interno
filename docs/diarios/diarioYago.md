@@ -76,6 +76,7 @@ A sprint foi focada em conseguir compreender melhor os crawlers e spider, tendo 
 * [ ] Iniciar o desenvolvimento de um webscrapping para um novo portal.
 * [ ] Contribuir com pelo menos 1 issue.
 
+
 ---
 
 ## Sprint 2 – 29/09/2025 - 08/10/2025
@@ -111,5 +112,44 @@ A sprint foi focada em desenvolver o spider e play para o portal Congresso em Fo
 * [ ] Fazer o Pull Request com as alterações para a Issue [#51](https://github.com/EH-FAKE/check-up/issues/51).
 * [ ] Participar da revisão de código de um colega.
 * [ ] Iniciar o desenvolvimento de um webscrapping para um novo portal.
+
+
+---
+
+## Sprint 3 – 13/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+A sprint foi focada em finalizar o desenvolvimento do spider e play para o portal Congresso em Foco, além de realizar testes e ajustes necessários.
+
+### Atividades Realizadas
+
+| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                          | Status    |
+| :--------- | :--------------- | :-------------------------------- | :----------------------------------------------------------------------- | :-------- |
+| 20/10/2025 | Testes do portal Congresso em Foco | Código | - | Concluído |
+| 21/10/2025 | Ajustes e análise dos dados extráidos | Código | - | Concluído |
+| 22/10/2025 | Revisão e teste final | Código | - | Concluído |
+| 24/10/2025 | Criação do PR no fork do projeto | Código | [PR #30](https://github.com/GCES-EhFake-Fork/checkUp/pull/30) | Concluído |
+| 24/10/2025 | Criação do PR no repositório do projeto | Código | [PR #66](https://github.com/EH-FAKE/check-up/pull/66) | Concluído |
+
+
+### Maiores Avanços
+
+- Verificação prática dos scrapers e plays em ambiente local
+- Melhoria no conhecimento sobre o funcionamento do projeto facilitando a criação de novos scrapers e plays.
+
+### Maiores Dificuldades
+
+- Testes e verificações dos dados coletados dentro do banco de dados.
+
+### Aprendizados
+
+- Melhoria nos testes e verificações dos dados coletados.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Manter o PR atualizado conforme merges e feedbacks.
+- [ ] Criação de play e spider para um novo portal de notícias.
+
 
 ---
