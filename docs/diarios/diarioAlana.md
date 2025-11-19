@@ -127,14 +127,14 @@ Foco em revisão de PRs da comunidade Check-up, com execução de testes locais 
 
 ### Atividades Realizadas
 
-| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                          | Status    |
-| :--------- | :--------------- | :-------------------------------- | :----------------------------------------------------------------------- | :-------- |
-| 20/10/2025 | Review do PR #21 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/21#issuecomment-3432521557      | Concluído |
-| 21/10/2025 | Review do PR #39 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/39#pullrequestreview-3366075590 | Concluído |
-| 22/10/2025 | Review do PR #38 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/38#pullrequestreview-3366572196 | Concluído |
-| 22/10/2025 | Review do PR #53 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/53#issuecomment-3433160264      | Concluído |
-| 22/10/2025 | Review do PR #65 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/65#pullrequestreview-3366263188 | Concluído |
-| 22/10/2025 | Review do PR #64 | Revisão/Teste                     | https://github.com/EH-FAKE/check-up/pull/64#pullrequestreview-3366480859 | Concluído |
+| Data       | Atividade        | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                   | Status    |
+| :--------- | :--------------- | :-------------------------------- | :-------------------------------------------------------------------------------- | :-------- |
+| 20/10/2025 | Review do PR #21 | Revisão/Teste                     | [PR#21](https://github.com/EH-FAKE/check-up/pull/21#issuecomment-3432521557)      | Concluído |
+| 21/10/2025 | Review do PR #39 | Revisão/Teste                     | [PR#39](https://github.com/EH-FAKE/check-up/pull/39#pullrequestreview-3366075590) | Concluído |
+| 22/10/2025 | Review do PR #38 | Revisão/Teste                     | [PR#38](https://github.com/EH-FAKE/check-up/pull/38#pullrequestreview-3366572196) | Concluído |
+| 22/10/2025 | Review do PR #53 | Revisão/Teste                     | [PR#53](https://github.com/EH-FAKE/check-up/pull/53#issuecomment-3433160264)      | Concluído |
+| 22/10/2025 | Review do PR #65 | Revisão/Teste                     | [PR#65](https://github.com/EH-FAKE/check-up/pull/65#pullrequestreview-3366263188) | Concluído |
+| 22/10/2025 | Review do PR #64 | Revisão/Teste                     | [PR#64](https://github.com/EH-FAKE/check-up/pull/64#pullrequestreview-3366480859) | Concluído |
 
 ### Maiores Avanços
 
@@ -165,13 +165,13 @@ Foco em revalidar os portais já implementados (scraper e spider), apoiar a equi
 
 ### Atividades Realizadas
 
-| Data       | Atividade                                                                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                            | Status    |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| Data       | Atividade                                                                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                                                                                  | Status    |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | 28/10/2025 | Reteste dos portais ajustados anteriormente para garantir que scraper e spider ainda funcionam corretamente                 | Teste/Código                      | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#55](https://github.com/EH-FAKE/check-up/pull/55) | Concluído |
-| 05/11/2025 | Acompanhamento das respostas e apoio à equipe na identificação e esclarecimento de problemas em PRs revisados               | Discussão/Revisão                 | –                                                                                                          | Concluído |
-| 10/11/2025 | Início dos estudos e mapeamento dos portais Cidade Verde e Faxaju para futura implementação                                 | Estudo                            | –                                                                                                          | Concluído |
-| 19/11/2025 | Implementação dos scrapers/spiders dos portais Cidade Verde e Faxaju                                                        | Código/Teste                      | [PR#80](https://github.com/EH-FAKE/check-up/pull/80), [PR#82](https://github.com/EH-FAKE/check-up/pull/82) | Concluído |
-| 19/11/2025 | Resolução de conflitos em PRs antigos ainda não aceitos, atualizando branches e ajustando código conforme mudanças recentes | Código/Revisão                    | –                                                                                                          | Concluído |
+| 05/11/2025 | Acompanhamento das respostas e apoio à equipe na identificação e esclarecimento de problemas em PRs revisados               | Discussão/Revisão                 | –                                                                                                                                                                | Concluído |
+| 10/11/2025 | Início dos estudos e mapeamento dos portais Cidade Verde e Faxaju para futura implementação                                 | Estudo                            | –                                                                                                                                                                | Concluído |
+| 19/11/2025 | Implementação dos scrapers/spiders dos portais Cidade Verde e Faxaju                                                        | Código/Teste                      | [PR#80](https://github.com/EH-FAKE/check-up/pull/80), [PR#82](https://github.com/EH-FAKE/check-up/pull/82)                                                       | Concluído |
+| 19/11/2025 | Resolução de conflitos em PRs antigos ainda não aceitos, atualizando branches e ajustando código conforme mudanças recentes | Código/Revisão                    | –                                                                                                                                                                | Concluído |
 
 ### Maiores Avanços
 
