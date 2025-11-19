@@ -156,3 +156,48 @@ Foco em revisão de PRs da comunidade Check-up, com execução de testes locais 
 - [ ] Acompanhar respostas dos autores e realizar re-reviews quando necessário.
 - [ ] Revisar novos pull requests.
 - [ ] Identificar e iniciar o próximo portal a ser adicionado.
+
+## Sprints 4 e 5 – 23/10/2025 - 19/11/2025
+
+### Resumo da Sprint
+
+Foco em revalidar os portais já implementados (scraper e spider), apoiar a equipe na revisão de PRs e implementar novos portais (Cidade Verde e Faxaju), além de resolver conflitos de PRs antigos para manter as contribuições atualizadas com o projeto.
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                                                                                   | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                                                            | Status    |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------- |
+| 28/10/2025 | Reteste dos portais ajustados anteriormente para garantir que scraper e spider ainda funcionam corretamente                 | Teste/Código                      | [PR#33](https://github.com/EH-FAKE/check-up/pull/33), [PR#36](https://github.com/EH-FAKE/check-up/pull/36), [PR#55](https://github.com/EH-FAKE/check-up/pull/55) | Concluído |
+| 05/11/2025 | Acompanhamento das respostas e apoio à equipe na identificação e esclarecimento de problemas em PRs revisados               | Discussão/Revisão                 | –                                                                                                          | Concluído |
+| 10/11/2025 | Início dos estudos e mapeamento dos portais Cidade Verde e Faxaju para futura implementação                                 | Estudo                            | –                                                                                                          | Concluído |
+| 19/11/2025 | Implementação dos scrapers/spiders dos portais Cidade Verde e Faxaju                                                        | Código/Teste                      | [PR#80](https://github.com/EH-FAKE/check-up/pull/80), [PR#82](https://github.com/EH-FAKE/check-up/pull/82) | Concluído |
+| 19/11/2025 | Resolução de conflitos em PRs antigos ainda não aceitos, atualizando branches e ajustando código conforme mudanças recentes | Código/Revisão                    | –                                                                                                          | Concluído |
+
+### Maiores Avanços
+
+- Garantia de que os portais já implementados continuam funcionando após mudanças no projeto.
+- Conclusão da implementação dos portais Cidade Verde e Faxaju, ampliando a cobertura de coleta de notícias do projeto.
+- Maior participação no acompanhamento de PRs, ajudando a equipe a entender e resolver problemas apontados nas revisões.
+- Resolução de conflitos de PRs antigos, destravando a possibilidade de merge e mantendo as contribuições atualizadas.
+
+### Maiores Dificuldades
+
+- Necessidade de rodar novamente os fluxos completos de scraping/spider para validar mudanças recentes.
+- Tempo de análise inicial dos novos portais até encontrar padrões viáveis para coleta.
+- Lidar com conflitos em PRs mais antigos devido ao volume de mudanças acumuladas no branch principal.
+- Garantir que os novos portais se mantivessem alinhados com os padrões e estrutura dos scrapers já existentes.
+
+### Aprendizados
+
+- Importância de revalidar periodicamente scrapers e spiders já existentes, principalmente após alterações no projeto.
+- Melhores práticas para comunicar problemas encontrados em PRs e apoiar autores na correção.
+- Estratégias iniciais para estudar novos portais (mapeamento de estrutura de HTML, URLs e padrões de conteúdo).
+- Melhores práticas para resolução de conflitos (rebase/merge, análise cuidadosa das mudanças e testes após ajustes).
+- Importância de manter branches e PRs sempre atualizados com a `develop` para reduzir problemas futuros.
+- Cuidados ao adicionar novos portais para manter consistência com os scrapers já implementados.
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Acompanhar feedbacks e merge dos PRs #80 e #82.
+- [ ] Monitorar os novos portais implantados e ajustar se surgirem problemas.
+- [ ] Continuar ajudando na resolução de conflitos ou ajustes em PRs pendentes.
