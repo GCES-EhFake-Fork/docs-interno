@@ -124,9 +124,70 @@ Nesta sprint o foco foi na **análise técnica aprofundada** dos repositórios d
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] **Melhorar a correção do Estadão** no ambiente de desenvolvimento
-- [ ] **Testar e validar** a solução com as métricas definidas (70%+ taxa de extração)
-- [ ] **Fechar o PR** com a correção do Estadão no repositório original
-- [ ] **Iniciar correção do próximo portal**
-- [ ] **Contribuir com melhorias** no sistema de monitoramento de scrapers quebrados
-- [ ] **Documentar processo** de manutenção preventiva para evitar quebras futuras
+- [x] **Melhorar a correção do Estadão** no ambiente de desenvolvimento
+- [x] **Testar e validar** a solução com as métricas definidas (70%+ taxa de extração)
+- [x] **Fechar o PR** com a correção do Estadão no repositório original
+- [x] **Iniciar correção do próximo portal**
+- [x] **Contribuir com melhorias** no sistema de monitoramento de scrapers quebrados
+- [x] **Documentar processo** de manutenção preventiva para evitar quebras futuras
+
+## Sprint 3 – 13/10/2025 - 22/10/2025
+
+### Resumo da Sprint
+
+Nesta sprint, o foco principal foi a implementação das oportunidades de melhoria identificadas nas sprints anteriores, especialmente no que diz respeito à confiabilidade e manutenibilidade do projeto Check Up. Foram implementados dois sistemas críticos: o sistema de monitoramento e alertas para os scrapers, visando a detecção automática de falhas e degradação da saúde dos scrapers em execução; e um sistema de versionamento e gestão de seletores CSS, para oferecer histórico, fallback automático e maior resiliência diante das frequentes mudanças nas páginas web que são alvo do scraping.
+
+Essas implementações representam um avanço significativo para a Engenharia e Gerência de Configuração do projeto, melhorando tanto a capacidade de operação contínua quanto o controle sobre mudanças e recuperação rápida em caso de falhas.
+
+---
+
+### Atividades Realizadas
+
+| Data       | Atividade                                                               | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                             | Status    |
+| ---------- | ----------------------------------------------------------------------- | --------------------------------- | ------------------------------------------- | --------- |
+| 03/11/2025 | Implementação do módulo de monitoramento e alertas dos scrapers         | Código                            | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+| 06/11/2025 | Integração do sistema de alertas com Slack para notificações            | Código                            | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+| 08/11/2025 | Desenvolvimento do módulo de versionamento e histórico de seletores CSS | Código                            | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+| 12/11/2025 | Integração do versionamento de seletores com os spiders do Scrapy       | Código                            | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+| 14/11/2025 | Testes manuais e correções iniciais dos módulos implementados           | Testes                            | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+| 16/11/2025 | Documentação técnica dos novos sistemas no repositório                  | Documentação                      | https://github.com/EH-FAKE/check-up/pull/84 | Concluído |
+
+---
+
+### Maiores Avanços
+
+- Implementação completa do sistema de monitoramento para saúde dos scrapers com métricas detalhadas e alertas automáticos via Slack.
+- Desenvolvimento de um mecanismo robusto de versionamento para seletores CSS, permitindo histórico, fallback automático e marcação de seletores quebrados.
+- Melhoria significativa da resiliência dos scrapers, facilitando manutenção e prevenindo falhas silenciosas.
+- Integração dos novos sistemas com as pipelines existentes, garantindo mínimo impacto para o fluxo atual.
+- Documentação clara e organizada que facilita a contribuição e entendimento futuro da equipe e da comunidade.
+
+---
+
+### Maiores Dificuldades
+
+- Ajustar a integração do sistema de alertas ao ambiente do projeto com restrições de permissões e configurações de canais.
+- Garantir a compatibilidade do versionamento dos seletores com spiders já existentes, sobretudo no uso do Scrapy e suas formas de extração.
+- Adaptar os testes manuais para verificar casos onde o fallback automático dos seletores é necessário, dada a variabilidade das páginas.
+- Gerenciar o tempo para documentar todas as etapas da implementação e garantir padrões consistentes.
+
+---
+
+### Aprendizados
+
+- Compreendi melhor o valor de sistemas de monitoramento pró-ativos em projetos de scraping, especialmente diante de portais web dinâmicos.
+- Validei técnicas eficazes de versionamento e fallback de CSS selectors como forma prática de melhorar estabilidade.
+- Aprendi a integrar serviços externos de alertas (Slack) para garantir comunicação imediata da equipe frente a falhas.
+- Entendi a importância de documentação contínua para garantir que novas implementações sejam acessíveis a novos contribuidores.
+- Reforcei conhecimentos sobre testes focados em variabilidade de fontes externas e comportamento dinâmico de páginas web.
+
+---
+
+### Plano Pessoal para a Próxima Sprint
+
+- [ ] Realizar testes automatizados e de carga para validar o monitoramento em ambientes de produção simulados.
+- [ ] Planejar e iniciar a implementação do sistema de rate limiting inteligente e circuit breaker para os scrapers.
+- [ ] Concluir integração do versionamento de seletores com outras fontes além do Estadão.
+- [ ] Trabalhar na automatização dos testes para os spiders, com foco em evitar regressões.
+- [ ] Monitorar feedback dos mantenedores após submissão de PRs referentes às melhorias implementadas.
+- [ ] Continuar documentação do processo e melhoria da governança na equipe e comunidade.
