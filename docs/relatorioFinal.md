@@ -1,5 +1,3 @@
-Relatório Final GCES
-
 ### Resumo por Sprint
 
 #### Sprint 0 (02/09 – 10/09)
