@@ -1,0 +1,67 @@
+Relatório Final GCES
+
+### Resumo por Sprint
+
+#### Sprint 0 (02/09 – 10/09)
+
+- Foco total em ambientação: criação do repositório interno ([PR#2](https://github.com/GCES-EhFake-Fork/docs-interno/pull/2), [PR#4](https://github.com/GCES-EhFake-Fork/docs-interno/pull/4)), definição de guia/código de conduta e registro dos diários.
+- Dificultada persistente: vários membros ainda enfrentavam falhas de Docker/Playwright ao final da sprint.
+
+#### Sprint 1 (15/09 – 24/09)
+
+- Prioridades: primeiros scrapers (Globo, Terra, Brasil de Fato, Agência Pública) e fortalecimento do fluxo de GCES ([Issue#22](https://github.com/EH-FAKE/check-up/issues/22), [Issue#30](https://github.com/EH-FAKE/check-up/issues/30); [PR#21](https://github.com/EH-FAKE/check-up/pull/21), [PR#24](https://github.com/EH-FAKE/check-up/pull/24), [PR#28](https://github.com/EH-FAKE/check-up/pull/28), [PR#29](https://github.com/EH-FAKE/check-up/pull/29)).
+- Destaques: [PR#33](https://github.com/EH-FAKE/check-up/pull/33)/[PR#36](https://github.com/EH-FAKE/check-up/pull/36) (Globo/Terra) e [PR#39](https://github.com/EH-FAKE/check-up/pull/39)/[PR#40](https://github.com/EH-FAKE/check-up/pull/40) (Brasil de Fato/Agência Pública). [PR#41](https://github.com/GCES-EhFake-Fork/docs-interno/pull/41) consolidou o relatório.
+- Pendente: [PR#39](https://github.com/EH-FAKE/check-up/pull/39) permaneceu em revisão por falta de disponibilidade de parte da equipe.
+
+#### Sprint 2 (29/09 – 08/10)
+
+- Prioridades: estabilizar scrapers existentes ([PR#38](https://github.com/EH-FAKE/check-up/pull/38), [PR#49](https://github.com/EH-FAKE/check-up/pull/49)) e concluir Jornal de Brasília ([Issue#50](https://github.com/EH-FAKE/check-up/issues/50) / [PR#53](https://github.com/EH-FAKE/check-up/pull/53)) enquanto novos portais (Congresso em Foco, Agora no Vale) ganhavam forma.
+- Destaques: correção de build ([PR#44](https://github.com/EH-FAKE/check-up/pull/44)), spider/play Cada Minuto ([fe58f798](https://github.com/GCES-EhFake-Fork/checkUp/commit/fe58f79849de5f9f1b8688735fc49ffcfd8240c5)/[55ac5f5a](https://github.com/GCES-EhFake-Fork/checkUp/commit/55ac5f5ad44168c01f15d3790360ec90127e8bca)) e início do portal Agora no Vale ([PR#55](https://github.com/EH-FAKE/check-up/pull/55)).
+- Pendente: [Issue#51](https://github.com/EH-FAKE/check-up/issues/51) (Congresso em Foco) seguiu em validação, assim como a [Issue#45](https://github.com/EH-FAKE/check-up/issues/45) sobre documentação de segurança.
+
+#### Sprint 3 (09/10 – 22/10)
+
+- Prioridades: centralizar documentação ([Issue#63](https://github.com/EH-FAKE/check-up/issues/63)/[PR#62](https://github.com/EH-FAKE/check-up/pull/62)), definir framework de testes (issue interna / [PR#23](https://github.com/GCES-EhFake-Fork/checkUp/pull/23)) e expandir portais ([PR#64](https://github.com/EH-FAKE/check-up/pull/64)/[PR#65](https://github.com/EH-FAKE/check-up/pull/65)) e front-end ([PR#58](https://github.com/EH-FAKE/check-up/pull/58)/[PR#60](https://github.com/EH-FAKE/check-up/pull/60)).
+- Destaques: merge da branch `documentation`, criação do board público de PRs e finalização do portal Congresso em Foco ([PR#66](https://github.com/EH-FAKE/check-up/pull/66)).
+- Pendente: suíte automatizada ainda não concluída; [PR#39](https://github.com/EH-FAKE/check-up/pull/39) e ajustes de plays continuaram aguardando re-reviews.
+
+#### Sprint 4 (23/10 – 19/11)
+
+- Prioridades: novos portais (Cidade Verde, Faxaju, Agência Brasil, Agência Gov, Polêmica Paraíba, Carta Capital, UAI, Imirante) e robustez operacional ([Issue#85](https://github.com/EH-FAKE/check-up/issues/85)/[PR#86](https://github.com/EH-FAKE/check-up/pull/86)).
+- Destaques: [PR#80](https://github.com/EH-FAKE/check-up/pull/80)/[PR#82](https://github.com/EH-FAKE/check-up/pull/82) (Cidade Verde/Faxaju), [PR#69](https://github.com/EH-FAKE/check-up/pull/69)/[PR#70](https://github.com/EH-FAKE/check-up/pull/70) (Agência Brasil/Gov), [PR#88](https://github.com/EH-FAKE/check-up/pull/88)/[PR#90](https://github.com/EH-FAKE/check-up/pull/90) (Polêmica Paraíba/Carta Capital), [PR#34](https://github.com/GCES-EhFake-Fork/checkUp/pull/34)/[PR#36](https://github.com/GCES-EhFake-Fork/checkUp/pull/36) (Imirante/UAI no fork), [PR#72](https://github.com/EH-FAKE/check-up/pull/72)/[PR#74](https://github.com/EH-FAKE/check-up/pull/74) (front-end) e correções finais do [PR#53](https://github.com/EH-FAKE/check-up/pull/53).
+- Pendente: plano de testes da [Issue#22](https://github.com/EH-FAKE/check-up/issues/22) evoluiu lentamente e o [PR#39](https://github.com/EH-FAKE/check-up/pull/39) só avançou após múltiplos acompanhamentos.
+
+### Métricas individuais (commits, issues e PRs/MRs)
+
+Os números abaixo foram extraídos diretamente dos diários e consideram apenas itens explicitamente registrados pelos integrantes (quando não informado no diário, o valor permanece zero).
+
+| Integrante     | Commits | PRs/MRs                                                                                                                                                                                                                                                            | Principais entregas                                                                                                             |
+| -------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Alana          | 30      | [#33](https://github.com/EH-FAKE/check-up/pull/33), [#36](https://github.com/EH-FAKE/check-up/pull/36), [#55](https://github.com/EH-FAKE/check-up/pull/55), [#80](https://github.com/EH-FAKE/check-up/pull/80), [#82](https://github.com/EH-FAKE/check-up/pull/82) | Scrapers dos portais Globo, Terra, Agora no Vale, Cidade Verde e Faxaju; Revisões de PR's; Relização dos relatórios das sprints |
+| Ana Catarina   |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Carlos         |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Daniel         |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Eduardo        |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Felipe         |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Gabriel        |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Lua            |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Luciano        |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Mateus Levy    |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Pedro Ferreira |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Pedro Silva    |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Vinicius       |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+| Yago           |         |                                                                                                                                                                                                                                                                    |                                                                                                                                 |
+
+### Tomadas de decisão e organização da equipe
+
+- Guias de contribuição, código de conduta e novos templates (PRs #21, #24, #28 e #29) foram priorizados coletivamente para padronizar branches, mensagens e fluxos de review.
+- A equipe optou por migrar toda a documentação para o repositório principal por meio da issue #63/PR #62, criando a branch `documentation` para manter histórico e CI próprios.
+- Foi criado um board público de PRs para coordenar revisões e garantir rastreabilidade das pendências, reduzindo duplicidades de issues e PRs.
+- As decisões técnicas de qualidade (issue #22 para testes, scripts Make para execução de suites e a introdução do middleware de monitoramento/rate limiting nas issues #30/#42/#85) foram realizadas de forma colaborativa, elevando o nível de governança do projeto.
+
+### Dificuldades recorrentes
+
+- Ambientação e setup consumiram boa parte da sprint 0: múltiplos diários relataram erros de permissão em Docker, dependências do Playwright e falta de clareza sobre o repositório base.
+- Ajuste de seletores e scraping resiliente foram desafios constantes (Globo/Terra, Poder360, Cada Minuto, Polêmica Paraíba, Carta Capital), exigindo revisões frequentes e esforço para lidar com paywalls e layouts inconsistentes.
+- A validação manual dos dados coletados e a ausência de fixtures/testes automatizados encareceram re-reviews (issue #22 e relatos de Yago, Carlos e Felipe).
+- Dependências externas e monitoramento insuficiente motivaram a criação de sistemas auxiliares (Gabriel com PRs #84/#86) para lidar com rate limiting e quedas silenciosas.
