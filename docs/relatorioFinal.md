@@ -29,9 +29,7 @@
 - Destaques: [PR#80](https://github.com/EH-FAKE/check-up/pull/80)/[PR#82](https://github.com/EH-FAKE/check-up/pull/82) (Cidade Verde/Faxaju), [PR#69](https://github.com/EH-FAKE/check-up/pull/69)/[PR#70](https://github.com/EH-FAKE/check-up/pull/70) (Agência Brasil/Gov), [PR#88](https://github.com/EH-FAKE/check-up/pull/88)/[PR#90](https://github.com/EH-FAKE/check-up/pull/90) (Polêmica Paraíba/Carta Capital), [PR#34](https://github.com/GCES-EhFake-Fork/checkUp/pull/34)/[PR#36](https://github.com/GCES-EhFake-Fork/checkUp/pull/36) (Imirante/UAI no fork), [PR#72](https://github.com/EH-FAKE/check-up/pull/72)/[PR#74](https://github.com/EH-FAKE/check-up/pull/74) (front-end) e correções finais do [PR#53](https://github.com/EH-FAKE/check-up/pull/53).
 - Pendente: plano de testes da [Issue#22](https://github.com/EH-FAKE/check-up/issues/22) evoluiu lentamente e o [PR#39](https://github.com/EH-FAKE/check-up/pull/39) só avançou após múltiplos acompanhamentos.
 
-### Métricas individuais (commits, issues e PRs/MRs)
-
-Os números abaixo foram extraídos diretamente dos diários e consideram apenas itens explicitamente registrados pelos integrantes (quando não informado no diário, o valor permanece zero).
+### Métricas individuais
 
 | Integrante     | Commits | PRs/MRs                                                                                                                                                                                                                                                            | Principais entregas                                                                                                             |
 | -------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
