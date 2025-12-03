@@ -83,3 +83,34 @@ O principal objetivo desta sprint foi desenvolver os scrapers dos portais **Bras
 
 - [ ] Acompanhar e aplicar os feedbacks dos PRs (#39 e #40) até o merge.
 - [ ] Avaliar e iniciar a contribuição em um novo portal.
+
+## Sprint 2 – 25/09/2025 - 08/10/2025
+
+### Resumo da Sprint
+
+A sprint foi focada em desenvolver a melhoria de de um crawl/scraper, além de ajustar um erro de configuração do playwright.
+
+### Atividades Realizadas
+
+| Data  | Atividade                   | Tipo    | Link/Referência | Status    |
+| ----- | --------------------------- | ------- | --------------- | --------- |
+| 08/10 | Correção dos arquivos de configuração de ambiente    | Código | - | Concluído |
+| 08/10 | Revisão de PRs de documentos internos    | Documentação | - | Concluído |
+
+### Maiores Avanços
+
+* Correção da configuração de ambiente
+
+### Maiores Dificuldades
+
+* Configuração do dockerfile
+
+### Aprendizados
+
+* Aprendizado sobre configuração de ambiente Docker
+* WebScrapping
+
+### Plano Pessoal para a Próxima Sprint
+
+* [ ] Melhorar conhecimento em testes.
+* [ ] Criar um webscrapping para um jornal não listado
