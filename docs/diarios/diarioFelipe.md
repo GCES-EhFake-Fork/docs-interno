@@ -170,6 +170,7 @@ Foco em acompanhar a evolução e refinamentos do **PR#39** (scraper Brasil de F
 | Data       | Atividade                                                               | Tipo (Código/Doc/Discussão/Outro) | Link/Referência                                                   | Status       |
 | ---------- | ----------------------------------------------------------------------- | --------------------------------- | ----------------------------------------------------------------- | ------------ |
 | 23/10/2025 | Acompanhamento contínuo e revisão incremental do PR de scrapers (PR#39) | Discussão/Documentação            | [PR#39](https://github.com/EH-FAKE/check-up/pull/39)              | Em andamento |
+| 23/10/2025 | Revisão incremental dos PRs de scrapers (PR#80, PR#81).                 | Revisao                           | [PR#80](https://github.com/EH-FAKE/check-up/pull/80), [PR#81](https://github.com/EH-FAKE/check-up/pull/81)             | Concluido | 
 | 12/11/2025 | Estudo de gaps de cobertura e requisitos de testes                      | Estudo                            | [Issue#22](https://github.com/GCES-EhFake-Fork/checkUp/issues/22) | Concluído    |
 | 18/11/2025 | Início da implementação de testes automatizados para scrapers           | Código                            | -                                                                 | Concluído    |
 
@@ -190,5 +191,5 @@ Foco em acompanhar a evolução e refinamentos do **PR#39** (scraper Brasil de F
 
 ### Plano Pessoal para a Próxima Sprint
 
-- [ ] Acompanhar reviews do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) até o merge na branch principal
+- [x] Acompanhar reviews do [PR#39](https://github.com/EH-FAKE/check-up/pull/39) até o merge na branch principal
 - [ ] Continuar implementação de casos de teste automatizados para scrapers
